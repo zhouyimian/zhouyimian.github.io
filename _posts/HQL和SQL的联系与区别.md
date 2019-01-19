@@ -4,7 +4,7 @@ title:      HQL和SQL的联系与区别
 subtitle:   HQL和SQL
 date:       2019-01-19
 author:     BY
-header-img: img/charlotte/charlotte.jpg
+header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
     - 大数据

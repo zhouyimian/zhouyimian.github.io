@@ -1,18 +1,17 @@
 ---
 layout:     post
-title:      HQL和SQL的联系与区别
-subtitle:   HQL和SQL
-date:       2019-01-19
+title:      ReactiveCocoa 进阶
+subtitle:   函数式编程框架 ReactiveCocoa 进阶
+date:       2017-01-06
 author:     BY
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    - 大数据
-    - Hive
+    - iOS
+    - ReactiveCocoa
+    - 函数式编程
+    - 开源框架
 ---
-
->**BYPhoneNumTF** HQL和SQL的联系与区别
-
 ####   联系
 
 >  Hive提供了HQL(Hive查询语言)，语法和SQL语句相似，可以用于查询Hadoop集群中的数据，HQL在底层转   换成了MR程序，方便开发人员和数据库管理员进行管理。

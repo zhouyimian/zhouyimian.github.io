@@ -3,7 +3,7 @@ layout:     post
 title:      HQL和SQL的联系与区别
 subtitle:   HQL和SQL
 date:       2019-01-19
-author:     BY KiloMeter
+author:     BY
 header-img: img/charlotte/charlotte.jpg
 catalog: true
 tags:

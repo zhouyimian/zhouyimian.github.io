@@ -1,10 +1,14 @@
 ---
 layout:     post
 title:      HQL和SQL的联系与区别
+subtitle:   HQL和SQL
 date:       2019-01-19
-author:     KiloMeter
+author:     BY KiloMeter
 header-img: img/charlotte/charlotte.jpg
 catalog: true
+tags:
+    - 大数据
+    - Hive
 ---
 
 

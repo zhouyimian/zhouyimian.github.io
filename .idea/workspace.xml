@@ -2,61 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-01-21-Typora比较常用的语法.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-19-HQL和SQL的联系与区别.md" afterPath="$PROJECT_DIR$/_posts/2019-01-19-HQL和SQL的联系与区别.md" />
-      <change beforePath="$PROJECT_DIR$/img/BY_bolg_logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/about-BY-gentle.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/avatar-by.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/avatar_g.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/avatar_m.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/home-bg-art.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/home-bg-geek.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/home-bg-o.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/home-bg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-2015.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-BJJ.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-YesOrNo.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-alibaba.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-android.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-coffee.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-cook.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-debug.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-desk.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-digital-native.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-e2e-ux.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-github-cup.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-hacker.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-iWatch.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-ios10.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-ios9-web.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-ioses.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-js-version.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-keybord.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-kuaidi.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-map.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-miui-ux.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-miui6.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-6.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-os-metro.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-re-vs-ng2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-rwd.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-swift.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-swift2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-universe.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-unix-linux.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-sample-image.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/readme-home.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/readme-side.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/tag-bg-o.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/tag-bg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="$PROJECT_DIR$/pwa/manifest.json" afterPath="$PROJECT_DIR$/pwa/manifest.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -87,16 +38,50 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-01-21-Typora比较常用的语法.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manifest.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pwa/manifest.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-01-21-Typora比较常用的语法.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-01-21-Typora比较常用的语法.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="243">
-                <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+              <first_editor relative-caret-position="189">
+                <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
                 <folding />
               </first_editor>
               <second_editor />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="57d8e5540c95f.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/charlotte/57d8e5540c95f.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wechatHead.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/wechatHead.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -125,9 +110,14 @@
       <find>qiubaiying</find>
       <find>jianshu</find>
       <find>post-bg</find>
+      <find>BY Blog</find>
+      <find>KM BLOB</find>
+      <find>Thinking will not overcome fear but action will.</find>
+      <find>BY BLog</find>
     </findStrings>
     <replaceStrings>
       <replace>zhouyimian</replace>
+      <replace>KM BLog</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -147,6 +137,7 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2019-01-19-HQL和SQL的联系与区别.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-21-Typora比较常用的语法.md" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -231,6 +222,11 @@
               <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="charlotte" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="pwa" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -376,7 +372,7 @@
       <workItem from="1547912223946" duration="4779000" />
       <workItem from="1547962885786" duration="2287000" />
       <workItem from="1548077461887" duration="478000" />
-      <workItem from="1548080897163" duration="1900000" />
+      <workItem from="1548080897163" duration="2601000" />
     </task>
     <task id="LOCAL-00001" summary="删除了原来的文章">
       <created>1547725344508</created>
@@ -448,14 +444,22 @@
       <option name="project" value="LOCAL" />
       <updated>1547964426845</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2019-01-21-Typora比较常用的语法">
+      <created>1548084756777</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1548084756778</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14414000" />
+    <option name="totallyTimeSpent" value="15115000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -470,7 +474,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19762419" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19762419" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -511,9 +515,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-05-5分钟带你看完-WWDC-2018.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2016-11-15-iOS噪音计模型.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2016-10-18-Xcode-Debug-大全.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2016-10-10-iOS-手势与变形.md" />
     <entry file="file://$PROJECT_DIR$/_posts/HQL和SQL的联系与区别.md" />
     <entry file="file://$PROJECT_DIR$/LICENSE">
@@ -721,11 +722,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/charlotte/57d8e5540c95f.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -740,11 +736,6 @@
           <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/charlotte/57d8e5583272d.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-19-HQL和SQL的联系与区别.md">
@@ -766,11 +757,42 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-21-Typora比较常用的语法.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="243">
-            <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <first_editor relative-caret-position="189">
+            <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/wechatHead.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/charlotte/57d8e5540c95f.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/charlotte/57d8e5583272d.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pwa/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>

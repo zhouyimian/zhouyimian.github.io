@@ -2,35 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-01-24-编译原理绪论.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-24-编译原理绪论/4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-24-编译原理绪论/三地址指令的四元式表达.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-24-编译原理绪论/中间代码生成.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-24-编译原理绪论/分析树.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-24-编译原理绪论/常用的三地址指令.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-24-编译原理绪论/编译器的结构.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-24-编译原理绪论/翻译的过程.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-24-编译原理绪论/词法分析.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-24-编译原理绪论/语义分析.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-24-编译原理绪论/语法分析.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-21-Typora比较常用的语法.md" afterPath="$PROJECT_DIR$/_posts/2019-01-21-Typora比较常用的语法.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-22-Zookeeper概念、原理、应用场景.md" afterPath="$PROJECT_DIR$/_posts/2019-01-22-Zookeeper概念、原理、应用场景.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-23-Zookeeper环境的搭建以及简单测试.md" afterPath="$PROJECT_DIR$/_posts/2019-01-23-Zookeeper环境的搭建以及简单测试.md" />
-      <change beforePath="$PROJECT_DIR$/img/2019-1-22-Zookeeper概念、原理、应用场景/9.jpg" afterPath="$PROJECT_DIR$/img/2019-01-22-Zookeeper概念、原理、应用场景/9.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/2019-1-22-Zookeeper概念、原理、应用场景/Zookeeper同步流程.png" afterPath="$PROJECT_DIR$/img/2019-01-22-Zookeeper概念、原理、应用场景/Zookeeper同步流程.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-1-22-Zookeeper概念、原理、应用场景/zookeeper是如何选取主leader的1.png" afterPath="$PROJECT_DIR$/img/2019-01-22-Zookeeper概念、原理、应用场景/zookeeper是如何选取主leader的1.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-1-22-Zookeeper概念、原理、应用场景/zookeeper是如何选取主leader的2.png" afterPath="$PROJECT_DIR$/img/2019-01-22-Zookeeper概念、原理、应用场景/zookeeper是如何选取主leader的2.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-1-22-Zookeeper概念、原理、应用场景/获取分布式锁的流程1.png" afterPath="$PROJECT_DIR$/img/2019-01-22-Zookeeper概念、原理、应用场景/获取分布式锁的流程1.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-1-22-Zookeeper概念、原理、应用场景/获取分布式锁的流程2.png" afterPath="$PROJECT_DIR$/img/2019-01-22-Zookeeper概念、原理、应用场景/获取分布式锁的流程2.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-1-23-Zookeeper环境的搭建以及简单测试/6.jpg" afterPath="$PROJECT_DIR$/img/2019-01-23-Zookeeper环境的搭建以及简单测试/6.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/2019-1-23-Zookeeper环境的搭建以及简单测试/ZK目录路径修改.png" afterPath="$PROJECT_DIR$/img/2019-01-23-Zookeeper环境的搭建以及简单测试/ZK目录路径修改.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-1-23-Zookeeper环境的搭建以及简单测试/ZK配置文件内容.png" afterPath="$PROJECT_DIR$/img/2019-01-23-Zookeeper环境的搭建以及简单测试/ZK配置文件内容.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-1-23-Zookeeper环境的搭建以及简单测试/ZK集群启动失败.png" afterPath="$PROJECT_DIR$/img/2019-01-23-Zookeeper环境的搭建以及简单测试/ZK集群启动失败.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-1-23-Zookeeper环境的搭建以及简单测试/ZK集群成功启动标志.png" afterPath="$PROJECT_DIR$/img/2019-01-23-Zookeeper环境的搭建以及简单测试/ZK集群成功启动标志.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-1-23-Zookeeper环境的搭建以及简单测试/ZK集群配置添加各节点信息.png" afterPath="$PROJECT_DIR$/img/2019-01-23-Zookeeper环境的搭建以及简单测试/ZK集群配置添加各节点信息.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-1-23-Zookeeper环境的搭建以及简单测试/Zookeeper解压目录.png" afterPath="$PROJECT_DIR$/img/2019-01-23-Zookeeper环境的搭建以及简单测试/Zookeeper解压目录.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-1-23-Zookeeper环境的搭建以及简单测试/删除节点 follower接收消息.png" afterPath="$PROJECT_DIR$/img/2019-01-23-Zookeeper环境的搭建以及简单测试/删除节点 follower接收消息.png" />
+      <change beforePath="$PROJECT_DIR$/img/view/1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/view/10.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/view/3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/view/4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/view/5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/view/7.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/view/8.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/view/9.jpg" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,18 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="57d8e5540c95f.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/charlotte/57d8e5540c95f.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="189">
+              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -147,7 +120,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-01-24-编译原理绪论.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-01-24-编译原理绪论.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-01-24-编译原理绪论.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -160,20 +133,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tags.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tags.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-              <folding />
-            </state>
+      <file leaf-file-name="005.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/charlotte/005.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/view/1.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="tags.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tags.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -202,12 +175,18 @@
       <find>KM BLog</find>
       <find>2019-1-24 编译原理绪论</find>
       <find>png</find>
+      <find>6.png</find>
+      <find>6.jpg</find>
+      <find>view/</find>
     </findStrings>
     <replaceStrings>
       <replace>zhouyimian</replace>
       <replace>KM BLog</replace>
       <replace>2019-01-24 编译原理绪论</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>D:\IDEA_project\zhouyimian.github.io\img\view</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -319,7 +298,7 @@
               <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="2019-01-24-编译原理绪论" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -470,7 +449,7 @@
       <workItem from="1548169737331" duration="1656000" />
       <workItem from="1548221350873" duration="1241000" />
       <workItem from="1548326747181" duration="666000" />
-      <workItem from="1548329143445" duration="685000" />
+      <workItem from="1548329143445" duration="1508000" />
     </task>
     <task id="LOCAL-00001" summary="删除了原来的文章">
       <created>1547725344508</created>
@@ -598,14 +577,22 @@
       <option name="project" value="LOCAL" />
       <updated>1548221994344</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="2019-01-24-编译原理绪论">
+      <created>1548329842624</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1548329842624</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21034000" />
+    <option name="totallyTimeSpent" value="21857000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -615,14 +602,15 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2149028" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2149028" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -635,7 +623,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -659,7 +646,9 @@
     <MESSAGE value="2019-1-22-Zookeeper概念、原理、应用场景" />
     <MESSAGE value="2019-1-23-Zookeeper环境的搭建以及简单测试" />
     <MESSAGE value="2019-01-23-Zookeeper环境的搭建以及简单测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-01-23-Zookeeper环境的搭建以及简单测试" />
+    <MESSAGE value="2019-01-24-编译原理绪论" />
+    <MESSAGE value="删了些图片" />
+    <option name="LAST_COMMIT_MESSAGE" value="删了些图片" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -744,11 +733,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/charlotte/005.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/charlotte/57d8e5583272d.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -769,26 +753,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tags.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -872,6 +840,27 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/charlotte/005.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tags.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>

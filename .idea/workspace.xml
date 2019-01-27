@@ -17,9 +17,9 @@
       <file leaf-file-name="2019-01-25-编译原理——语言及其文法.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2019-01-25-编译原理——语言及其文法.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="297">
-                <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="0">
+                <caret line="42" column="30" lean-forward="true" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -56,6 +56,11 @@
       <find>6.jpg</find>
       <find>view/</find>
       <find>mathjax</find>
+      <find>2型文法</find>
+      <find>L</find>
+      <find>句子和句型</find>
+      <find>串</find>
+      <find>克林</find>
     </findStrings>
     <replaceStrings>
       <replace>zhouyimian</replace>
@@ -326,7 +331,7 @@
       <workItem from="1548514713943" duration="269000" />
       <workItem from="1548518371104" duration="77000" />
       <workItem from="1548584259281" duration="583000" />
-      <workItem from="1548584913251" duration="391000" />
+      <workItem from="1548584913251" duration="1179000" />
     </task>
     <task id="LOCAL-00001" summary="删除了原来的文章">
       <created>1547725344508</created>
@@ -496,11 +501,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548585196513</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="2019-01-25-编译原理——语言及其文法">
+      <created>1548585309982</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1548585309982</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23780000" />
+    <option name="totallyTimeSpent" value="24568000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -736,9 +748,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-25-编译原理——语言及其文法.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="297">
-            <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="42" column="30" lean-forward="true" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
             <folding />
           </first_editor>
           <second_editor />

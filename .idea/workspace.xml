@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-25-编译原理——语言及其文法.md" afterPath="$PROJECT_DIR$/_posts/2019-01-25-编译原理——语言及其文法.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-01-22-Zookeeper概念、原理、应用场景.md" afterPath="$PROJECT_DIR$/_posts/2019-01-22-Zookeeper概念、原理、应用场景.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-01-23-Zookeeper环境的搭建以及简单测试.md" afterPath="$PROJECT_DIR$/_posts/2019-01-23-Zookeeper环境的搭建以及简单测试.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +19,100 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-01-25-编译原理——语言及其文法.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="232">
-                <caret line="202" column="14" lean-forward="true" selection-start-line="202" selection-start-column="14" selection-end-line="202" selection-end-column="14" />
+              <first_editor relative-caret-position="135">
+                <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-01-22-Zookeeper概念、原理、应用场景.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-22-Zookeeper概念、原理、应用场景.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="108">
+                <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+                <folding>
+                  <marker date="1548590708853" expanded="true" signature="8951:9030" ph="/**...*/" />
+                  <marker date="1548590708853" expanded="true" signature="9076:9488" ph="{...}" />
+                  <marker date="1548590708853" expanded="true" signature="9160:9480" ph="{...}" />
+                  <marker date="1548590708853" expanded="true" signature="9236:9470" ph="{...}" />
+                  <marker date="1548590708853" expanded="true" signature="9494:9591" ph="/**...*/" />
+                  <marker date="1548590708853" expanded="true" signature="9658:9861" ph="{...}" />
+                  <marker date="1548590708853" expanded="true" signature="9867:9951" ph="/**...*/" />
+                  <marker date="1548590708853" expanded="true" signature="10018:10120" ph="{...}" />
+                  <marker date="1548590708853" expanded="true" signature="10183:10357" ph="{...}" />
+                  <marker date="1548590708853" expanded="true" signature="10383:10454" ph="/**...*/" />
+                  <marker date="1548590708853" expanded="true" signature="10787:10866" ph="/**...*/" />
+                  <marker date="1548590708853" expanded="true" signature="10912:11392" ph="{...}" />
+                  <marker date="1548590708853" expanded="true" signature="10996:11384" ph="{...}" />
+                  <marker date="1548590708853" expanded="true" signature="11072:11374" ph="{...}" />
+                  <marker date="1548590708853" expanded="true" signature="11398:11469" ph="/**...*/" />
+                  <marker date="1548590708853" expanded="true" signature="11520:11996" ph="{...}" />
+                  <marker date="1548590708853" expanded="true" signature="12001:12085" ph="/**...*/" />
+                  <marker date="1548590708853" expanded="true" signature="12137:12224" ph="{...}" />
+                  <marker date="1548590708853" expanded="true" signature="12286:12446" ph="{...}" />
+                  <marker date="1548590708853" expanded="true" signature="13221:13251" ph="/**...*/" />
+                  <marker date="1548590708853" expanded="true" signature="13304:15207" ph="{...}" />
+                  <marker date="1548590708853" expanded="true" signature="13378:14537" ph="{...}" />
+                  <marker date="1548590708853" expanded="true" signature="13454:14527" ph="{...}" />
+                  <marker date="1548590708853" expanded="true" signature="15213:15247" ph="/**...*/" />
+                  <marker date="1548590708853" expanded="true" signature="15296:15561" ph="{...}" />
+                  <marker date="1548590708853" expanded="true" signature="15623:15763" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-01-21-Typora比较常用的语法.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-21-Typora比较常用的语法.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="3402">
+                <caret line="126" column="13" lean-forward="false" selection-start-line="126" selection-start-column="13" selection-end-line="126" selection-end-column="13" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-01-19-HQL和SQL的联系与区别.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-19-HQL和SQL的联系与区别.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="81">
+                <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-01-24-编译原理绪论.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-24-编译原理绪论.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="162">
+                <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-01-23-Zookeeper环境的搭建以及简单测试.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-23-Zookeeper环境的搭建以及简单测试.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="162">
+                <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -93,10 +186,11 @@
         <option value="$PROJECT_DIR$/_posts/2019-1-22-Zookeeper概念、原理、应用场景.md" />
         <option value="$PROJECT_DIR$/_posts/Zookeeper环境的搭建以及简单测试.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-24 编译原理绪论.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-01-23-Zookeeper环境的搭建以及简单测试.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-24-编译原理绪论.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-21-Typora比较常用的语法.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-25-编译原理——语言及其文法.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-23-Zookeeper环境的搭建以及简单测试.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-22-Zookeeper概念、原理、应用场景.md" />
       </list>
     </option>
   </component>
@@ -331,7 +425,7 @@
       <workItem from="1548514713943" duration="269000" />
       <workItem from="1548518371104" duration="77000" />
       <workItem from="1548584259281" duration="583000" />
-      <workItem from="1548584913251" duration="1805000" />
+      <workItem from="1548584913251" duration="2068000" />
     </task>
     <task id="LOCAL-00001" summary="删除了原来的文章">
       <created>1547725344508</created>
@@ -529,11 +623,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548590411260</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="2019-01-25-编译原理——语言及其文法">
+      <created>1548590475870</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1548590475870</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25194000" />
+    <option name="totallyTimeSpent" value="25457000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -696,36 +797,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-01-19-HQL和SQL的联系与区别.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="81">
-            <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-01-22-Zookeeper概念、原理、应用场景.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="162">
-            <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-01-23-Zookeeper环境的搭建以及简单测试.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="162">
-            <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/charlotte/005.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -747,11 +818,72 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-23-Zookeeper环境的搭建以及简单测试.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="162">
+            <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-22-Zookeeper概念、原理、应用场景.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="108">
+            <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <folding>
+              <marker date="1548590708853" expanded="true" signature="8951:9030" ph="/**...*/" />
+              <marker date="1548590708853" expanded="true" signature="9076:9488" ph="{...}" />
+              <marker date="1548590708853" expanded="true" signature="9160:9480" ph="{...}" />
+              <marker date="1548590708853" expanded="true" signature="9236:9470" ph="{...}" />
+              <marker date="1548590708853" expanded="true" signature="9494:9591" ph="/**...*/" />
+              <marker date="1548590708853" expanded="true" signature="9658:9861" ph="{...}" />
+              <marker date="1548590708853" expanded="true" signature="9867:9951" ph="/**...*/" />
+              <marker date="1548590708853" expanded="true" signature="10018:10120" ph="{...}" />
+              <marker date="1548590708853" expanded="true" signature="10183:10357" ph="{...}" />
+              <marker date="1548590708853" expanded="true" signature="10383:10454" ph="/**...*/" />
+              <marker date="1548590708853" expanded="true" signature="10787:10866" ph="/**...*/" />
+              <marker date="1548590708853" expanded="true" signature="10912:11392" ph="{...}" />
+              <marker date="1548590708853" expanded="true" signature="10996:11384" ph="{...}" />
+              <marker date="1548590708853" expanded="true" signature="11072:11374" ph="{...}" />
+              <marker date="1548590708853" expanded="true" signature="11398:11469" ph="/**...*/" />
+              <marker date="1548590708853" expanded="true" signature="11520:11996" ph="{...}" />
+              <marker date="1548590708853" expanded="true" signature="12001:12085" ph="/**...*/" />
+              <marker date="1548590708853" expanded="true" signature="12137:12224" ph="{...}" />
+              <marker date="1548590708853" expanded="true" signature="12286:12446" ph="{...}" />
+              <marker date="1548590708853" expanded="true" signature="13221:13251" ph="/**...*/" />
+              <marker date="1548590708853" expanded="true" signature="13304:15207" ph="{...}" />
+              <marker date="1548590708853" expanded="true" signature="13378:14537" ph="{...}" />
+              <marker date="1548590708853" expanded="true" signature="13454:14527" ph="{...}" />
+              <marker date="1548590708853" expanded="true" signature="15213:15247" ph="/**...*/" />
+              <marker date="1548590708853" expanded="true" signature="15296:15561" ph="{...}" />
+              <marker date="1548590708853" expanded="true" signature="15623:15763" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-21-Typora比较常用的语法.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="173">
+          <first_editor relative-caret-position="3402">
             <caret line="126" column="13" lean-forward="false" selection-start-line="126" selection-start-column="13" selection-end-line="126" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-19-HQL和SQL的联系与区别.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="81">
+            <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -760,8 +892,9 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-24-编译原理绪论.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="3" />
+          <first_editor relative-caret-position="162">
+            <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -770,8 +903,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-25-编译原理——语言及其文法.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="232">
-            <caret line="202" column="14" lean-forward="true" selection-start-line="202" selection-start-column="14" selection-end-line="202" selection-end-column="14" />
+          <first_editor relative-caret-position="135">
+            <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
             <folding />
           </first_editor>
           <second_editor />

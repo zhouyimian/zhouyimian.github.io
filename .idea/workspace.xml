@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-01-29-记一次处理ZooKeeper和Kafka的问题.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-29-记一次处理ZooKeeper和Kafka的问题/22.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-29-记一次处理ZooKeeper和Kafka的问题/kafka发送消息报错.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-29-记一次处理ZooKeeper和Kafka的问题/kafka启动brokers已被注册.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-25-编译原理——语言及其文法.md" afterPath="$PROJECT_DIR$/_posts/2019-01-25-编译原理——语言及其文法.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-28-分布式事务初识.md" afterPath="$PROJECT_DIR$/_posts/2019-01-28-分布式事务初识.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,12 +17,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="2019-01-25-编译原理——语言及其文法.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-01-25-编译原理——语言及其文法.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-01-25-编译原理——语言及其文法.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="367">
-                <caret line="123" column="1" lean-forward="true" selection-start-line="123" selection-start-column="1" selection-end-line="123" selection-end-column="1" />
+              <first_editor relative-caret-position="297">
+                <caret line="127" column="1" lean-forward="true" selection-start-line="127" selection-start-column="1" selection-end-line="127" selection-end-column="1" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -28,12 +30,66 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="24.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/2019-01-25-编译原理——语言及其文法/24.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-01-29-记一次处理ZooKeeper和Kafka的问题.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-29-记一次处理ZooKeeper和Kafka的问题.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="270">
+                <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-01-23-Zookeeper环境的搭建以及简单测试.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-23-Zookeeper环境的搭建以及简单测试.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="270">
+                <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="15" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="22.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/2019-01-29-记一次处理ZooKeeper和Kafka的问题/22.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kafka发送消息报错.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/2019-01-29-记一次处理ZooKeeper和Kafka的问题/kafka发送消息报错.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kafka启动brokers已被注册.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/2019-01-29-记一次处理ZooKeeper和Kafka的问题/kafka启动brokers已被注册.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="2019-01-28-分布式事务初识.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-01-28-分布式事务初识.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-135">
-                <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -46,7 +102,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="135">
-                <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+                <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -58,7 +114,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>&lt;link rel=&quot;stylesheet&quot; href=&quot;https://unpkg.com/gitalk/dist/gitalk.css&quot;&gt;</find>
       <find>登录</find>
       <find>qingbai</find>
       <find>qiubaiying@gmail.com</find>
@@ -88,6 +143,7 @@
       <find>==</find>
       <find>L(</find>
       <find>br</find>
+      <find>24.jp</find>
     </findStrings>
     <replaceStrings>
       <replace>zhouyimian</replace>
@@ -126,6 +182,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-01-22-Zookeeper概念、原理、应用场景.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-28-分布式事务初识.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-25-编译原理——语言及其文法.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-29-记一次处理ZooKeeper和Kafka的问题.md" />
       </list>
     </option>
   </component>
@@ -149,10 +206,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="289" />
-    <option name="y" value="30" />
-    <option name="width" value="1382" />
-    <option name="height" value="863" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1942" />
+    <option name="height" value="1042" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -189,8 +246,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,35 +267,31 @@
               <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="2019-01-24-编译原理绪论" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="2019-01-28-分布式事务初识" type="462c0819:PsiDirectoryNode" />
+              <item name="2019-01-29-记一次处理ZooKeeper和Kafka的问题" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../niubike" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-01-28-分布式事务初识" />
+      <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-01-29-记一次处理ZooKeeper和Kafka的问题" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
+      <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-01-28-分布式事务初识" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-01-25-编译原理——语言及其文法" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img" />
-      <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-01-24 编译原理绪论" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -374,7 +425,8 @@
       <workItem from="1548584259281" duration="583000" />
       <workItem from="1548584913251" duration="2386000" />
       <workItem from="1548742305782" duration="276000" />
-      <workItem from="1548742909441" duration="329000" />
+      <workItem from="1548742909441" duration="521000" />
+      <workItem from="1548778971083" duration="303000" />
     </task>
     <task id="LOCAL-00001" summary="删除了原来的文章">
       <created>1547725344508</created>
@@ -593,15 +645,21 @@
       <option name="project" value="LOCAL" />
       <updated>1548742568210</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="2019-01-28-分布式事务初识">
+      <created>1548743247081</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1548743247081</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26380000" />
+    <option name="totallyTimeSpent" value="26875000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -616,9 +674,10 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.237581" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24190065" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -631,7 +690,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -667,15 +725,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/apple-touch-icon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/about-BY-gentle.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/avatar-by.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/avatar_g.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/avatar_m.jpg" />
     <entry file="file://$PROJECT_DIR$/img/BY_bolg_logo.png" />
     <entry file="file://$PROJECT_DIR$/img/home-bg.jpg" />
     <entry file="file://$PROJECT_DIR$/img/home-bg-geek.jpg" />
@@ -774,50 +823,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-01-23-Zookeeper环境的搭建以及简单测试.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="162">
-            <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-22-Zookeeper概念、原理、应用场景.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="108">
             <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-            <folding>
-              <marker date="1548590708853" expanded="true" signature="8951:9030" ph="/**...*/" />
-              <marker date="1548590708853" expanded="true" signature="9076:9488" ph="{...}" />
-              <marker date="1548590708853" expanded="true" signature="9160:9480" ph="{...}" />
-              <marker date="1548590708853" expanded="true" signature="9236:9470" ph="{...}" />
-              <marker date="1548590708853" expanded="true" signature="9494:9591" ph="/**...*/" />
-              <marker date="1548590708853" expanded="true" signature="9658:9861" ph="{...}" />
-              <marker date="1548590708853" expanded="true" signature="9867:9951" ph="/**...*/" />
-              <marker date="1548590708853" expanded="true" signature="10018:10120" ph="{...}" />
-              <marker date="1548590708853" expanded="true" signature="10183:10357" ph="{...}" />
-              <marker date="1548590708853" expanded="true" signature="10383:10454" ph="/**...*/" />
-              <marker date="1548590708853" expanded="true" signature="10787:10866" ph="/**...*/" />
-              <marker date="1548590708853" expanded="true" signature="10912:11392" ph="{...}" />
-              <marker date="1548590708853" expanded="true" signature="10996:11384" ph="{...}" />
-              <marker date="1548590708853" expanded="true" signature="11072:11374" ph="{...}" />
-              <marker date="1548590708853" expanded="true" signature="11398:11469" ph="/**...*/" />
-              <marker date="1548590708853" expanded="true" signature="11520:11996" ph="{...}" />
-              <marker date="1548590708853" expanded="true" signature="12001:12085" ph="/**...*/" />
-              <marker date="1548590708853" expanded="true" signature="12137:12224" ph="{...}" />
-              <marker date="1548590708853" expanded="true" signature="12286:12446" ph="{...}" />
-              <marker date="1548590708853" expanded="true" signature="13221:13251" ph="/**...*/" />
-              <marker date="1548590708853" expanded="true" signature="13304:15207" ph="{...}" />
-              <marker date="1548590708853" expanded="true" signature="13378:14537" ph="{...}" />
-              <marker date="1548590708853" expanded="true" signature="13454:14527" ph="{...}" />
-              <marker date="1548590708853" expanded="true" signature="15213:15247" ph="/**...*/" />
-              <marker date="1548590708853" expanded="true" signature="15296:15561" ph="{...}" />
-              <marker date="1548590708853" expanded="true" signature="15623:15763" ph="{...}" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -839,7 +849,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="81">
             <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -850,33 +859,75 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-01-28-分布式事务初识.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-24-编译原理绪论.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-135">
-            <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <first_editor relative-caret-position="135">
+            <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-01-24-编译原理绪论.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
+    <entry file="file://$PROJECT_DIR$/img/2019-01-25-编译原理——语言及其文法/24.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/2019-01-29-记一次处理ZooKeeper和Kafka的问题/22.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/2019-01-29-记一次处理ZooKeeper和Kafka的问题/kafka发送消息报错.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/2019-01-29-记一次处理ZooKeeper和Kafka的问题/kafka启动brokers已被注册.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-25-编译原理——语言及其文法.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="367">
-            <caret line="123" column="1" lean-forward="true" selection-start-line="123" selection-start-column="1" selection-end-line="123" selection-end-column="1" />
+          <first_editor relative-caret-position="297">
+            <caret line="127" column="1" lean-forward="true" selection-start-line="127" selection-start-column="1" selection-end-line="127" selection-end-column="1" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-28-分布式事务初识.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-23-Zookeeper环境的搭建以及简单测试.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="15" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-29-记一次处理ZooKeeper和Kafka的问题.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
             <folding />
           </first_editor>
           <second_editor />

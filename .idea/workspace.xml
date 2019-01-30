@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-01-30-编译原理——文法转换.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-30-编译原理——文法转换/13.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-30-编译原理——文法转换/例子1回溯.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-30-编译原理——文法转换/例子2无限循环.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-30-编译原理——文法转换/提取左公因子.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-30-编译原理——文法转换/提取左公因子算法.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-30-编译原理——文法转换/消除左递归算法伪代码.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-30-编译原理——文法转换/消除直接左递归的一般形式.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-30-编译原理——文法转换/直接消除左递归例子.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-01-30-编译原理——文法转换.md" afterPath="$PROJECT_DIR$/_posts/2019-01-30-编译原理——文法转换.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-01-25-编译原理——语言及其文法.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="162">
+              <first_editor relative-caret-position="324">
                 <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="22" selection-end-column="7" />
                 <folding />
               </first_editor>
@@ -65,8 +57,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-01-30-编译原理——文法转换.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="497">
-                <caret line="96" column="10" lean-forward="true" selection-start-line="96" selection-start-column="10" selection-end-line="96" selection-end-column="10" />
+              <first_editor relative-caret-position="329">
+                <caret line="78" column="28" lean-forward="true" selection-start-line="78" selection-start-column="28" selection-end-line="78" selection-end-column="28" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -244,7 +236,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -279,8 +273,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -432,7 +424,8 @@
       <workItem from="1548742305782" duration="276000" />
       <workItem from="1548742909441" duration="521000" />
       <workItem from="1548778971083" duration="344000" />
-      <workItem from="1548834565306" duration="2386000" />
+      <workItem from="1548834565306" duration="2424000" />
+      <workItem from="1548851951284" duration="186000" />
     </task>
     <task id="LOCAL-00001" summary="删除了原来的文章">
       <created>1547725344508</created>
@@ -679,11 +672,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548836131378</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="2019-01-30-编译原理——文法转换">
+      <created>1548851839313</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1548851839313</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29302000" />
+    <option name="totallyTimeSpent" value="29526000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -702,7 +702,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2462203" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25053996" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -748,7 +748,8 @@
     <MESSAGE value="2019-01-28-分布式事务初识" />
     <MESSAGE value="2019-01-29-记一次处理ZooKeeper和Kafka的问题" />
     <MESSAGE value="2019-01-30-编译原理——语法分析" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-01-30-编译原理——语法分析" />
+    <MESSAGE value="2019-01-30-编译原理——文法转换" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-01-30-编译原理——文法转换" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -910,7 +911,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="270">
             <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="15" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -957,7 +957,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-25-编译原理——语言及其文法.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="162">
+          <first_editor relative-caret-position="324">
             <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="22" selection-end-column="7" />
             <folding />
           </first_editor>
@@ -979,8 +979,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-30-编译原理——文法转换.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="497">
-            <caret line="96" column="10" lean-forward="true" selection-start-line="96" selection-start-column="10" selection-end-line="96" selection-end-column="10" />
+          <first_editor relative-caret-position="329">
+            <caret line="78" column="28" lean-forward="true" selection-start-line="78" selection-start-column="28" selection-end-line="78" selection-end-column="28" />
             <folding />
           </first_editor>
           <second_editor />

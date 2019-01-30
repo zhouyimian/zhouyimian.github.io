@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-01-30-编译原理——语法分析.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-30-编译原理——语法分析/16.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-30-编译原理——语法分析/最右推导例子.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-30-编译原理——语法分析/最左推导例子.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-30-编译原理——语法分析/最左推导和最右推导的唯一性.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-30-编译原理——语法分析/自顶向下分析例子.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-30-编译原理——语法分析/递归下降分析伪代码.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-01-30-编译原理——语法分析.md" afterPath="$PROJECT_DIR$/_posts/2019-01-30-编译原理——语法分析.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,6 +14,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="2019-01-25-编译原理——语言及其文法.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-25-编译原理——语言及其文法.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="162">
+                <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="22" selection-end-column="7" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="2019-01-28-分布式事务初识.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-01-28-分布式事务初识.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -37,8 +44,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-01-30-编译原理——语法分析.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="162">
-                <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="37" />
+              <first_editor relative-caret-position="270">
+                <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -397,7 +404,7 @@
       <workItem from="1548742305782" duration="276000" />
       <workItem from="1548742909441" duration="521000" />
       <workItem from="1548778971083" duration="344000" />
-      <workItem from="1548834565306" duration="606000" />
+      <workItem from="1548834565306" duration="1455000" />
     </task>
     <task id="LOCAL-00001" summary="删除了原来的文章">
       <created>1547725344508</created>
@@ -630,11 +637,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548779285646</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="2019-01-30-编译原理——语法分析">
+      <created>1548835184721</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1548835184721</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27522000" />
+    <option name="totallyTimeSpent" value="28371000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -698,7 +712,8 @@
     <MESSAGE value="2019-01-25-编译原理——语言及其文法" />
     <MESSAGE value="2019-01-28-分布式事务初识" />
     <MESSAGE value="2019-01-29-记一次处理ZooKeeper和Kafka的问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-01-29-记一次处理ZooKeeper和Kafka的问题" />
+    <MESSAGE value="2019-01-30-编译原理——语法分析" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-01-30-编译原理——语法分析" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -856,17 +871,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-01-25-编译原理——语言及其文法.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="3429">
-            <caret line="127" column="1" lean-forward="false" selection-start-line="127" selection-start-column="1" selection-end-line="127" selection-end-column="1" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-23-Zookeeper环境的搭建以及简单测试.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -916,11 +920,22 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-01-30-编译原理——语法分析.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-25-编译原理——语言及其文法.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="162">
-            <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="37" />
+            <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="22" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-30-编译原理——语法分析.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

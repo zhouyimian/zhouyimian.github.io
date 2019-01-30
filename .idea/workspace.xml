@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-01-30-编译原理——文法转换.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-30-编译原理——文法转换/13.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-30-编译原理——文法转换/例子1回溯.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-30-编译原理——文法转换/例子2无限循环.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-30-编译原理——文法转换/提取左公因子.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-30-编译原理——文法转换/提取左公因子算法.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-30-编译原理——文法转换/消除左递归算法伪代码.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-30-编译原理——文法转换/消除直接左递归的一般形式.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-01-30-编译原理——文法转换/直接消除左递归例子.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-30-编译原理——语法分析.md" afterPath="$PROJECT_DIR$/_posts/2019-01-30-编译原理——语法分析.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,7 +40,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="297">
-                <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+                <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -40,12 +48,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-01-30-编译原理——语法分析.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-01-30-编译原理——语法分析.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-01-30-编译原理——语法分析.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="270">
-                <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="7" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-01-30-编译原理——文法转换.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-30-编译原理——文法转换.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="497">
+                <caret line="96" column="10" lean-forward="true" selection-start-line="96" selection-start-column="10" selection-end-line="96" selection-end-column="10" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -65,7 +86,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="297">
-                <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+                <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -160,6 +181,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-01-25-编译原理——语言及其文法.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-29-记一次处理ZooKeeper和Kafka的问题.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-30-编译原理——语法分析.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-30-编译原理——文法转换.md" />
       </list>
     </option>
   </component>
@@ -245,6 +267,12 @@
               <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="2019-01-30-编译原理——文法转换" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="2019-01-30-编译原理——语法分析" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -264,11 +292,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-01-30-编译原理——语法分析" />
+      <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-01-30-编译原理——文法转换" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
+      <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-01-30-编译原理——语法分析" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-01-29-记一次处理ZooKeeper和Kafka的问题" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-01-28-分布式事务初识" />
-      <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-01-25-编译原理——语言及其文法" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -404,7 +432,7 @@
       <workItem from="1548742305782" duration="276000" />
       <workItem from="1548742909441" duration="521000" />
       <workItem from="1548778971083" duration="344000" />
-      <workItem from="1548834565306" duration="1455000" />
+      <workItem from="1548834565306" duration="2386000" />
     </task>
     <task id="LOCAL-00001" summary="删除了原来的文章">
       <created>1547725344508</created>
@@ -644,11 +672,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548835184721</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="2019-01-30-编译原理——语法分析">
+      <created>1548836131378</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1548836131378</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28371000" />
+    <option name="totallyTimeSpent" value="29302000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -720,7 +755,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/home-bg-geek.jpg" />
     <entry file="file://$PROJECT_DIR$/img/home-bg-art.jpg" />
     <entry file="file://$PROJECT_DIR$/img/home-bg-o.jpg" />
     <entry file="file://$PROJECT_DIR$/img/post-bg-2015.jpg" />
@@ -886,7 +920,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="297">
-            <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -897,7 +931,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="297">
-            <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+            <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
@@ -934,8 +968,19 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-30-编译原理——语法分析.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-30-编译原理——文法转换.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="497">
+            <caret line="96" column="10" lean-forward="true" selection-start-line="96" selection-start-column="10" selection-end-line="96" selection-end-column="10" />
             <folding />
           </first_editor>
           <second_editor />

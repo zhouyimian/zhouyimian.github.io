@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-2-2-hive环境的搭建及运行.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-2-hive环境的搭建及运行/16.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-2-hive环境的搭建及运行/hive启动mysql缺失授权报错.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-2-hive环境的搭建及运行/hive启动文件匹配缺失报错.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-2-hive环境的搭建及运行/hive成功运行.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-2-hive环境的搭建及运行/导入本地数据到hive.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-2-hive环境的搭建及运行/显示当前数据库名称.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-2-hive环境的搭建及运行/没有开启hadoop报错.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-2-2-hadoop环境搭建.md" afterPath="$PROJECT_DIR$/_posts/2019-2-2-hadoop环境搭建.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,12 +21,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="2019-2-2-hadoop环境搭建.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-2-2-hadoop环境搭建.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-2-2-hadoop环境搭建.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="270">
-                <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="3" />
                 <folding>
                   <marker date="1549093934600" expanded="true" signature="492:719" ph="..." />
                   <marker date="1549093934600" expanded="true" signature="504:583" ph="..." />
@@ -34,6 +41,27 @@
                   <marker date="1549093934600" expanded="true" signature="1926:2229" ph="..." />
                   <marker date="1549093934600" expanded="true" signature="1990:2098" ph="..." />
                   <marker date="1549093934600" expanded="true" signature="2113:2212" ph="..." />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-2-2-hive环境的搭建及运行.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-2-2-hive环境的搭建及运行.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="162">
+                <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="37" />
+                <folding>
+                  <marker date="1549119137200" expanded="true" signature="1449:1697" ph="..." />
+                  <marker date="1549119137200" expanded="true" signature="1709:1881" ph="..." />
+                  <marker date="1549119137200" expanded="true" signature="1893:2050" ph="..." />
+                  <marker date="1549119137200" expanded="true" signature="2062:2224" ph="..." />
+                  <marker date="1549119137200" expanded="true" signature="3154:3313" ph="..." />
+                  <marker date="1549119137200" expanded="true" signature="3325:3489" ph="..." />
+                  <marker date="1549119137200" expanded="true" signature="3626:3796" ph="..." />
                 </folding>
               </first_editor>
               <second_editor />
@@ -59,7 +87,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="270">
-                <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+                <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -71,7 +99,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Goals determine what you going to be!</find>
       <find>gmail</find>
       <find>mail</find>
       <find>email</find>
@@ -84,7 +111,6 @@
       <find>BY BLog</find>
       <find>KM BLog</find>
       <find>2019-1-24 编译原理绪论</find>
-      <find>png</find>
       <find>6.png</find>
       <find>6.jpg</find>
       <find>view/</find>
@@ -101,6 +127,8 @@
       <find>乘积</find>
       <find>|</find>
       <find>2019-01</find>
+      <find>png</find>
+      <find>16.</find>
     </findStrings>
     <replaceStrings>
       <replace>zhouyimian</replace>
@@ -110,6 +138,7 @@
     </replaceStrings>
     <dirStrings>
       <dir>D:\IDEA_project\zhouyimian.github.io\img\view</dir>
+      <dir>D:\IDEA_project\zhouyimian.github.io\img</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -145,6 +174,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-01-19-HQL和SQL的联系与区别.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-21-Typora比较常用的语法.md" />
         <option value="$PROJECT_DIR$/_posts/2019-2-2-hadoop环境搭建.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-2-2-hive环境的搭建及运行.md" />
       </list>
     </option>
   </component>
@@ -207,7 +237,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -223,26 +253,15 @@
             <path>
               <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="2019-2-2-hadoop环境搭建" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -254,11 +273,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-2-2-hadoop环境搭建" />
+      <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-2-2-hive环境的搭建及运行" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
+      <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-2-2-hadoop环境搭建" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-01-30-编译原理——文法转换" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-01-30-编译原理——语法分析" />
-      <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-01-29-记一次处理ZooKeeper和Kafka的问题" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -397,7 +416,8 @@
       <workItem from="1548834565306" duration="2424000" />
       <workItem from="1548851951284" duration="1019000" />
       <workItem from="1549092325485" duration="614000" />
-      <workItem from="1549093147770" duration="788000" />
+      <workItem from="1549093147770" duration="853000" />
+      <workItem from="1549118496242" duration="652000" />
     </task>
     <task id="LOCAL-00001" summary="删除了原来的文章">
       <created>1547725344508</created>
@@ -672,11 +692,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549093742064</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="2019-2-2-hadoop环境搭建">
+      <created>1549093942206</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1549093942206</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31761000" />
+    <option name="totallyTimeSpent" value="32478000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -695,9 +722,10 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25917926" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26349893" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -710,7 +738,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -743,14 +770,14 @@
     <MESSAGE value="2019-01-30-编译原理——语法分析" />
     <MESSAGE value="2019-01-30-编译原理——文法转换" />
     <MESSAGE value="2019-2-2-hadoop环境搭建" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-2-2-hadoop环境搭建" />
+    <MESSAGE value="2019-2-2-hive环境的搭建及运行" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-2-2-hive环境的搭建及运行" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/home-bg-o.jpg" />
     <entry file="file://$PROJECT_DIR$/img/post-bg-2015.jpg" />
     <entry file="file://$PROJECT_DIR$/img/post-bg-alibaba.jpg" />
     <entry file="file://$PROJECT_DIR$/img/favicon.ico">
@@ -884,7 +911,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="297">
             <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -900,7 +926,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="297">
             <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -911,7 +936,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1080">
             <caret line="40" column="26" lean-forward="false" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -922,7 +946,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1971">
             <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -933,7 +956,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="756">
             <caret line="28" column="3" lean-forward="false" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -944,7 +966,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="108">
             <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -955,7 +976,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="648">
             <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -965,8 +985,33 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="270">
-            <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+            <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
             <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-2-2-hadoop环境搭建.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="3" />
+            <folding>
+              <marker date="1549093934600" expanded="true" signature="492:719" ph="..." />
+              <marker date="1549093934600" expanded="true" signature="504:583" ph="..." />
+              <marker date="1549093934600" expanded="true" signature="595:702" ph="..." />
+              <marker date="1549093934600" expanded="true" signature="940:1336" ph="..." />
+              <marker date="1549093934600" expanded="true" signature="979:1042" ph="..." />
+              <marker date="1549093934600" expanded="true" signature="1054:1179" ph="..." />
+              <marker date="1549093934600" expanded="true" signature="1194:1319" ph="..." />
+              <marker date="1549093934600" expanded="true" signature="1581:1803" ph="..." />
+              <marker date="1549093934600" expanded="true" signature="1594:1678" ph="..." />
+              <marker date="1549093934600" expanded="true" signature="1692:1786" ph="..." />
+              <marker date="1549093934600" expanded="true" signature="1926:2229" ph="..." />
+              <marker date="1549093934600" expanded="true" signature="1990:2098" ph="..." />
+              <marker date="1549093934600" expanded="true" signature="2113:2212" ph="..." />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -983,25 +1028,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-2-2-hadoop环境搭建.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-2-2-hive环境的搭建及运行.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <first_editor relative-caret-position="162">
+            <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="37" />
             <folding>
-              <marker date="1549093934600" expanded="true" signature="492:719" ph="..." />
-              <marker date="1549093934600" expanded="true" signature="504:583" ph="..." />
-              <marker date="1549093934600" expanded="true" signature="595:702" ph="..." />
-              <marker date="1549093934600" expanded="true" signature="940:1336" ph="..." />
-              <marker date="1549093934600" expanded="true" signature="979:1042" ph="..." />
-              <marker date="1549093934600" expanded="true" signature="1054:1179" ph="..." />
-              <marker date="1549093934600" expanded="true" signature="1194:1319" ph="..." />
-              <marker date="1549093934600" expanded="true" signature="1581:1803" ph="..." />
-              <marker date="1549093934600" expanded="true" signature="1594:1678" ph="..." />
-              <marker date="1549093934600" expanded="true" signature="1692:1786" ph="..." />
-              <marker date="1549093934600" expanded="true" signature="1926:2229" ph="..." />
-              <marker date="1549093934600" expanded="true" signature="1990:2098" ph="..." />
-              <marker date="1549093934600" expanded="true" signature="2113:2212" ph="..." />
+              <marker date="1549119137200" expanded="true" signature="1449:1697" ph="..." />
+              <marker date="1549119137200" expanded="true" signature="1709:1881" ph="..." />
+              <marker date="1549119137200" expanded="true" signature="1893:2050" ph="..." />
+              <marker date="1549119137200" expanded="true" signature="2062:2224" ph="..." />
+              <marker date="1549119137200" expanded="true" signature="3154:3313" ph="..." />
+              <marker date="1549119137200" expanded="true" signature="3325:3489" ph="..." />
+              <marker date="1549119137200" expanded="true" signature="3626:3796" ph="..." />
             </folding>
           </first_editor>
           <second_editor />

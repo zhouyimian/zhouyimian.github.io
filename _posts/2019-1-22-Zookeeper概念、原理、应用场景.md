@@ -2,9 +2,9 @@
 layout:     post
 title:      Zookeeper概念、原理、应用场景
 subtitle:   
-date:       2019-01-22
+date:       2019-1-22
 author:     BY KiloMeter
-header-img: img/2019-01-22-Zookeeper概念、原理、应用场景/9.jpg
+header-img: img/2019-1-22-Zookeeper概念、原理、应用场景/9.jpg
 catalog: true
 tags:
     - 大数据
@@ -83,14 +83,14 @@ client端会对某个znode建立一个**watcher事件**，当该znode发生变�
 
 
 
-![](/img/2019-01-22-Zookeeper概念、原理、应用场景/获取分布式锁的流程1.png)
+![](/img/2019-1-22-Zookeeper概念、原理、应用场景/获取分布式锁的流程1.png)
 
 
 
 在获取分布式锁的时候在locker节点下创建临时顺序节点，释放锁的时候删除该临时节点。客户端调用createNode方法在locker下创建临时顺序节点，
 然后调用getChildren(“locker”)来获取locker下面的所有子节点，注意此时不用设置任何Watcher。客户端获取到所有的子节点path之后，如果发现自己创建的节点在所有创建的子节点序号最小，那么就认为该客户端获取到了锁。如果发现自己创建的节点并非locker所有子节点中最小的，说明自己还没有获取到锁，此时客户端需要找到**比自己小的那个节点**，然后对其调用**exist()**方法，同时对其注册事件监听器。之后，让这个被关注的节点删除，则客户端的Watcher会收到相应通知，此时再次判断自己创建的节点是否是locker子节点中序号最小的，如果是则获取到了锁，如果不是则重复以上步骤继续获取到比自己小的一个节点并注册监听。当前这个过程中还需要许多的逻辑判断。
 
-![](/img/2019-01-22-Zookeeper概念、原理、应用场景/获取分布式锁的流程2.png)
+![](/img/2019-1-22-Zookeeper概念、原理、应用场景/获取分布式锁的流程2.png)
 
 
 
@@ -143,14 +143,14 @@ FOLLOWING：leader已经选举出来，当前Server与之同步
 （4）收到所有Server回复以后，就计算出zxid最大的那个Server，并将这个Server相关信息设置成下一次要投票的Server； 
 （5）线程将当前zxid最大的Server设置为当前Server要推荐的Leader，如果此时获胜的Server获得n/2 + 1的Server票数，设置当前推荐的leader为获胜的Server，将根据获胜的Server相关信息设置自己的状态，否则，继续这个过程，直到leader被选举出来。 通过流程分析我们可以得出：要使Leader获得多数Server的支持，则Server总数必须是奇数2n+1，且存活的Server的数目不得少于n+1. 每个Server启动后都会重复以上流程。在恢复模式下，如果是刚从崩溃状态恢复的或者刚启动的server还会从磁盘快照中恢复数据和会话信息，Zookeeper会记录事务日志并定期进行快照，方便在恢复时进行状态恢复。
 
-![](/img/2019-01-22-Zookeeper概念、原理、应用场景/zookeeper是如何选取主leader的1.png)
+![](/img/2019-1-22-Zookeeper概念、原理、应用场景/zookeeper是如何选取主leader的1.png)
 
 
 
 2、Zookeeper选主流程(fast paxos)
 fast paxos流程是在选举过程中，某Server首先向所有Server提议自己要成为leader，当其它Server收到提议以后，解决epoch和 zxid的冲突，并接受对方的提议，然后向对方发送接受提议完成的消息，重复这个流程，最后一定能选举出Leader。
 
-![](/img/2019-01-22-Zookeeper概念、原理、应用场景/zookeeper是如何选取主leader的2.png)
+![](/img/2019-1-22-Zookeeper概念、原理、应用场景/zookeeper是如何选取主leader的2.png)
 
 ## 18、Zookeeper同步流程
 
@@ -161,7 +161,7 @@ fast paxos流程是在选举过程中，某Server首先向所有Server提议自�
 4、完成同步后通知follower 已经成为uptodate状态； 
 5、Follower收到uptodate消息后，又可以重新接受client的请求进行服务了。
 
-![](/img/2019-01-22-Zookeeper概念、原理、应用场景/Zookeeper同步流程.png)
+![](/img/2019-1-22-Zookeeper概念、原理、应用场景/Zookeeper同步流程.png)
 
 
 

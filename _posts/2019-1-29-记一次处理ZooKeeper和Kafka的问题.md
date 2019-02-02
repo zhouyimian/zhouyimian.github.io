@@ -2,9 +2,9 @@
 layout:     post
 title:      记一次处理ZooKeeper和Kafka的问题
 subtitle:   
-date:       2019-01-29
+date:       2019-1-29
 author:     BY KiloMeter
-header-img: img/2019-01-29-记一次处理ZooKeeper和Kafka的问题/22.jpg
+header-img: img/2019-1-29-记一次处理ZooKeeper和Kafka的问题/22.jpg
 catalog: true
 tags:
     - Zookeeper
@@ -16,7 +16,7 @@ tags:
 
 问题一：配置好环境后，kafka启动不了，查看kafka日志后，报错如下
 
-![](/img/2019-01-29-记一次处理ZooKeeper和Kafka的问题/kafka启动brokers已被注册.png)
+![](/img/2019-1-29-记一次处理ZooKeeper和Kafka的问题/kafka启动brokers已被注册.png)
 
 说brokers/ids/1 已被注册，我查了下，网上的博客说法是以下这几种，
 
@@ -42,7 +42,7 @@ tags:
 
 问题三：kafka发送消息报错，报错如下
 
-![](/img/2019-01-29-记一次处理ZooKeeper和Kafka的问题/kafka发送消息报错.png)
+![](/img/2019-1-29-记一次处理ZooKeeper和Kafka的问题/kafka发送消息报错.png)
 
 
 

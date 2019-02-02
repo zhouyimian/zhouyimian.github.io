@@ -2,9 +2,9 @@
 layout:     post
 title:      Zookeeper环境的搭建以及简单测试
 subtitle:   
-date:       2019-01-23
+date:       2019-1-23
 author:     BY KiloMeter
-header-img: img/2019-01-23-Zookeeper环境的搭建以及简单测试/6.jpg
+header-img: img/2019-1-23-Zookeeper环境的搭建以及简单测试/6.jpg
 catalog: true
 tags:
     - 大数据
@@ -16,7 +16,7 @@ tags:
 
 首先去下载ZK的安装包，解压后可以看到以下目录结构
 
-![](/img/2019-01-23-Zookeeper环境的搭建以及简单测试/Zookeeper解压目录.png)
+![](/img/2019-1-23-Zookeeper环境的搭建以及简单测试/Zookeeper解压目录.png)
 
 **注：**data你们是没有的，得后面自己mkdir生成，用于存放ZK集群的各个服务器IP及端口，以及本机的编号(后面修改zoo.cfg配置文件的时候会讲)。
 
@@ -26,7 +26,7 @@ tags:
 
 修改zoo.cfg文件
 
-![](/img/2019-01-23-Zookeeper环境的搭建以及简单测试/ZK配置文件内容.png)
+![](/img/2019-1-23-Zookeeper环境的搭建以及简单测试/ZK配置文件内容.png)
 
 
 
@@ -38,7 +38,7 @@ clientPort是client的连接端口。
 
 **注意：**需要在配置文件下面添加集群中各个节点的信息
 
-![](/img/2019-01-23-Zookeeper环境的搭建以及简单测试/ZK集群配置添加各节点信息.png)
+![](/img/2019-1-23-Zookeeper环境的搭建以及简单测试/ZK集群配置添加各节点信息.png)
 
 server.x代表了整个服务的机器，当服务启动后，会去上面说到的的dataDir下面找一个myid文件(这个文件也需要我们在每台机器上自己创建，文件内容只需要写明本机的编号即可)，从而判断自己本机属于哪个server。
 
@@ -46,7 +46,7 @@ server.x代表了整个服务的机器，当服务启动后，会去上面说到
 
 修改日志文件的位置在zookeeper的bin目录下的zkEnv.sh，在56行处修改
 
-![](/img/2019-01-23-Zookeeper环境的搭建以及简单测试/ZK目录路径修改.png)
+![](/img/2019-1-23-Zookeeper环境的搭建以及简单测试/ZK目录路径修改.png)
 
 配置完成后把上面的配置信息在集群中所有的机器上进行同样的修改，但是myid需要单独设置。
 
@@ -58,13 +58,13 @@ bin/zkServer.sh status   #查看集群状态
 
 如果成功启动的话在三台机器上分别使用status可以看到如下(folloer和leader是通过选举选出来的，这里我们的可能会不一样，关于ZK的选举可以查看[这篇文章](https://zhouyimian.github.io/2019/01/22/Zookeeper%E6%A6%82%E5%BF%B5-%E5%8E%9F%E7%90%86-%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF/))
 
-![](/img/2019-01-23-Zookeeper环境的搭建以及简单测试/ZK集群成功启动标志.png)
+![](/img/2019-1-23-Zookeeper环境的搭建以及简单测试/ZK集群成功启动标志.png)
 
 
 
 **但是，查看状态有更大的可能性是看到以下情况**
 
-![](/img/2019-01-23-Zookeeper环境的搭建以及简单测试/ZK集群启动失败.png)
+![](/img/2019-1-23-Zookeeper环境的搭建以及简单测试/ZK集群启动失败.png)
 
 如果出现这种情况，需要去查看以下ZK的启动日志文件。
 

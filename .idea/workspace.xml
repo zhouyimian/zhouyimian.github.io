@@ -1,79 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="2019-01-30-编译原理——文法转换">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-2-2-hadoop环境搭建.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-2-hadoop环境搭建/25.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-2-hadoop环境搭建/master文件.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-2-hadoop环境搭建/slavers文件.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-2-hadoop环境搭建/修改JAVA_HOME.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-2-hadoop环境搭建/修改core-site.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-2-hadoop环境搭建/修改hdfs-site.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-2-hadoop环境搭建/修改mapred-site文件.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-2-hadoop环境搭建/修改yarn-site文件.png" />
+    <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-19-HQL和SQL的联系与区别.md" afterPath="$PROJECT_DIR$/_posts/2019-1-19-HQL和SQL的联系与区别.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-21-Typora比较常用的语法.md" afterPath="$PROJECT_DIR$/_posts/2019-1-21-Typora比较常用的语法.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-22-Zookeeper概念、原理、应用场景.md" afterPath="$PROJECT_DIR$/_posts/2019-1-22-Zookeeper概念、原理、应用场景.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-23-Zookeeper环境的搭建以及简单测试.md" afterPath="$PROJECT_DIR$/_posts/2019-1-23-Zookeeper环境的搭建以及简单测试.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-24-编译原理绪论.md" afterPath="$PROJECT_DIR$/_posts/2019-1-24-编译原理绪论.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-25-编译原理——语言及其文法.md" afterPath="$PROJECT_DIR$/_posts/2019-1-25-编译原理——语言及其文法.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-28-分布式事务初识.md" afterPath="$PROJECT_DIR$/_posts/2019-1-28-分布式事务初识.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-29-记一次处理ZooKeeper和Kafka的问题.md" afterPath="$PROJECT_DIR$/_posts/2019-1-29-记一次处理ZooKeeper和Kafka的问题.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-30-编译原理——文法转换.md" afterPath="$PROJECT_DIR$/_posts/2019-1-30-编译原理——文法转换.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-30-编译原理——语法分析.md" afterPath="$PROJECT_DIR$/_posts/2019-1-30-编译原理——语法分析.md" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-22-Zookeeper概念、原理、应用场景/9.jpg" afterPath="$PROJECT_DIR$/img/2019-1-22-Zookeeper概念、原理、应用场景/9.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-22-Zookeeper概念、原理、应用场景/Zookeeper同步流程.png" afterPath="$PROJECT_DIR$/img/2019-1-22-Zookeeper概念、原理、应用场景/Zookeeper同步流程.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-22-Zookeeper概念、原理、应用场景/zookeeper是如何选取主leader的1.png" afterPath="$PROJECT_DIR$/img/2019-1-22-Zookeeper概念、原理、应用场景/zookeeper是如何选取主leader的1.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-22-Zookeeper概念、原理、应用场景/zookeeper是如何选取主leader的2.png" afterPath="$PROJECT_DIR$/img/2019-1-22-Zookeeper概念、原理、应用场景/zookeeper是如何选取主leader的2.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-22-Zookeeper概念、原理、应用场景/获取分布式锁的流程1.png" afterPath="$PROJECT_DIR$/img/2019-1-22-Zookeeper概念、原理、应用场景/获取分布式锁的流程1.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-22-Zookeeper概念、原理、应用场景/获取分布式锁的流程2.png" afterPath="$PROJECT_DIR$/img/2019-1-22-Zookeeper概念、原理、应用场景/获取分布式锁的流程2.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-23-Zookeeper环境的搭建以及简单测试/6.jpg" afterPath="$PROJECT_DIR$/img/2019-1-23-Zookeeper环境的搭建以及简单测试/6.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-23-Zookeeper环境的搭建以及简单测试/ZK目录路径修改.png" afterPath="$PROJECT_DIR$/img/2019-1-23-Zookeeper环境的搭建以及简单测试/ZK目录路径修改.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-23-Zookeeper环境的搭建以及简单测试/ZK配置文件内容.png" afterPath="$PROJECT_DIR$/img/2019-1-23-Zookeeper环境的搭建以及简单测试/ZK配置文件内容.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-23-Zookeeper环境的搭建以及简单测试/ZK集群启动失败.png" afterPath="$PROJECT_DIR$/img/2019-1-23-Zookeeper环境的搭建以及简单测试/ZK集群启动失败.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-23-Zookeeper环境的搭建以及简单测试/ZK集群成功启动标志.png" afterPath="$PROJECT_DIR$/img/2019-1-23-Zookeeper环境的搭建以及简单测试/ZK集群成功启动标志.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-23-Zookeeper环境的搭建以及简单测试/ZK集群配置添加各节点信息.png" afterPath="$PROJECT_DIR$/img/2019-1-23-Zookeeper环境的搭建以及简单测试/ZK集群配置添加各节点信息.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-23-Zookeeper环境的搭建以及简单测试/Zookeeper解压目录.png" afterPath="$PROJECT_DIR$/img/2019-1-23-Zookeeper环境的搭建以及简单测试/Zookeeper解压目录.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-23-Zookeeper环境的搭建以及简单测试/删除节点 follower接收消息.png" afterPath="$PROJECT_DIR$/img/2019-1-23-Zookeeper环境的搭建以及简单测试/删除节点 follower接收消息.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-24-编译原理绪论/4.jpg" afterPath="$PROJECT_DIR$/img/2019-1-24-编译原理绪论/4.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-24-编译原理绪论/三地址指令的四元式表达.png" afterPath="$PROJECT_DIR$/img/2019-1-24-编译原理绪论/三地址指令的四元式表达.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-24-编译原理绪论/中间代码生成.png" afterPath="$PROJECT_DIR$/img/2019-1-24-编译原理绪论/中间代码生成.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-24-编译原理绪论/分析树.png" afterPath="$PROJECT_DIR$/img/2019-1-24-编译原理绪论/分析树.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-24-编译原理绪论/常用的三地址指令.png" afterPath="$PROJECT_DIR$/img/2019-1-24-编译原理绪论/常用的三地址指令.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-24-编译原理绪论/编译器的结构.png" afterPath="$PROJECT_DIR$/img/2019-1-24-编译原理绪论/编译器的结构.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-24-编译原理绪论/翻译的过程.png" afterPath="$PROJECT_DIR$/img/2019-1-24-编译原理绪论/翻译的过程.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-24-编译原理绪论/词法分析.png" afterPath="$PROJECT_DIR$/img/2019-1-24-编译原理绪论/词法分析.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-24-编译原理绪论/语义分析.png" afterPath="$PROJECT_DIR$/img/2019-1-24-编译原理绪论/语义分析.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-24-编译原理绪论/语法分析.png" afterPath="$PROJECT_DIR$/img/2019-1-24-编译原理绪论/语法分析.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-25-编译原理——语言及其文法/0型文法.png" afterPath="$PROJECT_DIR$/img/2019-1-25-编译原理——语言及其文法/0型文法.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-25-编译原理——语言及其文法/1型文法.png" afterPath="$PROJECT_DIR$/img/2019-1-25-编译原理——语言及其文法/1型文法.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-25-编译原理——语言及其文法/24.jpg" afterPath="$PROJECT_DIR$/img/2019-1-25-编译原理——语言及其文法/24.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-25-编译原理——语言及其文法/2型文法.png" afterPath="$PROJECT_DIR$/img/2019-1-25-编译原理——语言及其文法/2型文法.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-25-编译原理——语言及其文法/3型文法.png" afterPath="$PROJECT_DIR$/img/2019-1-25-编译原理——语言及其文法/3型文法.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-25-编译原理——语言及其文法/产生式的简写.png" afterPath="$PROJECT_DIR$/img/2019-1-25-编译原理——语言及其文法/产生式的简写.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-25-编译原理——语言及其文法/句子和句型的例子.png" afterPath="$PROJECT_DIR$/img/2019-1-25-编译原理——语言及其文法/句子和句型的例子.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-25-编译原理——语言及其文法/四种文法之间的关系.png" afterPath="$PROJECT_DIR$/img/2019-1-25-编译原理——语言及其文法/四种文法之间的关系.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-25-编译原理——语言及其文法/推导和归约.png" afterPath="$PROJECT_DIR$/img/2019-1-25-编译原理——语言及其文法/推导和归约.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-25-编译原理——语言及其文法/文法的表述形式.png" afterPath="$PROJECT_DIR$/img/2019-1-25-编译原理——语言及其文法/文法的表述形式.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-28-分布式事务初识/18.jpg" afterPath="$PROJECT_DIR$/img/2019-1-28-分布式事务初识/18.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-29-记一次处理ZooKeeper和Kafka的问题/22.jpg" afterPath="$PROJECT_DIR$/img/2019-1-29-记一次处理ZooKeeper和Kafka的问题/22.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-29-记一次处理ZooKeeper和Kafka的问题/kafka发送消息报错.png" afterPath="$PROJECT_DIR$/img/2019-1-29-记一次处理ZooKeeper和Kafka的问题/kafka发送消息报错.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-29-记一次处理ZooKeeper和Kafka的问题/kafka启动brokers已被注册.png" afterPath="$PROJECT_DIR$/img/2019-1-29-记一次处理ZooKeeper和Kafka的问题/kafka启动brokers已被注册.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-30-编译原理——文法转换/13.jpg" afterPath="$PROJECT_DIR$/img/2019-1-30-编译原理——文法转换/13.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-30-编译原理——文法转换/例子1回溯.png" afterPath="$PROJECT_DIR$/img/2019-1-30-编译原理——文法转换/例子1回溯.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-30-编译原理——文法转换/例子2无限循环.png" afterPath="$PROJECT_DIR$/img/2019-1-30-编译原理——文法转换/例子2无限循环.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-30-编译原理——文法转换/提取左公因子.png" afterPath="$PROJECT_DIR$/img/2019-1-30-编译原理——文法转换/提取左公因子.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-30-编译原理——文法转换/提取左公因子算法.png" afterPath="$PROJECT_DIR$/img/2019-1-30-编译原理——文法转换/提取左公因子算法.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-30-编译原理——文法转换/消除左递归算法伪代码.png" afterPath="$PROJECT_DIR$/img/2019-1-30-编译原理——文法转换/消除左递归算法伪代码.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-30-编译原理——文法转换/消除直接左递归的一般形式.png" afterPath="$PROJECT_DIR$/img/2019-1-30-编译原理——文法转换/消除直接左递归的一般形式.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-30-编译原理——文法转换/直接消除左递归例子.png" afterPath="$PROJECT_DIR$/img/2019-1-30-编译原理——文法转换/直接消除左递归例子.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-30-编译原理——语法分析/16.jpg" afterPath="$PROJECT_DIR$/img/2019-1-30-编译原理——语法分析/16.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-30-编译原理——语法分析/最右推导例子.png" afterPath="$PROJECT_DIR$/img/2019-1-30-编译原理——语法分析/最右推导例子.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-30-编译原理——语法分析/最左推导例子.png" afterPath="$PROJECT_DIR$/img/2019-1-30-编译原理——语法分析/最左推导例子.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-30-编译原理——语法分析/最左推导和最右推导的唯一性.png" afterPath="$PROJECT_DIR$/img/2019-1-30-编译原理——语法分析/最左推导和最右推导的唯一性.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-30-编译原理——语法分析/自顶向下分析例子.png" afterPath="$PROJECT_DIR$/img/2019-1-30-编译原理——语法分析/自顶向下分析例子.png" />
-      <change beforePath="$PROJECT_DIR$/img/2019-01-30-编译原理——语法分析/递归下降分析伪代码.png" afterPath="$PROJECT_DIR$/img/2019-1-30-编译原理——语法分析/递归下降分析伪代码.png" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-2-2-hadoop环境搭建.md" afterPath="$PROJECT_DIR$/_posts/2019-2-2-hadoop环境搭建.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -84,26 +14,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="2019-2-2-hadoop环境搭建.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2019-2-2-hadoop环境搭建.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2019-2-2-hadoop环境搭建.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="162">
-                <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+              <first_editor relative-caret-position="270">
+                <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
                 <folding>
-                  <marker date="1549093701657" expanded="true" signature="492:719" ph="..." />
-                  <marker date="1549093701657" expanded="true" signature="504:583" ph="..." />
-                  <marker date="1549093701657" expanded="true" signature="595:702" ph="..." />
-                  <marker date="1549093701657" expanded="true" signature="940:1336" ph="..." />
-                  <marker date="1549093701657" expanded="true" signature="979:1042" ph="..." />
-                  <marker date="1549093701657" expanded="true" signature="1054:1179" ph="..." />
-                  <marker date="1549093701657" expanded="true" signature="1194:1319" ph="..." />
-                  <marker date="1549093701657" expanded="true" signature="1581:1803" ph="..." />
-                  <marker date="1549093701657" expanded="true" signature="1594:1678" ph="..." />
-                  <marker date="1549093701657" expanded="true" signature="1692:1786" ph="..." />
-                  <marker date="1549093701657" expanded="true" signature="1926:2229" ph="..." />
-                  <marker date="1549093701657" expanded="true" signature="1990:2098" ph="..." />
-                  <marker date="1549093701657" expanded="true" signature="2113:2212" ph="..." />
+                  <marker date="1549093934600" expanded="true" signature="492:719" ph="..." />
+                  <marker date="1549093934600" expanded="true" signature="504:583" ph="..." />
+                  <marker date="1549093934600" expanded="true" signature="595:702" ph="..." />
+                  <marker date="1549093934600" expanded="true" signature="940:1336" ph="..." />
+                  <marker date="1549093934600" expanded="true" signature="979:1042" ph="..." />
+                  <marker date="1549093934600" expanded="true" signature="1054:1179" ph="..." />
+                  <marker date="1549093934600" expanded="true" signature="1194:1319" ph="..." />
+                  <marker date="1549093934600" expanded="true" signature="1581:1803" ph="..." />
+                  <marker date="1549093934600" expanded="true" signature="1594:1678" ph="..." />
+                  <marker date="1549093934600" expanded="true" signature="1692:1786" ph="..." />
+                  <marker date="1549093934600" expanded="true" signature="1926:2229" ph="..." />
+                  <marker date="1549093934600" expanded="true" signature="1990:2098" ph="..." />
+                  <marker date="1549093934600" expanded="true" signature="2113:2212" ph="..." />
                 </folding>
               </first_editor>
               <second_editor />
@@ -124,12 +54,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-1-23-Zookeeper环境的搭建以及简单测试.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-1-23-Zookeeper环境的搭建以及简单测试.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-1-23-Zookeeper环境的搭建以及简单测试.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="335">
-                <caret line="74" column="3" lean-forward="true" selection-start-line="74" selection-start-column="3" selection-end-line="74" selection-end-column="3" />
+              <first_editor relative-caret-position="270">
+                <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -289,6 +219,11 @@
               <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -462,7 +397,7 @@
       <workItem from="1548834565306" duration="2424000" />
       <workItem from="1548851951284" duration="1019000" />
       <workItem from="1549092325485" duration="614000" />
-      <workItem from="1549093147770" duration="577000" />
+      <workItem from="1549093147770" duration="788000" />
     </task>
     <task id="LOCAL-00001" summary="删除了原来的文章">
       <created>1547725344508</created>
@@ -730,11 +665,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548852369105</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="2019-2-2-hadoop环境搭建">
+      <created>1549093742063</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1549093742064</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31550000" />
+    <option name="totallyTimeSpent" value="31761000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -800,7 +742,8 @@
     <MESSAGE value="2019-01-29-记一次处理ZooKeeper和Kafka的问题" />
     <MESSAGE value="2019-01-30-编译原理——语法分析" />
     <MESSAGE value="2019-01-30-编译原理——文法转换" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-01-30-编译原理——文法转换" />
+    <MESSAGE value="2019-2-2-hadoop环境搭建" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-2-2-hadoop环境搭建" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -941,6 +884,7 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="297">
             <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1017,26 +961,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-2-2-hadoop环境搭建.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-1-23-Zookeeper环境的搭建以及简单测试.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="162">
-            <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-            <folding>
-              <marker date="1549093701657" expanded="true" signature="492:719" ph="..." />
-              <marker date="1549093701657" expanded="true" signature="504:583" ph="..." />
-              <marker date="1549093701657" expanded="true" signature="595:702" ph="..." />
-              <marker date="1549093701657" expanded="true" signature="940:1336" ph="..." />
-              <marker date="1549093701657" expanded="true" signature="979:1042" ph="..." />
-              <marker date="1549093701657" expanded="true" signature="1054:1179" ph="..." />
-              <marker date="1549093701657" expanded="true" signature="1194:1319" ph="..." />
-              <marker date="1549093701657" expanded="true" signature="1581:1803" ph="..." />
-              <marker date="1549093701657" expanded="true" signature="1594:1678" ph="..." />
-              <marker date="1549093701657" expanded="true" signature="1692:1786" ph="..." />
-              <marker date="1549093701657" expanded="true" signature="1926:2229" ph="..." />
-              <marker date="1549093701657" expanded="true" signature="1990:2098" ph="..." />
-              <marker date="1549093701657" expanded="true" signature="2113:2212" ph="..." />
-            </folding>
+          <first_editor relative-caret-position="270">
+            <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1053,12 +983,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-1-23-Zookeeper环境的搭建以及简单测试.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-2-2-hadoop环境搭建.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="335">
-            <caret line="74" column="3" lean-forward="true" selection-start-line="74" selection-start-column="3" selection-end-line="74" selection-end-column="3" />
-            <folding />
+          <first_editor relative-caret-position="270">
+            <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            <folding>
+              <marker date="1549093934600" expanded="true" signature="492:719" ph="..." />
+              <marker date="1549093934600" expanded="true" signature="504:583" ph="..." />
+              <marker date="1549093934600" expanded="true" signature="595:702" ph="..." />
+              <marker date="1549093934600" expanded="true" signature="940:1336" ph="..." />
+              <marker date="1549093934600" expanded="true" signature="979:1042" ph="..." />
+              <marker date="1549093934600" expanded="true" signature="1054:1179" ph="..." />
+              <marker date="1549093934600" expanded="true" signature="1194:1319" ph="..." />
+              <marker date="1549093934600" expanded="true" signature="1581:1803" ph="..." />
+              <marker date="1549093934600" expanded="true" signature="1594:1678" ph="..." />
+              <marker date="1549093934600" expanded="true" signature="1692:1786" ph="..." />
+              <marker date="1549093934600" expanded="true" signature="1926:2229" ph="..." />
+              <marker date="1549093934600" expanded="true" signature="1990:2098" ph="..." />
+              <marker date="1549093934600" expanded="true" signature="2113:2212" ph="..." />
+            </folding>
           </first_editor>
           <second_editor />
         </state>

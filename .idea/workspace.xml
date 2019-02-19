@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="2019-2-4-30分钟学会shell">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-2-14-Java基础复习.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-14-Java基础复习/23.jpg" />
+    <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-2-18 HBase环境搭建及初识.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-18-HBase环境搭建及初识/20.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-18-HBase环境搭建及初识/HBase解压.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-18-HBase环境搭建及初识/ZK版本.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-18-HBase环境搭建及初识/hbase自带ZKjar包版本.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-18-HBase环境搭建及初识/主节点和从节点ClusterID不一致.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-18-HBase环境搭建及初识/查看datanode磁盘情况.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-18-HBase环境搭建及初识/查看表数据.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-18-HBase环境搭建及初识/没有开启ZK启动hbase失败.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-18-HBase环境搭建及初识/界面访问不了.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,12 +97,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-2-14-Java基础复习.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-2-14-Java基础复习.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-2-14-Java基础复习.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="162">
-                <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="34" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="3" />
                 <folding>
                   <marker date="1550152004906" expanded="true" signature="1396:1443" ph="/**...*/" />
                   <marker date="1550152004906" expanded="true" signature="1658:1705" ph="/**...*/" />
@@ -179,6 +187,33 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="2019-2-18 HBase环境搭建及初识.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-2-18 HBase环境搭建及初识.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="162">
+                <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+                <folding>
+                  <marker date="1550561061191" expanded="true" signature="476:1081" ph="..." />
+                  <marker date="1550561061191" expanded="true" signature="488:601" ph="..." />
+                  <marker date="1550561061191" expanded="true" signature="613:689" ph="..." />
+                  <marker date="1550561061191" expanded="true" signature="701:817" ph="..." />
+                  <marker date="1550561061191" expanded="true" signature="829:924" ph="..." />
+                  <marker date="1550561061191" expanded="true" signature="936:1064" ph="..." />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZK版本.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/2019-2-18-HBase环境搭建及初识/ZK版本.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="2019-2-2-hive环境的搭建及运行.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-2-2-hive环境的搭建及运行.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -230,7 +265,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>mail</find>
       <find>email</find>
       <find>qiubaiying</find>
       <find>jianshu</find>
@@ -260,12 +294,14 @@
       <find>16.</find>
       <find>基本语句</find>
       <find>png</find>
+      <find>2019-2-18 HBase环境搭建及初识</find>
     </findStrings>
     <replaceStrings>
       <replace>zhouyimian</replace>
       <replace>KM BLog</replace>
       <replace>2019-01-24 编译原理绪论</replace>
       <replace>2019-1</replace>
+      <replace>2019-2-18-HBase环境搭建及初识</replace>
     </replaceStrings>
     <dirStrings>
       <dir>D:\IDEA_project\zhouyimian.github.io\img\view</dir>
@@ -309,6 +345,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-2-2-hive深入使用.md" />
         <option value="$PROJECT_DIR$/_posts/2019-2-4-30分钟学会shell.md" />
         <option value="$PROJECT_DIR$/_posts/2019-2-14-Java基础复习.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-2-18 HBase环境搭建及初识.md" />
       </list>
     </option>
   </component>
@@ -371,9 +408,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -391,11 +425,20 @@
               <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="2019-2-18-HBase环境搭建及初识" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -406,15 +449,15 @@
     <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-2-14-Java基础复习" />
-      <recent name="D:\IDEA_project\zhouyimian.github.io\img" />
-      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
-      <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-2-4-30分钟学会shell" />
-      <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-2-2-hive深入使用" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-2-18-HBase环境搭建及初识" />
+      <recent name="D:\IDEA_project\zhouyimian.github.io\img" />
+      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
+      <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-2-14-Java基础复习" />
+      <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-2-4-30分钟学会shell" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -558,7 +601,8 @@
       <workItem from="1549198925174" duration="599000" />
       <workItem from="1549205847961" duration="1479000" />
       <workItem from="1549286816013" duration="191000" />
-      <workItem from="1550151857411" duration="168000" />
+      <workItem from="1550151857411" duration="199000" />
+      <workItem from="1550559658202" duration="1087000" />
     </task>
     <task id="LOCAL-00001" summary="删除了原来的文章">
       <created>1547725344508</created>
@@ -861,11 +905,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549286955528</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="2019-2-14-Java基础复习">
+      <created>1550152043556</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1550152043556</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34935000" />
+    <option name="totallyTimeSpent" value="36053000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -878,21 +929,21 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28725702" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28239742" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -909,7 +960,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="马飞翔" />
     <MESSAGE value="HQL和SQL的联系与区别(未完成)" />
     <MESSAGE value="删除了没用的文章" />
     <MESSAGE value="构建失败了，删掉提示错误行" />
@@ -934,16 +984,14 @@
     <MESSAGE value="2019-2-2-hive环境的搭建及运行" />
     <MESSAGE value="2019-2-2-hive深入使用" />
     <MESSAGE value="2019-2-4-30分钟学会shell" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-2-4-30分钟学会shell" />
+    <MESSAGE value="2019-2-14-Java基础复习" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-2-14-Java基础复习" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/post-bg-debug.png" />
-    <entry file="file://$PROJECT_DIR$/img/post-bg-digital-native.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/post-bg-e2e-ux.jpg" />
     <entry file="file://$PROJECT_DIR$/img/post-bg-hacker.jpg" />
     <entry file="file://$PROJECT_DIR$/img/post-bg-github-cup.jpg" />
     <entry file="file://$PROJECT_DIR$/img/post-bg-ios9-web.jpg" />
@@ -1234,6 +1282,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/2019-2-14-Java基础复习/2019-2-14-Java基础复习.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2019-2-4-30分钟学会shell.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1245,22 +1294,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/2019-2-14-Java基础复习/2019-2-14-Java基础复习.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-2-14-Java基础复习.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="162">
-            <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="34" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="3" />
             <folding>
               <marker date="1550152004906" expanded="true" signature="1396:1443" ph="/**...*/" />
               <marker date="1550152004906" expanded="true" signature="1658:1705" ph="/**...*/" />
@@ -1338,6 +1376,40 @@
               <marker date="1550152004906" expanded="true" signature="18448:18455" ph="{...}" />
               <marker date="1550152004906" expanded="true" signature="18491:18498" ph="{...}" />
               <marker date="1550152004906" expanded="true" signature="18543:18846" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/2019-2-18-HBase环境搭建及初识/ZK版本.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/2019-2-18 HBase环境搭建及初识/2019-2-18 HBase环境搭建及初识.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-2-18 HBase环境搭建及初识.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="162">
+            <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+            <folding>
+              <marker date="1550561061191" expanded="true" signature="476:1081" ph="..." />
+              <marker date="1550561061191" expanded="true" signature="488:601" ph="..." />
+              <marker date="1550561061191" expanded="true" signature="613:689" ph="..." />
+              <marker date="1550561061191" expanded="true" signature="701:817" ph="..." />
+              <marker date="1550561061191" expanded="true" signature="829:924" ph="..." />
+              <marker date="1550561061191" expanded="true" signature="936:1064" ph="..." />
             </folding>
           </first_editor>
           <second_editor />

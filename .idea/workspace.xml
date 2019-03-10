@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-3-10-虚拟机集群搭建.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-3-10-虚拟机集群搭建/33.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-3-10-虚拟机集群搭建/basic.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-3-10-虚拟机集群搭建/skip.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-3-10-虚拟机集群搭建/xshell连接.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-3-10-虚拟机集群搭建/修改eth0文件.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-3-10-虚拟机集群搭建/修改hosts文件.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-3-10-虚拟机集群搭建/修改windowshost文件.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-3-10-虚拟机集群搭建/修改网卡.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-3-10-虚拟机集群搭建/创建虚拟机1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-3-10-虚拟机集群搭建/创建虚拟机2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-3-10-虚拟机集群搭建/成功ping通外网.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-3-10-虚拟机集群搭建/成功连接linux.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-3-10-虚拟机集群搭建/抛弃所有数据.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-3-10-虚拟机集群搭建/输入主机名.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-3-10-虚拟机集群搭建/选择镜像文件.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-3-10-虚拟机集群搭建/默认项.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/img/2019-3-10-虚拟机集群搭建/33.jpg" afterPath="$PROJECT_DIR$/img/2019-3-10-虚拟机集群搭建/33.jpg" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-3-7-B树、B+树、红黑树.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="288">
+              <first_editor relative-caret-position="2862">
                 <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
                 <folding />
               </first_editor>
@@ -50,16 +34,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-3-10-虚拟机集群搭建.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-3-10-虚拟机集群搭建.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="556">
-                <caret line="194" column="0" lean-forward="true" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
+      <file leaf-file-name="33.jpg" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/img/2019-3-10-虚拟机集群搭建/33.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basic.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/2019-3-10-虚拟机集群搭建/basic.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -249,7 +234,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -279,6 +263,7 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -458,14 +443,8 @@
       <workItem from="1551668498956" duration="688000" />
       <workItem from="1551961162040" duration="596000" />
       <workItem from="1551963360928" duration="1297000" />
-      <workItem from="1552200363053" duration="323000" />
-    </task>
-    <task id="LOCAL-00010" summary="修改了一些东西.">
-      <created>1547964426845</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1547964426845</updated>
+      <workItem from="1552200363053" duration="358000" />
+      <workItem from="1552201293068" duration="176000" />
     </task>
     <task id="LOCAL-00011" summary="2019-01-21-Typora比较常用的语法">
       <created>1548084756777</created>
@@ -803,14 +782,22 @@
       <option name="project" value="LOCAL" />
       <updated>1551963674654</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="2019-3-10-虚拟机集群搭建">
+      <created>1552200696081</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1552200696082</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50018000" />
+    <option name="totallyTimeSpent" value="50229000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -825,7 +812,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3536717" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3601512" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -851,7 +838,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2019-1-22-Zookeeper概念、原理、应用场景" />
     <MESSAGE value="2019-1-23-Zookeeper环境的搭建以及简单测试" />
     <MESSAGE value="2019-01-23-Zookeeper环境的搭建以及简单测试" />
     <MESSAGE value="2019-01-24-编译原理绪论" />
@@ -876,26 +862,14 @@
     <MESSAGE value="2019-3-1-Java多线程内容(3)" />
     <MESSAGE value="2019-2-28-快学Scala" />
     <MESSAGE value="2019-3-7-B树、B+树、红黑树、AVL树" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-3-7-B树、B+树、红黑树、AVL树" />
+    <MESSAGE value="2019-3-10-虚拟机集群搭建" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-3-10-虚拟机集群搭建" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/view/1.jpg" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/charlotte/005.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -1198,17 +1172,12 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-3-7-B树、B+树、红黑树.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="288">
+          <first_editor relative-caret-position="2862">
             <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/2019-3-10-虚拟机集群搭建/默认项.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-2-2-hadoop环境搭建.md">
@@ -1239,12 +1208,31 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-3-10-虚拟机集群搭建.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="556">
-            <caret line="194" column="0" lean-forward="true" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
-            <folding />
+          <first_editor relative-caret-position="97">
+            <caret line="177" column="30" lean-forward="false" selection-start-line="177" selection-start-column="30" selection-end-line="177" selection-end-column="30" />
           </first_editor>
           <second_editor />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/2019-3-10-虚拟机集群搭建/默认项.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/2019-3-10-虚拟机集群搭建/捕获.PNG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/2019-3-10-虚拟机集群搭建/basic.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/2019-3-10-虚拟机集群搭建/33.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>

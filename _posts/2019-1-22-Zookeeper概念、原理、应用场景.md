@@ -7,7 +7,6 @@ author:     BY KiloMeter
 header-img: img/2019-1-22-Zookeeper概念、原理、应用场景/9.jpg
 catalog: true
 tags:
-    - 大数据
     - Zookeeper
 ---
 

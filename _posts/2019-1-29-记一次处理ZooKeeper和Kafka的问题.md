@@ -8,7 +8,7 @@ header-img: img/2019-1-29-记一次处理ZooKeeper和Kafka的问题/22.jpg
 catalog: true
 tags:
     - Zookeeper
-    - kafka
+    - Kafka
 ---
 
 

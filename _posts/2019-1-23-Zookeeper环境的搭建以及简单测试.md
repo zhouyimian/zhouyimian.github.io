@@ -7,7 +7,6 @@ author:     BY KiloMeter
 header-img: img/2019-1-23-Zookeeper环境的搭建以及简单测试/6.jpg
 catalog: true
 tags:
-    - 大数据
     - Zookeeper
 ---
 

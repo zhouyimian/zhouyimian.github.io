@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-3-23-计算机网络-运输层.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-3-23-计算机网络-运输层/41.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-3-23-计算机网络-运输层.md" afterPath="$PROJECT_DIR$/_posts/2019-3-23-计算机网络之运输层.md" />
+      <change beforePath="$PROJECT_DIR$/img/2019-3-23-计算机网络-运输层/41.jpg" afterPath="$PROJECT_DIR$/img/2019-3-23-计算机网络之运输层/41.jpg" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -75,7 +75,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="243">
-                <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+                <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -83,12 +83,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-3-23-计算机网络-运输层.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-3-23-计算机网络-运输层.md">
+      <file leaf-file-name="2019-3-23-计算机网络之运输层.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-3-23-计算机网络之运输层.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-3023">
-                <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              <first_editor relative-caret-position="297">
+                <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -210,7 +210,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_posts/班级墙网站建设.md" />
         <option value="$PROJECT_DIR$/_posts/HQL和SQL的联系与区别.md" />
         <option value="$PROJECT_DIR$/index.html" />
@@ -261,6 +260,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案.md" />
         <option value="$PROJECT_DIR$/_posts/2019-3-22-Java动态代理.md" />
         <option value="$PROJECT_DIR$/_posts/2019-3-23-计算机网络-运输层.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-3-23-计算机网络之运输层.md" />
       </list>
     </option>
   </component>
@@ -323,6 +323,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -356,10 +358,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -547,14 +547,8 @@
       <workItem from="1552697518337" duration="1193000" />
       <workItem from="1552906023863" duration="578000" />
       <workItem from="1553237515912" duration="2285000" />
-      <workItem from="1553355397664" duration="380000" />
-    </task>
-    <task id="LOCAL-00021" summary="插入数学符号和公式">
-      <created>1548514913827</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1548514913827</updated>
+      <workItem from="1553355397664" duration="448000" />
+      <workItem from="1553355981789" duration="72000" />
     </task>
     <task id="LOCAL-00022" summary="插入数学符号和公式">
       <created>1548518417280</created>
@@ -892,14 +886,22 @@
       <option name="project" value="LOCAL" />
       <updated>1553237971968</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="2019-3-23-计算机网络-运输层">
+      <created>1553355791822</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1553355791822</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58498000" />
+    <option name="totallyTimeSpent" value="58638000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -914,7 +916,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34071276" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34665227" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -940,7 +942,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2019-01-25-编译原理——语言及其文法" />
     <MESSAGE value="2019-01-28-分布式事务初识" />
     <MESSAGE value="2019-01-29-记一次处理ZooKeeper和Kafka的问题" />
     <MESSAGE value="2019-01-30-编译原理——语法分析" />
@@ -965,7 +966,8 @@
     <MESSAGE value="2019-3-7-SparkCore解析" />
     <MESSAGE value="2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案" />
     <MESSAGE value="2019-3-22-Java动态代理" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-3-22-Java动态代理" />
+    <MESSAGE value="2019-3-23-计算机网络-运输层" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-3-23-计算机网络-运输层" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1334,7 +1336,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="243">
-            <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+            <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1376,11 +1378,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-3-23-计算机网络-运输层.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-3-23-计算机网络之运输层.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-3023">
-            <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <first_editor relative-caret-position="297">
+            <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

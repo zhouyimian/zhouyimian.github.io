@@ -7,11 +7,12 @@ author:     BY KiloMeter
 header-img: img/2019-4-7-用户访问session分析项目总结/32.jpg
 catalog: true
 tags:
-    - 计算机网络
+    - 项目
 ---
 ### 手头数据
 
-用户访问行为数据，字段包括了：date,user_id,session_id,page_id,action_time,search_keyword,click_category_id,click_product_id,order_category_ids,order_product_ids,pay_category_ids,pay_product_ids,city_id
+用户访问行为数据，字段包括了：date,user_id,session_id,page_id,action_time,search_keyword,click_category_id,click_product_id,
+order_category_ids,order_product_ids,pay_category_ids,pay_product_ids,city_id
 
 用户数据，字段包括了：
 

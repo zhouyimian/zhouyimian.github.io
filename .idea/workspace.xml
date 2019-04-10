@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-4-10-《Hadoop权威指南》读书笔记2.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-4-10-《Hadoop权威指南》读书笔记2/34.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-4-10-《Hadoop权威指南》读书笔记2/YARN架构位置.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-4-8-Spark常规性能调优.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-4-8-Spark常规性能调优/35.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,72 +15,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="2019-4-7-用户访问session分析项目总结.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-4-7-用户访问session分析项目总结.md">
+      <file leaf-file-name="2019-4-8-Spark常规性能调优.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-4-8-Spark常规性能调优.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
-                <folding>
-                  <marker date="1554723370206" expanded="true" signature="11020:11031" ph=" { " />
-                  <marker date="1554723370206" expanded="true" signature="11049:11055" ph=" }" />
-                  <marker date="1554723370206" expanded="true" signature="11121:11132" ph=" { " />
-                  <marker date="1554723370206" expanded="true" signature="11150:11156" ph=" }" />
-                  <marker date="1554723370206" expanded="true" signature="11227:12087" ph="{...}" />
-                  <marker date="1554723370206" expanded="true" signature="12093:12192" ph="/**...*/" />
-                  <marker date="1554723370206" expanded="true" signature="12236:12585" ph="{...}" />
-                  <marker date="1554723370206" expanded="true" signature="25236:25332" ph="{...}" />
-                  <marker date="1554723370206" expanded="true" signature="25393:25734" ph="{...}" />
-                  <marker date="1554723370206" expanded="true" signature="25798:26011" ph="{...}" />
-                  <marker date="1554723370206" expanded="true" signature="26070:26411" ph="{...}" />
-                  <marker date="1554723370206" expanded="true" signature="26472:26682" ph="{...}" />
-                  <marker date="1554723370206" expanded="true" signature="26738:27070" ph="{...}" />
-                  <marker date="1554723370206" expanded="true" signature="27128:27133" ph=" { " />
-                  <marker date="1554723370206" expanded="true" signature="27155:27158" ph=" }" />
-                  <marker date="1554723370206" expanded="true" signature="27188:27193" ph=" { " />
-                  <marker date="1554723370206" expanded="true" signature="27211:27214" ph=" }" />
-                  <marker date="1554723370206" expanded="true" signature="27259:27264" ph=" { " />
-                  <marker date="1554723370206" expanded="true" signature="27293:27296" ph=" }" />
-                  <marker date="1554723370206" expanded="true" signature="27326:27331" ph=" { " />
-                  <marker date="1554723370206" expanded="true" signature="27349:27352" ph=" }" />
-                  <marker date="1554723370206" expanded="true" signature="27397:27402" ph=" { " />
-                  <marker date="1554723370206" expanded="true" signature="27431:27434" ph=" }" />
-                  <marker date="1554723370206" expanded="true" signature="27462:27467" ph=" { " />
-                  <marker date="1554723370206" expanded="true" signature="27483:27486" ph=" }" />
-                  <marker date="1554723370206" expanded="true" signature="27527:27532" ph=" { " />
-                  <marker date="1554723370206" expanded="true" signature="27557:27560" ph=" }" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-3-22-Java动态代理.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-3-22-Java动态代理.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="243">
-                <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-                <folding>
-                  <marker date="1553237880556" expanded="true" signature="357:387" ph="{...}" />
-                  <marker date="1553237880556" expanded="true" signature="436:537" ph="{...}" />
-                  <marker date="1553237880556" expanded="false" signature="484:495" ph=" { " />
-                  <marker date="1553237880556" expanded="false" signature="529:535" ph=" }" />
-                  <marker date="1553237880556" expanded="true" signature="582:661" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-4-9-《Hadoop权威指南》读书笔记1.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-4-9-《Hadoop权威指南》读书笔记1.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="108">
+                <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -89,19 +28,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="34.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/2019-4-10-《Hadoop权威指南》读书笔记2/34.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-4-10-《Hadoop权威指南》读书笔记2.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-4-10-《Hadoop权威指南》读书笔记2.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-4-10-《Hadoop权威指南》读书笔记2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="335">
-                <caret line="106" column="0" lean-forward="true" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
                 <folding>
                   <marker date="1554895039344" expanded="true" signature="1751:2636" ph="..." />
                   <marker date="1554895039344" expanded="true" signature="1766:1871" ph="..." />
@@ -187,7 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2019-01-24-编译原理绪论.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-23-Zookeeper环境的搭建以及简单测试.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-22-Zookeeper概念、原理、应用场景.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-28-分布式事务初识.md" />
@@ -238,6 +169,7 @@
         <option value="$PROJECT_DIR$/img/2019-4-9-《Hadoop权威指南》读书笔记1/2019-4-9-《Hadoop权威指南》读书笔记1.md" />
         <option value="$PROJECT_DIR$/_posts/2019-4-9-《Hadoop权威指南》读书笔记1.md" />
         <option value="$PROJECT_DIR$/_posts/2019-4-10-《Hadoop权威指南》读书笔记2.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-4-8-Spark常规性能调优.md" />
       </list>
     </option>
   </component>
@@ -300,8 +232,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -353,6 +284,12 @@
               <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="2019-4-8-Spark常规性能调优" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="2019-4-9-《Hadoop权威指南》读书笔记1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -366,7 +303,8 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -380,15 +318,15 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\IDEA_project\zhouyimian.github.io\img" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-3-23-计算机网络-运输层" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-3-22-Java动态代理" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-3-7-SparkCore解析" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -562,14 +500,8 @@
       <workItem from="1554519054503" duration="2150000" />
       <workItem from="1554722815341" duration="624000" />
       <workItem from="1554867008089" duration="160000" />
-      <workItem from="1554894182118" duration="779000" />
-    </task>
-    <task id="LOCAL-00030" summary="2019-01-25-编译原理——语言及其文法">
-      <created>1548590741143</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1548590741143</updated>
+      <workItem from="1554894182118" duration="1427000" />
+      <workItem from="1554903799111" duration="220000" />
     </task>
     <task id="LOCAL-00031" summary="2019-01-28-分布式事务初识">
       <created>1548742568210</created>
@@ -907,11 +839,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554867138486</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="2019-4-10-《Hadoop权威指南》读书笔记2">
+      <created>1554895052197</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1554895052198</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65913000" />
+    <option name="totallyTimeSpent" value="66781000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -923,21 +862,21 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39146867" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39848813" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -955,7 +894,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2019-2-2-hadoop环境搭建" />
     <MESSAGE value="2019-2-2-hive环境的搭建及运行" />
     <MESSAGE value="2019-2-2-hive深入使用" />
     <MESSAGE value="2019-2-4-30分钟学会shell" />
@@ -980,14 +918,14 @@
     <MESSAGE value="2019-3-14-《kafka权威指南》读书笔记2" />
     <MESSAGE value="2019-4-7-用户访问session分析项目总结" />
     <MESSAGE value="2019-4-9-《Hadoop权威指南》读书笔记1" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-4-9-《Hadoop权威指南》读书笔记1" />
+    <MESSAGE value="2019-4-10-《Hadoop权威指南》读书笔记2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-4-10-《Hadoop权威指南》读书笔记2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/2019-2-28-快学Scala/2019-2-28-快学Scala.md" />
     <entry file="file://$PROJECT_DIR$/img/2019-3-10-虚拟机集群搭建/捕获.PNG" />
     <entry file="file://$PROJECT_DIR$/img/2019-3-10-虚拟机集群搭建/basic.png">
       <provider selected="true" editor-type-id="images">
@@ -1443,8 +1381,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-4-10-《Hadoop权威指南》读书笔记2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="335">
-            <caret line="106" column="0" lean-forward="true" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
             <folding>
               <marker date="1554895039344" expanded="true" signature="1751:2636" ph="..." />
               <marker date="1554895039344" expanded="true" signature="1766:1871" ph="..." />
@@ -1462,6 +1400,17 @@
               <marker date="1554895039344" expanded="true" signature="4228:4305" ph="..." />
               <marker date="1554895039344" expanded="true" signature="4398:4449" ph="..." />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-4-8-Spark常规性能调优.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="108">
+            <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>

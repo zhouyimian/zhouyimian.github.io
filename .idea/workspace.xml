@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-4-13-Spark 数据倾斜解决方法.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-4-13-Spark 数据倾斜解决方法/37.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-3-15-SparkSQL应用.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-3-15-SparkSQL应用/38.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-3-15-SparkSQL应用/rdd和dataframe的比较.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,131 +16,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="2019-4-8-Spark常规性能调优.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-4-8-Spark常规性能调优.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="297">
-                <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-4-9-《Hadoop权威指南》读书笔记1.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-4-9-《Hadoop权威指南》读书笔记1.md">
+      <file leaf-file-name="2019-3-15-SparkSQL应用.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-3-15-SparkSQL应用.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-3-23-计算机网络之运输层.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-3-23-计算机网络之运输层.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-1-19-HQL和SQL的联系与区别.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-1-19-HQL和SQL的联系与区别.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="243">
-                <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-4-10-《Hadoop权威指南》读书笔记2.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-4-10-《Hadoop权威指南》读书笔记2.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="297">
-                <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <first_editor relative-caret-position="162">
+                <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="36" />
                 <folding>
-                  <marker date="1554895039344" expanded="true" signature="1751:2636" ph="..." />
-                  <marker date="1554895039344" expanded="true" signature="1766:1871" ph="..." />
-                  <marker date="1554895039344" expanded="true" signature="1886:1998" ph="..." />
-                  <marker date="1554895039344" expanded="true" signature="2013:2119" ph="..." />
-                  <marker date="1554895039344" expanded="true" signature="2134:2239" ph="..." />
-                  <marker date="1554895039344" expanded="true" signature="2254:2367" ph="..." />
-                  <marker date="1554895039344" expanded="true" signature="2382:2491" ph="..." />
-                  <marker date="1554895039344" expanded="true" signature="2506:2619" ph="..." />
-                  <marker date="1554895039344" expanded="true" signature="2901:3432" ph="..." />
-                  <marker date="1554895039344" expanded="true" signature="2995:3086" ph="..." />
-                  <marker date="1554895039344" expanded="true" signature="3109:3212" ph="..." />
-                  <marker date="1554895039344" expanded="true" signature="3239:3417" ph="..." />
-                  <marker date="1554895039344" expanded="true" signature="3722:3884" ph="..." />
-                  <marker date="1554895039344" expanded="true" signature="4228:4305" ph="..." />
-                  <marker date="1554895039344" expanded="true" signature="4398:4449" ph="..." />
+                  <marker date="1555208646588" expanded="true" signature="1032:1078" ph="(...)" />
+                  <marker date="1555208646588" expanded="true" signature="1347:1403" ph="(...)" />
+                  <marker date="1555208646588" expanded="true" signature="2821:2871" ph="(...)" />
+                  <marker date="1555208646588" expanded="true" signature="3087:3143" ph="(...)" />
                 </folding>
               </first_editor>
               <second_editor />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shuffle过程.PNG" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/2019-4-12-Spark Shuffle调优/shuffle过程.PNG">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-4-12-Spark Shuffle调优.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-4-12-Spark Shuffle调优.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-4-13-Spark 数据倾斜解决方法.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-4-13-Spark 数据倾斜解决方法.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="162">
-                <caret line="6" column="40" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="40" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="YARN架构位置.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/2019-4-10-《Hadoop权威指南》读书笔记2/YARN架构位置.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="36.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/2019-4-12-Spark Shuffle调优/36.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -206,8 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2019-01-28-分布式事务初识.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-01-25-编译原理——语言及其文法.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-29-记一次处理ZooKeeper和Kafka的问题.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-30-编译原理——语法分析.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-30-编译原理——文法转换.md" />
@@ -257,6 +145,8 @@
         <option value="$PROJECT_DIR$/_posts/2019-4-12-Spark Shuffle调优.md" />
         <option value="$PROJECT_DIR$/_posts/2019-4-8-Spark常规性能调优.md" />
         <option value="$PROJECT_DIR$/_posts/2019-4-13-Spark 数据倾斜解决方法.md" />
+        <option value="$PROJECT_DIR$/img/2019-3-15-SparkSQL应用/2019-3-15-SparkSQL应用.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-3-15-SparkSQL应用.md" />
       </list>
     </option>
   </component>
@@ -319,8 +209,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -354,56 +246,18 @@
               <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="2019-3-15-SparkSQL应用" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="2019-3-22-Java动态代理" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="2019-4-7-用户访问session分析项目总结" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="2019-4-8-Spark常规性能调优" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="2019-4-9-《Hadoop权威指南》读书笔记1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="2019-4-10-《Hadoop权威指南》读书笔记2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="2019-4-12-Spark Shuffle调优" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="2019-4-13-Spark 数据倾斜解决方法" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -417,15 +271,15 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\IDEA_project\zhouyimian.github.io\img" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-4-12-Spark Shuffle调优" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-3-23-计算机网络-运输层" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-3-22-Java动态代理" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -603,14 +457,8 @@
       <workItem from="1554903799111" duration="831000" />
       <workItem from="1555074835754" duration="873000" />
       <workItem from="1555156026296" duration="664000" />
-      <workItem from="1555172483740" duration="141000" />
-    </task>
-    <task id="LOCAL-00034" summary="2019-01-30-编译原理——语法分析">
-      <created>1548835184721</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1548835184721</updated>
+      <workItem from="1555172483740" duration="228000" />
+      <workItem from="1555207205633" duration="1316000" />
     </task>
     <task id="LOCAL-00035" summary="2019-01-30-编译原理——语法分析">
       <created>1548836131378</created>
@@ -948,11 +796,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555156059167</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="2019-4-13-Spark 数据倾斜解决方法">
+      <created>1555172636037</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1555172636038</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69070000" />
+    <option name="totallyTimeSpent" value="70473000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -972,7 +827,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2948164" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.300216" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -997,7 +852,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2019-2-4-30分钟学会shell" />
     <MESSAGE value="2019-2-14-Java基础复习" />
     <MESSAGE value="2019-2-18-HBase环境搭建及初识" />
     <MESSAGE value="2019-2-26-JVM知识点" />
@@ -1022,30 +876,14 @@
     <MESSAGE value="2019-4-10-《Hadoop权威指南》读书笔记2" />
     <MESSAGE value="2019-4-12-Spark Shuffle调优" />
     <MESSAGE value="2019-4-8-Spark常规性能调优" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-4-8-Spark常规性能调优" />
+    <MESSAGE value="2019-4-13-Spark 数据倾斜解决方法" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-4-13-Spark 数据倾斜解决方法" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="297">
-            <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -1238,31 +1076,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-3-7-SparkCore解析.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="54">
-            <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-1-23-Zookeeper环境的搭建以及简单测试.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="270">
             <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           </first_editor>
           <second_editor />
         </state>
@@ -1343,16 +1161,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-3-14-《kafka权威指南》读书笔记2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/2019-4-7-用户访问session分析项目总结/32.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1388,7 +1196,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1399,7 +1206,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="243">
             <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1458,21 +1264,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-3-23-计算机网络之运输层.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-4-8-Spark常规性能调优.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="297">
+          <first_editor relative-caret-position="0">
             <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
             <folding />
           </first_editor>
@@ -1491,12 +1286,77 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/2019-4-13-Spark 数据倾斜解决方法/37.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-4-13-Spark 数据倾斜解决方法.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="162">
-            <caret line="6" column="40" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="40" />
+          <first_editor relative-caret-position="270">
+            <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
             <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-3-7-SparkCore解析.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-3-14-《kafka权威指南》读书笔记2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-3-23-计算机网络之运输层.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-3-15-SparkSQL应用.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="162">
+            <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="36" />
+            <folding>
+              <marker date="1555208646588" expanded="true" signature="1032:1078" ph="(...)" />
+              <marker date="1555208646588" expanded="true" signature="1347:1403" ph="(...)" />
+              <marker date="1555208646588" expanded="true" signature="2821:2871" ph="(...)" />
+              <marker date="1555208646588" expanded="true" signature="3087:3143" ph="(...)" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>

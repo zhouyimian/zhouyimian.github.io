@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-3-23-计算机网络之运输层.md" afterPath="$PROJECT_DIR$/_posts/2019-3-23-计算机网络之运输层.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-4-20-nginx+flume+hdfs+MR+HBase日志分析.md" afterPath="$PROJECT_DIR$/_posts/2019-4-20-nginx+flume+hdfs+MR+HBase日志分析.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,20 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="2019-4-20-nginx+flume+hdfs+MR+HBase日志分析.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2019-4-20-nginx+flume+hdfs+MR+HBase日志分析.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2019-4-20-nginx+flume+hdfs+MR+HBase日志分析.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2187">
-                <caret line="81" column="0" lean-forward="true" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+              <first_editor relative-caret-position="243">
+                <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
                 <folding>
-                  <marker date="1555776728653" expanded="true" signature="941:1078" ph="..." />
-                  <marker date="1555776728653" expanded="true" signature="1096:1418" ph="..." />
-                  <marker date="1555776728653" expanded="true" signature="1241:1400" ph="..." />
-                  <marker date="1555776728653" expanded="true" signature="1261:1380" ph="..." />
-                  <marker date="1555776728653" expanded="true" signature="1436:1758" ph="..." />
-                  <marker date="1555776728653" expanded="true" signature="1581:1740" ph="..." />
-                  <marker date="1555776728653" expanded="true" signature="1601:1720" ph="..." />
+                  <marker date="1555777628440" expanded="true" signature="938:1075" ph="..." />
+                  <marker date="1555777628440" expanded="true" signature="1093:1415" ph="..." />
+                  <marker date="1555777628440" expanded="true" signature="1238:1397" ph="..." />
+                  <marker date="1555777628440" expanded="true" signature="1258:1377" ph="..." />
+                  <marker date="1555777628440" expanded="true" signature="1433:1755" ph="..." />
+                  <marker date="1555777628440" expanded="true" signature="1578:1737" ph="..." />
+                  <marker date="1555777628440" expanded="true" signature="1598:1717" ph="..." />
                 </folding>
               </first_editor>
               <second_editor />
@@ -35,12 +35,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-3-23-计算机网络之运输层.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-3-23-计算机网络之运输层.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-3-23-计算机网络之运输层.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="470">
-                <caret line="137" column="12" lean-forward="true" selection-start-line="137" selection-start-column="12" selection-end-line="137" selection-end-column="12" />
+              <first_editor relative-caret-position="472">
+                <caret line="137" column="12" lean-forward="false" selection-start-line="137" selection-start-column="12" selection-end-line="137" selection-end-column="12" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -185,8 +185,8 @@
         <option value="$PROJECT_DIR$/img/2019-4-15-Sqoop使用/2019-4-15-Sqoop使用.md" />
         <option value="$PROJECT_DIR$/_posts/2019-4-15-Sqoop使用.md" />
         <option value="$PROJECT_DIR$/img/2019-4-20-nginx+flume+hdfs+MR+HBase日志分析/2019-4-20-nginx+flume+hdfs+MR+HBase日志分析.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-4-20-nginx+flume+hdfs+MR+HBase日志分析.md" />
         <option value="$PROJECT_DIR$/_posts/2019-3-23-计算机网络之运输层.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-4-20-nginx+flume+hdfs+MR+HBase日志分析.md" />
       </list>
     </option>
   </component>
@@ -249,6 +249,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -317,10 +320,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -525,14 +525,8 @@
       <workItem from="1555257580995" duration="262000" />
       <workItem from="1555343687862" duration="1028000" />
       <workItem from="1555344981980" duration="262000" />
-      <workItem from="1555776382905" duration="410000" />
-    </task>
-    <task id="LOCAL-00040" summary="2019-2-2-hadoop环境搭建">
-      <created>1549093942206</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1549093942206</updated>
+      <workItem from="1555776382905" duration="470000" />
+      <workItem from="1555777610140" duration="23000" />
     </task>
     <task id="LOCAL-00041" summary="2019-2-2-hive环境的搭建及运行">
       <created>1549119153318</created>
@@ -870,11 +864,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555776748858</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="2019-3-23-计算机网络之运输层">
+      <created>1555776802621</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1555776802621</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73087000" />
+    <option name="totallyTimeSpent" value="73170000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -886,21 +887,21 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32721382" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32181427" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -929,7 +930,6 @@
     <MESSAGE value="2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案" />
     <MESSAGE value="2019-3-22-Java动态代理" />
     <MESSAGE value="2019-3-23-计算机网络-运输层" />
-    <MESSAGE value="2019-3-23-计算机网络之运输层" />
     <MESSAGE value="2019-2-28-Java多线程内容(1)" />
     <MESSAGE value="2019-3-1-Java多线程内容(3)" />
     <MESSAGE value="2019-3-14-《kafka权威指南》读书笔记2" />
@@ -943,7 +943,8 @@
     <MESSAGE value="2019-4-14-nginx+flume+hdfs收集日志" />
     <MESSAGE value="2019-4-15-Sqoop使用" />
     <MESSAGE value="2019-4-20-nginx+flume+hdfs+MR+HBase日志分析" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-4-20-nginx+flume+hdfs+MR+HBase日志分析" />
+    <MESSAGE value="2019-3-23-计算机网络之运输层" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-3-23-计算机网络之运输层" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1330,12 +1331,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="189">
             <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            <folding>
-              <marker date="1555208646588" expanded="true" signature="1032:1078" ph="(...)" />
-              <marker date="1555208646588" expanded="true" signature="1347:1403" ph="(...)" />
-              <marker date="1555208646588" expanded="true" signature="2821:2871" ph="(...)" />
-              <marker date="1555208646588" expanded="true" signature="3087:3143" ph="(...)" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1356,7 +1351,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1372,7 +1366,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="189">
             <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1400,31 +1393,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-4-20-nginx+flume+hdfs+MR+HBase日志分析.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-3-23-计算机网络之运输层.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2187">
-            <caret line="81" column="0" lean-forward="true" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
-            <folding>
-              <marker date="1555776728653" expanded="true" signature="941:1078" ph="..." />
-              <marker date="1555776728653" expanded="true" signature="1096:1418" ph="..." />
-              <marker date="1555776728653" expanded="true" signature="1241:1400" ph="..." />
-              <marker date="1555776728653" expanded="true" signature="1261:1380" ph="..." />
-              <marker date="1555776728653" expanded="true" signature="1436:1758" ph="..." />
-              <marker date="1555776728653" expanded="true" signature="1581:1740" ph="..." />
-              <marker date="1555776728653" expanded="true" signature="1601:1720" ph="..." />
-            </folding>
+          <first_editor relative-caret-position="472">
+            <caret line="137" column="12" lean-forward="false" selection-start-line="137" selection-start-column="12" selection-end-line="137" selection-end-column="12" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-3-23-计算机网络之运输层.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-4-20-nginx+flume+hdfs+MR+HBase日志分析.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="470">
-            <caret line="137" column="12" lean-forward="true" selection-start-line="137" selection-start-column="12" selection-end-line="137" selection-end-column="12" />
-            <folding />
+          <first_editor relative-caret-position="243">
+            <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            <folding>
+              <marker date="1555777628440" expanded="true" signature="938:1075" ph="..." />
+              <marker date="1555777628440" expanded="true" signature="1093:1415" ph="..." />
+              <marker date="1555777628440" expanded="true" signature="1238:1397" ph="..." />
+              <marker date="1555777628440" expanded="true" signature="1258:1377" ph="..." />
+              <marker date="1555777628440" expanded="true" signature="1433:1755" ph="..." />
+              <marker date="1555777628440" expanded="true" signature="1578:1737" ph="..." />
+              <marker date="1555777628440" expanded="true" signature="1598:1717" ph="..." />
+            </folding>
           </first_editor>
           <second_editor />
         </state>

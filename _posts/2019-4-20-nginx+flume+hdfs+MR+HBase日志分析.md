@@ -7,7 +7,7 @@ author:     BY KiloMeter
 header-img: img/2019-4-20-nginx+flume+hdfs+MR+HBase日志分析/40.png
 catalog: true
 tags:
-    - Sqoop
+    - 项目
 ---
 [nginx+flume+hdfs收集日志](https://zhouyimian.github.io/2019/04/14/nginx+flume+hdfs%E6%94%B6%E9%9B%86%E6%97%A5%E5%BF%97/)这一篇接着，开始对数据进行处理，通过Mapreduce对数据进行清洗和转换，然后把清洗后的结果写入到HBase
 

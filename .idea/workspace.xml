@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-4-20-nginx+flume+hdfs+MR+HBase日志分析.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-4-20-nginx+flume+hdfs+MR+HBase日志分析/40.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-4-20-nginx+flume+hdfs+MR+HBase日志分析/连接不上HBase和Zookeeper.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-3-23-计算机网络之运输层.md" afterPath="$PROJECT_DIR$/_posts/2019-3-23-计算机网络之运输层.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="2019-4-20-nginx+flume+hdfs+MR+HBase日志分析.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-4-20-nginx+flume+hdfs+MR+HBase日志分析.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-4-20-nginx+flume+hdfs+MR+HBase日志分析.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -31,6 +29,19 @@
                   <marker date="1555776728653" expanded="true" signature="1581:1740" ph="..." />
                   <marker date="1555776728653" expanded="true" signature="1601:1720" ph="..." />
                 </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-3-23-计算机网络之运输层.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-3-23-计算机网络之运输层.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="470">
+                <caret line="137" column="12" lean-forward="true" selection-start-line="137" selection-start-column="12" selection-end-line="137" selection-end-column="12" />
+                <folding />
               </first_editor>
               <second_editor />
             </state>
@@ -155,7 +166,6 @@
         <option value="$PROJECT_DIR$/_posts/2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案.md" />
         <option value="$PROJECT_DIR$/_posts/2019-3-22-Java动态代理.md" />
         <option value="$PROJECT_DIR$/_posts/2019-3-23-计算机网络-运输层.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-3-23-计算机网络之运输层.md" />
         <option value="$PROJECT_DIR$/_posts/2019-2-28-Java多线程内容(1).md" />
         <option value="$PROJECT_DIR$/_posts/2019-3-1-Java多线程内容(3).md" />
         <option value="$PROJECT_DIR$/img/2019-3-14-《kafka权威指南》读书笔记2/2019-3-14-《kafka权威指南》读书笔记2.md" />
@@ -176,6 +186,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-4-15-Sqoop使用.md" />
         <option value="$PROJECT_DIR$/img/2019-4-20-nginx+flume+hdfs+MR+HBase日志分析/2019-4-20-nginx+flume+hdfs+MR+HBase日志分析.md" />
         <option value="$PROJECT_DIR$/_posts/2019-4-20-nginx+flume+hdfs+MR+HBase日志分析.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-3-23-计算机网络之运输层.md" />
       </list>
     </option>
   </component>
@@ -514,14 +525,7 @@
       <workItem from="1555257580995" duration="262000" />
       <workItem from="1555343687862" duration="1028000" />
       <workItem from="1555344981980" duration="262000" />
-      <workItem from="1555776382905" duration="350000" />
-    </task>
-    <task id="LOCAL-00039" summary="2019-2-2-hadoop环境搭建">
-      <created>1549093742063</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1549093742064</updated>
+      <workItem from="1555776382905" duration="410000" />
     </task>
     <task id="LOCAL-00040" summary="2019-2-2-hadoop环境搭建">
       <created>1549093942206</created>
@@ -859,11 +863,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555345031188</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="2019-4-20-nginx+flume+hdfs+MR+HBase日志分析">
+      <created>1555776748856</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1555776748858</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73027000" />
+    <option name="totallyTimeSpent" value="73087000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -907,7 +918,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2019-2-28-JAVA集合基础内容" />
     <MESSAGE value="2019-3-1-Java多线程内容(2)" />
     <MESSAGE value="Java多线程内容(3)" />
     <MESSAGE value="2019-2-28-快学Scala" />
@@ -932,7 +942,8 @@
     <MESSAGE value="2019-3-15-SparkSQL应用" />
     <MESSAGE value="2019-4-14-nginx+flume+hdfs收集日志" />
     <MESSAGE value="2019-4-15-Sqoop使用" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-4-15-Sqoop使用" />
+    <MESSAGE value="2019-4-20-nginx+flume+hdfs+MR+HBase日志分析" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-4-20-nginx+flume+hdfs+MR+HBase日志分析" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1314,16 +1325,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-3-23-计算机网络之运输层.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-3-15-SparkSQL应用.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1413,6 +1414,17 @@
               <marker date="1555776728653" expanded="true" signature="1581:1740" ph="..." />
               <marker date="1555776728653" expanded="true" signature="1601:1720" ph="..." />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-3-23-计算机网络之运输层.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="470">
+            <caret line="137" column="12" lean-forward="true" selection-start-line="137" selection-start-column="12" selection-end-line="137" selection-end-column="12" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>

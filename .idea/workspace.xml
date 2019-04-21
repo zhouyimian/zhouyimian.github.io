@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-3-24-《数据仓库工具箱 维度权威建模指南 第三版》读书笔记.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-3-24-《数据仓库工具箱 维度权威建模指南 第三版》读书笔记/41.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-3-24-《数据仓库工具箱 维度权威建模指南 第三版》读书笔记/DW-BI核心架构.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-3-24-《数据仓库工具箱 维度权威建模指南 第三版》读书笔记/事实表和维度表.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-3-24-《数据仓库工具箱 维度权威建模指南 第三版》读书笔记/产品维度表.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-3-24-《数据仓库工具箱 维度权威建模指南 第三版》读书笔记/星型模型.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-4-20-nginx+flume+hdfs+MR+HBase日志分析.md" afterPath="$PROJECT_DIR$/_posts/2019-4-20-nginx+flume+hdfs+MR+HBase日志分析.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,33 +19,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="2019-4-20-nginx+flume+hdfs+MR+HBase日志分析.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-4-20-nginx+flume+hdfs+MR+HBase日志分析.md">
+      <file leaf-file-name="2019-3-24-《数据仓库工具箱 维度权威建模指南 第三版》读书笔记.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-3-24-《数据仓库工具箱 维度权威建模指南 第三版》读书笔记.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="243">
-                <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-                <folding>
-                  <marker date="1555777628440" expanded="true" signature="938:1075" ph="..." />
-                  <marker date="1555777628440" expanded="true" signature="1093:1415" ph="..." />
-                  <marker date="1555777628440" expanded="true" signature="1238:1397" ph="..." />
-                  <marker date="1555777628440" expanded="true" signature="1258:1377" ph="..." />
-                  <marker date="1555777628440" expanded="true" signature="1433:1755" ph="..." />
-                  <marker date="1555777628440" expanded="true" signature="1578:1737" ph="..." />
-                  <marker date="1555777628440" expanded="true" signature="1598:1717" ph="..." />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-3-23-计算机网络之运输层.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-3-23-计算机网络之运输层.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="472">
-                <caret line="137" column="12" lean-forward="false" selection-start-line="137" selection-start-column="12" selection-end-line="137" selection-end-column="12" />
+              <first_editor relative-caret-position="610">
+                <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -48,25 +32,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-4-15-Sqoop使用.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-4-15-Sqoop使用.md">
+      <file leaf-file-name="2019-4-7-用户访问session分析项目总结.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-4-7-用户访问session分析项目总结.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-4-14-nginx+flume+hdfs收集日志.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-4-14-nginx+flume+hdfs收集日志.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
+              <first_editor relative-caret-position="459">
+                <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="48" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -78,7 +49,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>句子和句型</find>
       <find>==</find>
       <find>L(</find>
       <find>br</find>
@@ -108,6 +78,7 @@
       <find>synchronize</find>
       <find>31.jpg</find>
       <find>png</find>
+      <find>D:\githubIO博客\2019-3-24-《数据仓库工具箱 维度权威建模指南 第三版》读书笔记\</find>
     </findStrings>
     <replaceStrings>
       <replace>zhouyimian</replace>
@@ -119,6 +90,7 @@
       <replace>/img/2019-2-28-快学Scala/</replace>
       <replace>/img/2019-3-10-虚拟机集群搭建\</replace>
       <replace>/img/2019-3-10-虚拟机集群搭建/</replace>
+      <replace>/img/2019-3-24-《数据仓库工具箱 维度权威建模指南 第三版》读书笔记/</replace>
     </replaceStrings>
     <dirStrings>
       <dir>D:\IDEA_project\zhouyimian.github.io\img\view</dir>
@@ -136,8 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2019-2-18 HBase环境搭建及初识.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-2-28-快学Scala.md" />
         <option value="$PROJECT_DIR$/_posts/2019-3-10-虚拟机集群搭建.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2019-3-13-《kafka权威指南》读书笔记.md" />
@@ -187,6 +157,8 @@
         <option value="$PROJECT_DIR$/img/2019-4-20-nginx+flume+hdfs+MR+HBase日志分析/2019-4-20-nginx+flume+hdfs+MR+HBase日志分析.md" />
         <option value="$PROJECT_DIR$/_posts/2019-3-23-计算机网络之运输层.md" />
         <option value="$PROJECT_DIR$/_posts/2019-4-20-nginx+flume+hdfs+MR+HBase日志分析.md" />
+        <option value="$PROJECT_DIR$/img/2019-3-24-《数据仓库工具箱 维度权威建模指南 第三版》读书笔记/2019-3-24-《数据仓库工具箱 维度权威建模指南 第三版》读书笔记.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-3-24-《数据仓库工具箱 维度权威建模指南 第三版》读书笔记.md" />
       </list>
     </option>
   </component>
@@ -249,9 +221,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -302,6 +274,12 @@
               <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="2019-3-24-《数据仓库工具箱 维度权威建模指南 第三版》读书笔记" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="2019-4-14-nginx+flume+hdfs收集日志" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -320,7 +298,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -334,15 +312,15 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\IDEA_project\zhouyimian.github.io\img" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-4-12-Spark Shuffle调优" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-3-23-计算机网络-运输层" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-3-22-Java动态代理" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -526,14 +504,8 @@
       <workItem from="1555343687862" duration="1028000" />
       <workItem from="1555344981980" duration="262000" />
       <workItem from="1555776382905" duration="470000" />
-      <workItem from="1555777610140" duration="23000" />
-    </task>
-    <task id="LOCAL-00041" summary="2019-2-2-hive环境的搭建及运行">
-      <created>1549119153318</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1549119153318</updated>
+      <workItem from="1555777610140" duration="64000" />
+      <workItem from="1555858112815" duration="498000" />
     </task>
     <task id="LOCAL-00042" summary="2019-2-2-hive深入使用">
       <created>1549206846414</created>
@@ -871,11 +843,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555776802621</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="2019-4-20-nginx+flume+hdfs+MR+HBase日志分析">
+      <created>1555777644119</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1555777644119</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73170000" />
+    <option name="totallyTimeSpent" value="73709000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -893,7 +872,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32721382" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33207342" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -942,35 +921,15 @@
     <MESSAGE value="2019-3-15-SparkSQL应用" />
     <MESSAGE value="2019-4-14-nginx+flume+hdfs收集日志" />
     <MESSAGE value="2019-4-15-Sqoop使用" />
-    <MESSAGE value="2019-4-20-nginx+flume+hdfs+MR+HBase日志分析" />
     <MESSAGE value="2019-3-23-计算机网络之运输层" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-3-23-计算机网络之运输层" />
+    <MESSAGE value="2019-4-20-nginx+flume+hdfs+MR+HBase日志分析" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-4-20-nginx+flume+hdfs+MR+HBase日志分析" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2019-3-7-B树、B+树、红黑树.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="243">
-            <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-2-28-快学Scala.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="243">
-            <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-2-28-JAVA集合基础内容.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1361,16 +1320,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-4-7-用户访问session分析项目总结.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="189">
-            <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-4-15-Sqoop使用.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1396,7 +1345,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-3-23-计算机网络之运输层.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="472">
+          <first_editor relative-caret-position="3699">
             <caret line="137" column="12" lean-forward="false" selection-start-line="137" selection-start-column="12" selection-end-line="137" selection-end-column="12" />
             <folding />
           </first_editor>
@@ -1404,11 +1353,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/2019-3-24-《数据仓库工具箱 维度权威建模指南 第三版》读书笔记/41.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-4-20-nginx+flume+hdfs+MR+HBase日志分析.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="243">
-            <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
             <folding>
               <marker date="1555777628440" expanded="true" signature="938:1075" ph="..." />
               <marker date="1555777628440" expanded="true" signature="1093:1415" ph="..." />
@@ -1418,6 +1372,28 @@
               <marker date="1555777628440" expanded="true" signature="1578:1737" ph="..." />
               <marker date="1555777628440" expanded="true" signature="1598:1717" ph="..." />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-4-7-用户访问session分析项目总结.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="459">
+            <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="48" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-3-24-《数据仓库工具箱 维度权威建模指南 第三版》读书笔记.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="610">
+            <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>

@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-4-25-计算机组成原理—计算机系统概述.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-4-25-计算机组成原理—计算机系统概述/43.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-4-25-计算机组成原理—计算机系统概述/取数指令分析.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-4-25-计算机组成原理—计算机系统概述/存数指令分析.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-4-25-计算机组成原理—计算机系统概述/现代计算机硬件组成.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-4-25-计算机组成原理—计算机系统概述/计算过程.PNG" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-4-25-计算机组成原理—计算机系统概述.md" afterPath="$PROJECT_DIR$/_posts/2019-4-25-计算机组成原理—计算机系统概述.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,8 +25,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-4-25-计算机组成原理—计算机系统概述.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="583">
-                <caret line="104" column="0" lean-forward="true" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+              <first_editor relative-caret-position="243">
+                <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -512,14 +507,7 @@
       <workItem from="1555858112815" duration="1738000" />
       <workItem from="1556185510231" duration="97000" />
       <workItem from="1556202168779" duration="401000" />
-      <workItem from="1556237665254" duration="352000" />
-    </task>
-    <task id="LOCAL-00045" summary="2019-2-18-HBase环境搭建及初识">
-      <created>1550561084292</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1550561084292</updated>
+      <workItem from="1556237665254" duration="431000" />
     </task>
     <task id="LOCAL-00046" summary="2019-2-18-HBase环境搭建及初识">
       <created>1550562627248</created>
@@ -857,14 +845,22 @@
       <option name="project" value="LOCAL" />
       <updated>1556202307987</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="2019-4-25-计算机组成原理—计算机系统概述">
+      <created>1556238037923</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1556238037924</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75799000" />
+    <option name="totallyTimeSpent" value="75878000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -879,7 +875,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34989202" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34989202" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -905,7 +901,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2019-2-28-快学Scala" />
     <MESSAGE value="2019-3-7-B树、B+树、红黑树、AVL树" />
     <MESSAGE value="2019-3-10-虚拟机集群搭建" />
     <MESSAGE value="2019-3-13-kafka环境搭建" />
@@ -930,7 +925,8 @@
     <MESSAGE value="2019-4-20-nginx+flume+hdfs+MR+HBase日志分析" />
     <MESSAGE value="2019-3-24-《数据仓库工具箱 维度权威建模指南 第三版》读书笔记" />
     <MESSAGE value="2019-4-24-计算机网络基础(1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-4-24-计算机网络基础(1)" />
+    <MESSAGE value="2019-4-25-计算机组成原理—计算机系统概述" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-4-25-计算机组成原理—计算机系统概述" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1377,8 +1373,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-4-25-计算机组成原理—计算机系统概述.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="583">
-            <caret line="104" column="0" lean-forward="true" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+          <first_editor relative-caret-position="243">
+            <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             <folding />
           </first_editor>
           <second_editor />

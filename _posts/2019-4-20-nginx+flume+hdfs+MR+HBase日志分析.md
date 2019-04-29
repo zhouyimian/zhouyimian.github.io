@@ -70,9 +70,7 @@ java.net.ConnectException: Connection refused: no further information
 java.io.IOException: Failed on local exception: java.io.IOException: Couldn't set up IO streams;
 ```
 
-程序运
-
-行时一直显示连接失败，错误还提示说是连接hbase的60020端口和zookeeper失败
+程序运行时一直显示连接失败，错误还提示说是连接hbase的60020端口和zookeeper失败
 
 我这边出现该错误的主要原因是程序的hbase jar包版本太低了的，后面切换成上面这个0.98.6-hadoop2版本就解决问题了
 

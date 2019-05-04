@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-5-3-《大数据日知录：架构与算法》读书笔记3.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-3-《大数据日知录：架构与算法》读书笔记3/46.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-5-3-《大数据日知录：架构与算法》读书笔记3.md" afterPath="$PROJECT_DIR$/_posts/2019-5-3-《大数据日知录：架构与算法》读书笔记3.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,8 +18,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-5-3-《大数据日知录：架构与算法》读书笔记3.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="162">
-                <caret line="6" column="44" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="44" />
+              <first_editor relative-caret-position="54">
+                <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -519,14 +518,7 @@
       <workItem from="1556789856298" duration="2785000" />
       <workItem from="1556847001317" duration="1233000" />
       <workItem from="1556870751999" duration="2809000" />
-      <workItem from="1556977248521" duration="150000" />
-    </task>
-    <task id="LOCAL-00050" summary="2019-2-28-JAVA集合基础内容">
-      <created>1551323247444</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1551323247446</updated>
+      <workItem from="1556977248521" duration="1270000" />
     </task>
     <task id="LOCAL-00051" summary="2019-2-28-Java多线程内容(1)">
       <created>1551428897448</created>
@@ -864,11 +856,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556870999481</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="2019-5-3-《大数据日知录：架构与算法》读书笔记3">
+      <created>1556977415043</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1556977415044</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85637000" />
+    <option name="totallyTimeSpent" value="86757000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -913,7 +912,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2019-3-13-《kafka权威指南》读书笔记1" />
     <MESSAGE value="2019-3-7-SparkCore解析" />
     <MESSAGE value="2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案" />
     <MESSAGE value="2019-3-22-Java动态代理" />
@@ -938,7 +936,8 @@
     <MESSAGE value="修改了下格式" />
     <MESSAGE value="2019-4-16-《大数据日知录：架构与算法》读书笔记1" />
     <MESSAGE value="2019-5-2-《大数据日知录：架构与算法》读书笔记2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-5-2-《大数据日知录：架构与算法》读书笔记2" />
+    <MESSAGE value="2019-5-3-《大数据日知录：架构与算法》读书笔记3" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-5-3-《大数据日知录：架构与算法》读书笔记3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1364,8 +1363,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-5-3-《大数据日知录：架构与算法》读书笔记3.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="162">
-            <caret line="6" column="44" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="44" />
+          <first_editor relative-caret-position="54">
+            <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
             <folding />
           </first_editor>
           <second_editor />

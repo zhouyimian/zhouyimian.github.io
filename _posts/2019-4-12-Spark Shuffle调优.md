@@ -15,7 +15,7 @@ tags:
 
 上图是shuffle的基本过程，在map端，每个task会输出和下个stage相同task数量的文件，然后reduce端每个task会从map端拉取属于自己task的文件。
 
-看似没有问题，但是设想在真正在生产环境中，假设现在有100个节点(每个节点只有一个executor)，每个节点2个executor，map端和reduce均是1k个task，平均每个executor一共处理10个task。
+看似没有问题，但是设想在真正在生产环境中，假设现在有100个节点(每个节点只有一个executor)，每个节点2个core，map端和reduce均是1k个task，平均每个executor一共处理10个task。
 
 现在每个节点需要输出10*1k=1w个文件
 

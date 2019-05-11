@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-5-11-自顶向下的语法分析.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-11-自顶向下的语法分析/52.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-11-自顶向下的语法分析/DISTINCT的伪代码实现.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-11-自顶向下的语法分析/计算first集.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-11-自顶向下的语法分析/计算follow集.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-11-自顶向下的语法分析/计算select集.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-11-自顶向下的语法分析/递归的预测分析.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-11-自顶向下的语法分析/非递归的预测分析.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-11-自顶向下的语法分析/预测分析表.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-1-30-编译原理——语法分析.md" afterPath="$PROJECT_DIR$/_posts/2019-1-30-编译原理——语法分析.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,109 +22,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="2019-5-6-操作系统(1).md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-5-6-操作系统(1).md">
+      <file leaf-file-name="2019-5-11-自顶向下的语法分析.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-5-11-自顶向下的语法分析.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
+              <first_editor relative-caret-position="289">
+                <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-5-5-计算机组成原理—系统总线.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-5-5-计算机组成原理—系统总线.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="189">
-                <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-5-8-操作系统(2).md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-5-8-操作系统(2).md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-5-9-操作系统(3).md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-5-9-操作系统(3).md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="135">
-                <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="51.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/2019-5-9-操作系统(3)/51.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-1-30-编译原理——语法分析.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-1-30-编译原理——语法分析.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="227">
-                <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="四种动态内存分配算法比较.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/2019-5-9-操作系统(3)/四种动态内存分配算法比较.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-5-7-奇安信集团(360企业安全)面经.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-5-7-奇安信集团(360企业安全)面经.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="108">
-                <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="47.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/2019-5-5-计算机组成原理—系统总线/47.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="48.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/2019-5-7-奇安信集团(360企业安全)面经/48.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -124,7 +39,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>p</find>
       <find>post-heading</find>
       <find>D:\githubIO博客\2019-2-28-快学Scala\S</find>
       <find>D:\githubIO博客\2019-2-28-快学Scala\</find>
@@ -154,6 +68,7 @@
       <find>D:\githubIO博客\2019-5-8-操作系统(2)\</find>
       <find>D:\githubIO博客\2019-5-9-操作系统(3)\</find>
       <find>规范推导</find>
+      <find>D:\githubIO博客\2019-5-11-自顶向下的语法分析\</find>
     </findStrings>
     <replaceStrings>
       <replace>zhouyimian</replace>
@@ -172,6 +87,7 @@
       <replace>/img/2019-5-6-操作系统(1)/</replace>
       <replace>/img/2019-5-8-操作系统(2)/</replace>
       <replace>/img/2019-5-9-操作系统(3)/</replace>
+      <replace>/img/2019-5-11-自顶向下的语法分析/</replace>
     </replaceStrings>
     <dirStrings>
       <dir>D:\IDEA_project\zhouyimian.github.io\img\view</dir>
@@ -189,7 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2019-2-4-30分钟学会shell.md" />
         <option value="$PROJECT_DIR$/_posts/2019-2-2-hive环境的搭建及运行.md" />
         <option value="$PROJECT_DIR$/_posts/2019-2-2-hive深入使用.md" />
         <option value="$PROJECT_DIR$/_posts/2019-2-2-hadoop环境搭建.md" />
@@ -240,6 +155,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-5-9-操作系统(3).md" />
         <option value="$PROJECT_DIR$/_posts/2019-5-7-奇安信集团(360企业安全)面经.md" />
         <option value="$PROJECT_DIR$/_posts/2019-1-30-编译原理——语法分析.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-5-11-自顶向下的语法分析.md" />
       </list>
     </option>
   </component>
@@ -302,8 +218,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -339,11 +255,17 @@
               <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="2019-5-9-操作系统(3)" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="2019-5-11-自顶向下的语法分析" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -358,15 +280,15 @@
     <property name="GO_FMT" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\IDEA_project\zhouyimian.github.io\img" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-5-7-奇安信集团(360企业安全)面经" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-5-5-计算机组成原理—系统总线" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-4-25-计算机组成原理—计算机系统概述" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-4-12-Spark Shuffle调优" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -569,14 +491,8 @@
       <workItem from="1557392903595" duration="1102000" />
       <workItem from="1557491426277" duration="959000" />
       <workItem from="1557502613565" duration="1123000" />
-      <workItem from="1557534460964" duration="2787000" />
-    </task>
-    <task id="LOCAL-00066" summary="2019-3-13-《kafka权威指南》读书笔记1">
-      <created>1552528371346</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1552528371347</updated>
+      <workItem from="1557534460964" duration="3687000" />
+      <workItem from="1557576692086" duration="120000" />
     </task>
     <task id="LOCAL-00067" summary="2019-3-7-SparkCore解析">
       <created>1552651969178</created>
@@ -914,11 +830,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557536879405</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="2019-1-30-编译原理——语法分析">
+      <created>1557544334949</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1557544334949</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101362000" />
+    <option name="totallyTimeSpent" value="102382000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -936,7 +859,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40442765" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28941685" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -962,7 +885,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2019-2-28-Java多线程内容(1)" />
     <MESSAGE value="2019-3-1-Java多线程内容(3)" />
     <MESSAGE value="2019-3-14-《kafka权威指南》读书笔记2" />
     <MESSAGE value="2019-4-7-用户访问session分析项目总结" />
@@ -987,43 +909,14 @@
     <MESSAGE value="2019-5-8-操作系统(2)" />
     <MESSAGE value="2019-5-7-奇安信集团(360企业安全)面经" />
     <MESSAGE value="2019-5-9-操作系统(3)" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-5-9-操作系统(3)" />
+    <MESSAGE value="2019-1-30-编译原理——语法分析" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-1-30-编译原理——语法分析" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2019-1-29-记一次处理ZooKeeper和Kafka的问题.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-1-30-编译原理——文法转换.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-2-2-hadoop环境搭建.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-2-2-hive深入使用.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1416,28 +1309,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-5-8-操作系统(2).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-5-9-操作系统(3).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/2019-5-9-操作系统(3)/四种动态内存分配算法比较.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1446,7 +1317,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-5-7-奇安信集团(360企业安全)面经.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="108">
+          <first_editor relative-caret-position="918">
             <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
             <folding />
           </first_editor>
@@ -1469,11 +1340,60 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-5-8-操作系统(2).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-1-30-编译原理——语法分析.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="227">
-            <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <first_editor relative-caret-position="308">
+            <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-5-9-操作系统(3).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/2019-5-11-自顶向下的语法分析/52.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-1-25-编译原理——语言及其文法.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-5-11-自顶向下的语法分析.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="289">
+            <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

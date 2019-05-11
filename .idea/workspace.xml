@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-5-11-自顶向下的语法分析.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-11-自顶向下的语法分析/52.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-11-自顶向下的语法分析/DISTINCT的伪代码实现.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-11-自顶向下的语法分析/计算first集.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-11-自顶向下的语法分析/计算follow集.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-11-自顶向下的语法分析/计算select集.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-11-自顶向下的语法分析/递归的预测分析.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-11-自顶向下的语法分析/非递归的预测分析.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-11-自顶向下的语法分析/预测分析表.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-5-11-自顶向下的语法分析.md" afterPath="$PROJECT_DIR$/_posts/2019-5-11-自顶向下的语法分析.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,8 +18,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-5-11-自顶向下的语法分析.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="289">
-                <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+              <first_editor relative-caret-position="394">
+                <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -39,8 +31,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>post-heading</find>
-      <find>D:\githubIO博客\2019-2-28-快学Scala\S</find>
       <find>D:\githubIO博客\2019-2-28-快学Scala\</find>
       <find>D:\githubIO博客\2019-3-10-虚拟机集群搭建\</find>
       <find>km blog</find>
@@ -69,6 +59,8 @@
       <find>D:\githubIO博客\2019-5-9-操作系统(3)\</find>
       <find>规范推导</find>
       <find>D:\githubIO博客\2019-5-11-自顶向下的语法分析\</find>
+      <find>文法G是LL(1)的，当且仅当G的任意两个具有</find>
+      <find>ELECT集</find>
     </findStrings>
     <replaceStrings>
       <replace>zhouyimian</replace>
@@ -492,14 +484,7 @@
       <workItem from="1557491426277" duration="959000" />
       <workItem from="1557502613565" duration="1123000" />
       <workItem from="1557534460964" duration="3687000" />
-      <workItem from="1557576692086" duration="120000" />
-    </task>
-    <task id="LOCAL-00067" summary="2019-3-7-SparkCore解析">
-      <created>1552651969178</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1552651969178</updated>
+      <workItem from="1557576692086" duration="815000" />
     </task>
     <task id="LOCAL-00068" summary="2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案">
       <created>1552906585256</created>
@@ -837,14 +822,22 @@
       <option name="project" value="LOCAL" />
       <updated>1557544334949</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="2019-5-11-自顶向下的语法分析">
+      <created>1557576821939</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1557576821939</updated>
+    </task>
+    <option name="localTasksCounter" value="117" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102382000" />
+    <option name="totallyTimeSpent" value="103077000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -859,7 +852,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28941685" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28941685" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -885,7 +878,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2019-3-1-Java多线程内容(3)" />
     <MESSAGE value="2019-3-14-《kafka权威指南》读书笔记2" />
     <MESSAGE value="2019-4-7-用户访问session分析项目总结" />
     <MESSAGE value="2019-4-9-《Hadoop权威指南》读书笔记1" />
@@ -910,7 +902,8 @@
     <MESSAGE value="2019-5-7-奇安信集团(360企业安全)面经" />
     <MESSAGE value="2019-5-9-操作系统(3)" />
     <MESSAGE value="2019-1-30-编译原理——语法分析" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-1-30-编译原理——语法分析" />
+    <MESSAGE value="2019-5-11-自顶向下的语法分析" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-5-11-自顶向下的语法分析" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1392,8 +1385,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-5-11-自顶向下的语法分析.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="289">
-            <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+          <first_editor relative-caret-position="394">
+            <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

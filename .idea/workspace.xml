@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-5-19-JDK源码阅读—Object.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-19-JDK源码阅读—Object/53.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-19-JDK源码阅读—Object/clone.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-19-JDK源码阅读—Object/equals.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-19-JDK源码阅读—Object/getClass.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-19-JDK源码阅读—Object/hashcode.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-19-JDK源码阅读—Object/notify.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-19-JDK源码阅读—Object/notifyAll.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-19-JDK源码阅读—Object/registerNatives.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-19-JDK源码阅读—Object/toString.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-19-JDK源码阅读—Object/wait.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-5-11-自顶向下的语法分析.md" afterPath="$PROJECT_DIR$/_posts/2019-5-11-自顶向下的语法分析.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,13 +24,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="2019-5-11-自顶向下的语法分析.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-5-11-自顶向下的语法分析.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-5-11-自顶向下的语法分析.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="259">
-                <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
                 <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-5-9-操作系统(3).md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-5-9-操作系统(3).md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="216">
+                <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-5-19-JDK源码阅读—Object.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-5-19-JDK源码阅读—Object.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="189">
+                <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+                <folding>
+                  <marker date="1558281370155" expanded="true" signature="2058:2329" ph="{...}" />
+                  <marker date="1558281370155" expanded="true" signature="2124:2143" ph="{...}" />
+                  <marker date="1558281370155" expanded="true" signature="2219:2323" ph="{...}" />
+                  <marker date="1558281370155" expanded="true" signature="2371:2566" ph="{...}" />
+                  <marker date="1558281370155" expanded="true" signature="2440:2459" ph="{...}" />
+                  <marker date="1558281370155" expanded="true" signature="2533:2563" ph="{...}" />
+                  <marker date="1558281370155" expanded="true" signature="2667:3017" ph="{...}" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -31,7 +75,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>D:\githubIO博客\2019-3-10-虚拟机集群搭建\</find>
       <find>km blog</find>
       <find>title</find>
       <find>25.jp</find>
@@ -61,6 +104,7 @@
       <find>文法G是LL(1)的，当且仅当G的任意两个具有</find>
       <find>ELECT集</find>
       <find>非终结符的后继符号集(follow集)</find>
+      <find>D:\githubIO博客\2019-5-19-JDK源码阅读—Object\</find>
     </findStrings>
     <replaceStrings>
       <replace>zhouyimian</replace>
@@ -80,6 +124,7 @@
       <replace>/img/2019-5-8-操作系统(2)/</replace>
       <replace>/img/2019-5-9-操作系统(3)/</replace>
       <replace>/img/2019-5-11-自顶向下的语法分析/</replace>
+      <replace>/img/2019-5-19-JDK源码阅读—Object/</replace>
     </replaceStrings>
     <dirStrings>
       <dir>D:\IDEA_project\zhouyimian.github.io\img\view</dir>
@@ -97,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2019-2-2-hive环境的搭建及运行.md" />
         <option value="$PROJECT_DIR$/_posts/2019-2-2-hive深入使用.md" />
         <option value="$PROJECT_DIR$/_posts/2019-2-2-hadoop环境搭建.md" />
         <option value="$PROJECT_DIR$/_posts/2019-1-30-编译原理——文法转换.md" />
@@ -148,6 +192,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-5-7-奇安信集团(360企业安全)面经.md" />
         <option value="$PROJECT_DIR$/_posts/2019-1-30-编译原理——语法分析.md" />
         <option value="$PROJECT_DIR$/_posts/2019-5-11-自顶向下的语法分析.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-5-19-JDK源码阅读—Object.md" />
       </list>
     </option>
   </component>
@@ -210,9 +255,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -253,17 +295,26 @@
               <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="2019-5-11-自顶向下的语法分析" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="2019-5-19-JDK源码阅读—Object" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leetcode" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -272,15 +323,15 @@
     <property name="GO_FMT" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\IDEA_project\zhouyimian.github.io\img" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-5-7-奇安信集团(360企业安全)面经" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-5-5-计算机组成原理—系统总线" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-4-25-计算机组成原理—计算机系统概述" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-4-12-Spark Shuffle调优" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -485,14 +536,9 @@
       <workItem from="1557502613565" duration="1123000" />
       <workItem from="1557534460964" duration="3687000" />
       <workItem from="1557576692086" duration="926000" />
-      <workItem from="1557738358895" duration="252000" />
-    </task>
-    <task id="LOCAL-00070" summary="2019-3-23-计算机网络-运输层">
-      <created>1553355791822</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1553355791822</updated>
+      <workItem from="1557738358895" duration="1066000" />
+      <workItem from="1558281036976" duration="17000" />
+      <workItem from="1558281247625" duration="125000" />
     </task>
     <task id="LOCAL-00071" summary="2019-3-23-计算机网络之运输层">
       <created>1553356064044</created>
@@ -830,15 +876,21 @@
       <option name="project" value="LOCAL" />
       <updated>1557738433339</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="2019-5-11-自顶向下的语法分析">
+      <created>1557738618375</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1557738618375</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103440000" />
+    <option name="totallyTimeSpent" value="104396000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="true" />
+    <frame x="-11" y="-11" width="1942" height="1102" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -853,9 +905,10 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29427645" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21436284" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -911,16 +964,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2019-2-2-hive深入使用.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-2-2-hive环境的搭建及运行.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1351,16 +1394,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-5-9-操作系统(3).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="216">
-            <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/2019-5-11-自顶向下的语法分析/52.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1376,12 +1409,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-5-9-操作系统(3).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-5-11-自顶向下的语法分析.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="259">
-            <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
             <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-5-19-JDK源码阅读—Object.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="189">
+            <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <folding>
+              <marker date="1558281370155" expanded="true" signature="2058:2329" ph="{...}" />
+              <marker date="1558281370155" expanded="true" signature="2124:2143" ph="{...}" />
+              <marker date="1558281370155" expanded="true" signature="2219:2323" ph="{...}" />
+              <marker date="1558281370155" expanded="true" signature="2371:2566" ph="{...}" />
+              <marker date="1558281370155" expanded="true" signature="2440:2459" ph="{...}" />
+              <marker date="1558281370155" expanded="true" signature="2533:2563" ph="{...}" />
+              <marker date="1558281370155" expanded="true" signature="2667:3017" ph="{...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>

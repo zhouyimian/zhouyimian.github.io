@@ -258,7 +258,7 @@ public int codePointBefore(int index) {
 
 该方法返回的是指定范围内多少个*代码点*，代码点在前面讲到，就是跟字符的长度有关，如果字符串的所有字符都在BMP范围内，则该方法的返回值和length()方法返回值一样，但如果有一些字符超出了BMP范围，则该方法的返回值比length()小，因为一个代码点指的是一个完整的字符，超出BMP范围的需要用2个数组位置才能表示，这两个位置算一个代码点，但是如果在length中，其返回值是2。这里有一个测试例子
 
-```java
+```JAVA
 public class AppTest {
     public static void main(String[] args) throws InterruptedException {
         int[]nums = {70000};

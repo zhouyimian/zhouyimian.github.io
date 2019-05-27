@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-5-20-JDK源码阅读—String.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-20-JDK源码阅读—String/54.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-5-20-JDK源码阅读—String/value_hashcode.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-5-20-JDK源码阅读—String.md" afterPath="$PROJECT_DIR$/_posts/2019-5-20-JDK源码阅读—String.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,13 +65,13 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-5-20-JDK源码阅读—String.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="299">
-                <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <first_editor relative-caret-position="492">
+                <caret line="259" column="0" lean-forward="false" selection-start-line="259" selection-start-column="0" selection-end-line="259" selection-end-column="0" />
                 <folding>
-                  <marker date="1558515763659" expanded="true" signature="7263:7520" ph="{...}" />
-                  <marker date="1558515763659" expanded="true" signature="14682:15473" ph="{...}" />
-                  <marker date="1558515763659" expanded="true" signature="15483:15524" ph="/**...*/" />
-                  <marker date="1558515763659" expanded="true" signature="15562:15596" ph="{...}" />
+                  <marker date="1558971498751" expanded="true" signature="7263:7520" ph="{...}" />
+                  <marker date="1558971498751" expanded="true" signature="14682:15473" ph="{...}" />
+                  <marker date="1558971498751" expanded="true" signature="15483:15524" ph="/**...*/" />
+                  <marker date="1558971498751" expanded="true" signature="15562:15596" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -98,7 +96,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-4-24-计算机网络基础(1).md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="378">
+              <first_editor relative-caret-position="3213">
                 <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
                 <folding />
               </first_editor>
@@ -295,6 +293,7 @@
       <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -351,7 +350,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -583,14 +581,8 @@
       <workItem from="1558281036976" duration="17000" />
       <workItem from="1558281247625" duration="229000" />
       <workItem from="1558338781252" duration="2608000" />
-      <workItem from="1558515548594" duration="218000" />
-    </task>
-    <task id="LOCAL-00073" summary="2019-3-1-Java多线程内容(3)">
-      <created>1553519121062</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1553519121062</updated>
+      <workItem from="1558515548594" duration="260000" />
+      <workItem from="1558971484447" duration="36000" />
     </task>
     <task id="LOCAL-00074" summary="2019-3-14-《kafka权威指南》读书笔记2">
       <created>1554519755849</created>
@@ -928,11 +920,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558338892270</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="2019-5-20-JDK源码阅读—String">
+      <created>1558515781088</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1558515781088</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107326000" />
+    <option name="totallyTimeSpent" value="107404000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1102" extended-state="6" />
@@ -951,7 +950,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29157668" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29643628" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -977,7 +976,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2019-4-7-用户访问session分析项目总结" />
     <MESSAGE value="2019-4-9-《Hadoop权威指南》读书笔记1" />
     <MESSAGE value="2019-4-10-《Hadoop权威指南》读书笔记2" />
     <MESSAGE value="2019-4-12-Spark Shuffle调优" />
@@ -1002,7 +1000,8 @@
     <MESSAGE value="2019-5-11-自顶向下的语法分析" />
     <MESSAGE value="2019-5-19-JDK源码阅读—Object" />
     <MESSAGE value="2019-4-24-计算机网络基础(1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-4-24-计算机网络基础(1)" />
+    <MESSAGE value="2019-5-20-JDK源码阅读—String" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-5-20-JDK源码阅读—String" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1455,7 +1454,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-4-24-计算机网络基础(1).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="378">
+          <first_editor relative-caret-position="3213">
             <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
             <folding />
           </first_editor>
@@ -1485,13 +1484,13 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-5-20-JDK源码阅读—String.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="299">
-            <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <first_editor relative-caret-position="492">
+            <caret line="259" column="0" lean-forward="false" selection-start-line="259" selection-start-column="0" selection-end-line="259" selection-end-column="0" />
             <folding>
-              <marker date="1558515763659" expanded="true" signature="7263:7520" ph="{...}" />
-              <marker date="1558515763659" expanded="true" signature="14682:15473" ph="{...}" />
-              <marker date="1558515763659" expanded="true" signature="15483:15524" ph="/**...*/" />
-              <marker date="1558515763659" expanded="true" signature="15562:15596" ph="{...}" />
+              <marker date="1558971498751" expanded="true" signature="7263:7520" ph="{...}" />
+              <marker date="1558971498751" expanded="true" signature="14682:15473" ph="{...}" />
+              <marker date="1558971498751" expanded="true" signature="15483:15524" ph="/**...*/" />
+              <marker date="1558971498751" expanded="true" signature="15562:15596" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />

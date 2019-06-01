@@ -9,7 +9,6 @@ catalog: true
 tags:
     - 源码阅读
 ---
-# 
 
 ![](/img/2019-5-29-JDK源码阅读—AbstractList/AbstractList继承体系.png)
 

@@ -3,7 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-5-29-JDK源码阅读—AbstractList.md" afterPath="$PROJECT_DIR$/_posts/2019-5-29-JDK源码阅读—AbstractList.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案.md" afterPath="$PROJECT_DIR$/_posts/2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案.md" />
+      <change beforePath="$PROJECT_DIR$/img/2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案/12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案/12.jpg" afterPath="$PROJECT_DIR$/img/2019-3-18-《计算机网络 自顶向下方法》第二章课后习题答案/12.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案/HTTPGET报文.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案/HTTPGET报文.png" afterPath="$PROJECT_DIR$/img/2019-3-18-《计算机网络 自顶向下方法》第二章课后习题答案/HTTPGET报文.png" />
+      <change beforePath="$PROJECT_DIR$/img/2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案/HTTP响应报文.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案/HTTP响应报文.png" afterPath="$PROJECT_DIR$/img/2019-3-18-《计算机网络 自顶向下方法》第二章课后习题答案/HTTP响应报文.png" />
+      <change beforePath="$PROJECT_DIR$/img/2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案/d解释.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案/d解释.png" afterPath="$PROJECT_DIR$/img/2019-3-18-《计算机网络 自顶向下方法》第二章课后习题答案/d解释.png" />
+      <change beforePath="$PROJECT_DIR$/img/2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案/图2-12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案/图2-12.jpg" afterPath="$PROJECT_DIR$/img/2019-3-18-《计算机网络 自顶向下方法》第二章课后习题答案/图2-12.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案/图2-4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案/图2-4.png" afterPath="$PROJECT_DIR$/img/2019-3-18-《计算机网络 自顶向下方法》第二章课后习题答案/图2-4.png" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,12 +26,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="2019-5-29-JDK源码阅读—AbstractList.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-5-29-JDK源码阅读—AbstractList.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-5-29-JDK源码阅读—AbstractList.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="270">
-                <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              <first_editor relative-caret-position="27">
+                <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
                 <folding>
                   <marker date="1559399309607" expanded="true" signature="2254:3556" ph="{...}" />
                   <marker date="1559399309607" expanded="true" signature="2430:2445" ph=" { " />
@@ -81,6 +93,19 @@
                   <marker date="1559399309607" expanded="true" signature="11138:11144" ph=" }" />
                   <marker date="1559399309607" expanded="true" signature="11188:11293" ph="{...}" />
                 </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="162">
+                <caret line="6" column="49" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="49" />
+                <folding />
               </first_editor>
               <second_editor />
             </state>
@@ -165,7 +190,6 @@
         <option value="$PROJECT_DIR$/_posts/2019-1-23-Zookeeper环境的搭建以及简单测试.md" />
         <option value="$PROJECT_DIR$/_posts/2019-1-22-Zookeeper概念、原理、应用场景.md" />
         <option value="$PROJECT_DIR$/_posts/2019-1-19-HQL和SQL的联系与区别.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案.md" />
         <option value="$PROJECT_DIR$/_posts/2019-3-22-Java动态代理.md" />
         <option value="$PROJECT_DIR$/_posts/2019-3-23-计算机网络-运输层.md" />
         <option value="$PROJECT_DIR$/_posts/2019-2-28-Java多线程内容(1).md" />
@@ -210,6 +234,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-5-28-JDK源码阅读—AbstractStringBuilder.md" />
         <option value="$PROJECT_DIR$/_posts/2019-5-29-JDK源码阅读—AbstractCollection.md" />
         <option value="$PROJECT_DIR$/_posts/2019-5-29-JDK源码阅读—AbstractList.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案.md" />
       </list>
     </option>
   </component>
@@ -272,8 +297,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -349,7 +372,9 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -585,14 +610,8 @@
       <workItem from="1558971484447" duration="647000" />
       <workItem from="1559006960360" duration="1555000" />
       <workItem from="1559094152144" duration="326000" />
-      <workItem from="1559397382356" duration="1000000" />
-    </task>
-    <task id="LOCAL-00078" summary="2019-4-9-《Hadoop权威指南》读书笔记1">
-      <created>1554867138485</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1554867138486</updated>
+      <workItem from="1559397382356" duration="1097000" />
+      <workItem from="1559548960379" duration="58000" />
     </task>
     <task id="LOCAL-00079" summary="2019-4-10-《Hadoop权威指南》读书笔记2">
       <created>1554895052197</created>
@@ -930,11 +949,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559397563149</updated>
     </task>
-    <option name="localTasksCounter" value="127" />
+    <task id="LOCAL-00127" summary="2019-5-29-JDK源码阅读—AbstractList">
+      <created>1559399329534</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1559399329534</updated>
+    </task>
+    <option name="localTasksCounter" value="128" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110896000" />
+    <option name="totallyTimeSpent" value="111051000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1102" extended-state="6" />
@@ -954,7 +980,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21976241" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22354212" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1097,16 +1123,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="243">
-            <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="11" />
           </first_editor>
           <second_editor />
         </state>
@@ -1362,7 +1378,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="216">
             <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1373,7 +1388,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1389,7 +1403,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1400,7 +1413,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="3213">
             <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1411,15 +1423,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
-            <folding>
-              <marker date="1558281370155" expanded="true" signature="2058:2329" ph="{...}" />
-              <marker date="1558281370155" expanded="true" signature="2124:2143" ph="{...}" />
-              <marker date="1558281370155" expanded="true" signature="2219:2323" ph="{...}" />
-              <marker date="1558281370155" expanded="true" signature="2371:2566" ph="{...}" />
-              <marker date="1558281370155" expanded="true" signature="2440:2459" ph="{...}" />
-              <marker date="1558281370155" expanded="true" signature="2533:2563" ph="{...}" />
-              <marker date="1558281370155" expanded="true" signature="2667:3017" ph="{...}" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1435,12 +1438,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
-            <folding>
-              <marker date="1558971498751" expanded="true" signature="7263:7520" ph="{...}" />
-              <marker date="1558971498751" expanded="true" signature="14682:15473" ph="{...}" />
-              <marker date="1558971498751" expanded="true" signature="15483:15524" ph="/**...*/" />
-              <marker date="1558971498751" expanded="true" signature="15562:15596" ph="{...}" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1456,7 +1453,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1472,9 +1468,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
-            <folding>
-              <marker date="1559094309754" expanded="true" signature="831:1066" ph="/.../" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1483,8 +1476,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-5-29-JDK源码阅读—AbstractList.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <first_editor relative-caret-position="27">
+            <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
             <folding>
               <marker date="1559399309607" expanded="true" signature="2254:3556" ph="{...}" />
               <marker date="1559399309607" expanded="true" signature="2430:2445" ph=" { " />
@@ -1546,6 +1539,17 @@
               <marker date="1559399309607" expanded="true" signature="11138:11144" ph=" }" />
               <marker date="1559399309607" expanded="true" signature="11188:11293" ph="{...}" />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-3-18-《计算机网络 自顶向下方法》第一章课后习题答案.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="162">
+            <caret line="6" column="49" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="49" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>

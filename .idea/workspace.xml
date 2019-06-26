@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-6-24-JDK源码阅读—ArrayList.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-6-24-JDK源码阅读—ArrayList/59.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-6-26-自底向上的语法分析.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-6-26-自底向上的语法分析/60.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-6-26-自底向上的语法分析/LALR(1)分析法.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-6-26-自底向上的语法分析/LR(1)分析法例子.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-6-26-自底向上的语法分析/LR1分析法的提出.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-6-26-自底向上的语法分析/LR分析器的总体结构.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-6-26-自底向上的语法分析/SLR分析法冲突.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-6-26-自底向上的语法分析/SLR分析法的基本思想.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-6-26-自底向上的语法分析/利用follow集解决冲突问题.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-6-26-自底向上的语法分析/构造LR分析表1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-6-26-自底向上的语法分析/构造LR分析表2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-6-26-自底向上的语法分析/移进规约冲突.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-6-26-自底向上的语法分析/项目.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,12 +81,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-6-24-JDK源码阅读—ArrayList.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-6-24-JDK源码阅读—ArrayList.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-6-24-JDK源码阅读—ArrayList.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              <first_editor relative-caret-position="220">
+                <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
                 <folding>
                   <marker date="1561472673474" expanded="true" signature="10806:12977" ph="{...}" />
                   <marker date="1561472673474" expanded="true" signature="11018:11033" ph=" { " />
@@ -119,6 +130,32 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="2019-6-26-自底向上的语法分析.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-6-26-自底向上的语法分析.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="132">
+                <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="35" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-1-30-编译原理——语法分析.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-1-30-编译原理——语法分析.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="7" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="2019-5-29-JDK源码阅读—AbstractList.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-5-29-JDK源码阅读—AbstractList.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -143,7 +180,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>30.jpg</find>
       <find>jpg</find>
       <find>![]</find>
       <find>12.jpg</find>
@@ -173,6 +209,7 @@
       <find>自适应自旋锁</find>
       <find>自旋锁</find>
       <find>轻量级</find>
+      <find>D:\githubIO博客\2019-6-26-自底向上的语法分析\</find>
     </findStrings>
     <replaceStrings>
       <replace>zhouyimian</replace>
@@ -194,6 +231,7 @@
       <replace>/img/2019-5-11-自顶向下的语法分析/</replace>
       <replace>/img/2019-5-19-JDK源码阅读—Object/</replace>
       <replace>/img/2019-5-20-JDK源码阅读—String/</replace>
+      <replace>/img/2019-6-26-自底向上的语法分析/</replace>
     </replaceStrings>
     <dirStrings>
       <dir>D:\IDEA_project\zhouyimian.github.io\img\view</dir>
@@ -212,7 +250,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2019-1-24-编译原理绪论.md" />
         <option value="$PROJECT_DIR$/_posts/2019-1-23-Zookeeper环境的搭建以及简单测试.md" />
         <option value="$PROJECT_DIR$/_posts/2019-1-22-Zookeeper概念、原理、应用场景.md" />
         <option value="$PROJECT_DIR$/_posts/2019-1-19-HQL和SQL的联系与区别.md" />
@@ -263,6 +300,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-3-1-Java多线程内容(3).md" />
         <option value="$PROJECT_DIR$/_posts/2019-6-22-JDK源码阅读—AbstractMap.md" />
         <option value="$PROJECT_DIR$/_posts/2019-6-24-JDK源码阅读—ArrayList.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-6-26-自底向上的语法分析.md" />
       </list>
     </option>
   </component>
@@ -327,8 +365,9 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -350,31 +389,12 @@
               <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="2019-5-7-奇安信集团(360企业安全)面经" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="2019-5-29-JDK源码阅读—AbstractList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="2019-6-22-JDK源码阅读—AbstractMap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="2019-6-24-JDK源码阅读—ArrayList" type="462c0819:PsiDirectoryNode" />
+              <item name="2019-6-26-自底向上的语法分析" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -389,16 +409,16 @@
     <property name="GO_FMT" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\IDEA_project\zhouyimian.github.io\_posts" />
-      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA_project\zhouyimian.github.io\img\2019-6-26-自底向上的语法分析" />
       <recent name="E:\IDEA_project\zhouyimian.github.io\img" />
       <recent name="E:\IDEA_project\zhouyimian.github.io\img\2019-6-22-JDK源码阅读—AbstractMap" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-5-7-奇安信集团(360企业安全)面经" />
-      <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-5-5-计算机组成原理—系统总线" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEA_project\zhouyimian.github.io\_posts" />
+      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -618,14 +638,8 @@
       <workItem from="1561076179874" duration="1154000" />
       <workItem from="1561114480607" duration="455000" />
       <workItem from="1561166923292" duration="2608000" />
-      <workItem from="1561472596625" duration="80000" />
-    </task>
-    <task id="LOCAL-00083" summary="2019-4-13-Spark 数据倾斜解决方法">
-      <created>1555172636037</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1555172636038</updated>
+      <workItem from="1561472596625" duration="692000" />
+      <workItem from="1561514472839" duration="220000" />
     </task>
     <task id="LOCAL-00084" summary="2019-3-15-SparkSQL应用">
       <created>1555208672464</created>
@@ -963,14 +977,22 @@
       <option name="project" value="LOCAL" />
       <updated>1561167561792</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="2019-6-24-JDK源码阅读—ArrayList">
+      <created>1561472687043</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1561472687044</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118458000" />
+    <option name="totallyTimeSpent" value="119290000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1102" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -984,7 +1006,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2265625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23489584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1012,7 +1034,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2019-4-14-nginx+flume+hdfs收集日志" />
     <MESSAGE value="2019-4-15-Sqoop使用" />
     <MESSAGE value="2019-3-23-计算机网络之运输层" />
     <MESSAGE value="2019-4-20-nginx+flume+hdfs+MR+HBase日志分析" />
@@ -1037,23 +1058,14 @@
     <MESSAGE value="2019-3-18-《计算机网络 自顶向下方法》第二章课后习题答案" />
     <MESSAGE value="2019-3-1-Java多线程内容(3)" />
     <MESSAGE value="2019-6-22-JDK源码阅读—AbstractMap" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-6-22-JDK源码阅读—AbstractMap" />
+    <MESSAGE value="2019-6-24-JDK源码阅读—ArrayList" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-6-24-JDK源码阅读—ArrayList" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2019-3-14-《kafka权威指南》读书笔记2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-3-15-SparkSQL应用.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1284,16 +1296,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-1-30-编译原理——语法分析.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="308">
-            <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/2019-5-11-自顶向下的语法分析/52.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1519,8 +1521,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-6-24-JDK源码阅读—ArrayList.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <first_editor relative-caret-position="220">
+            <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
             <folding>
               <marker date="1561472673474" expanded="true" signature="10806:12977" ph="{...}" />
               <marker date="1561472673474" expanded="true" signature="11018:11033" ph=" { " />
@@ -1558,6 +1560,28 @@
               <marker date="1561472673474" expanded="true" signature="23678:23693" ph=" { " />
               <marker date="1561472673474" expanded="true" signature="23763:23773" ph=" }" />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-1-30-编译原理——语法分析.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-6-26-自底向上的语法分析.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="132">
+            <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="35" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>

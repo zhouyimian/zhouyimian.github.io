@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-7-27-ElasticSearch初识.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-7-27-ElasticSearch初识/64.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +17,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-7-27-ElasticSearch初识.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="176">
-                <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <first_editor relative-caret-position="374">
+                <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
                 <folding>
                   <marker date="1564232661722" expanded="true" signature="817:2183" ph="{&quot;took&quot;: 0...}" />
                   <marker date="1564232661722" expanded="true" signature="908:1018" ph="{&quot;total&quot;: 1...}" />
@@ -591,14 +589,7 @@
       <workItem from="1561540201276" duration="2900000" />
       <workItem from="1561774105479" duration="1030000" />
       <workItem from="1563459728386" duration="894000" />
-      <workItem from="1564232554140" duration="112000" />
-    </task>
-    <task id="LOCAL-00090" summary="2019-4-20-nginx+flume+hdfs+MR+HBase日志分析">
-      <created>1555777644119</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1555777644119</updated>
+      <workItem from="1564232554140" duration="173000" />
     </task>
     <task id="LOCAL-00091" summary="2019-3-24-《数据仓库工具箱 维度权威建模指南 第三版》读书笔记">
       <created>1555858624256</created>
@@ -936,14 +927,22 @@
       <option name="project" value="LOCAL" />
       <updated>1563459988345</updated>
     </task>
-    <option name="localTasksCounter" value="139" />
+    <task id="LOCAL-00139" summary="2019-7-27-ElasticSearch初识">
+      <created>1564232679369</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1564232679369</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125398000" />
+    <option name="totallyTimeSpent" value="125459000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1849" height="1102" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -957,7 +956,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25071064" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25071064" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -985,7 +984,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="修改了下格式" />
     <MESSAGE value="2019-4-16-《大数据日知录：架构与算法》读书笔记1" />
     <MESSAGE value="2019-5-2-《大数据日知录：架构与算法》读书笔记2" />
     <MESSAGE value="2019-5-3-《大数据日知录：架构与算法》读书笔记3" />
@@ -1010,7 +1008,8 @@
     <MESSAGE value="2019-6-26-JDK源码阅读—LinkedList" />
     <MESSAGE value="2019-6-29-JDK源码阅读—HashMap（1）" />
     <MESSAGE value="2019-7-18-mysql Server层架构" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-7-18-mysql Server层架构" />
+    <MESSAGE value="2019-7-27-ElasticSearch初识" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-7-27-ElasticSearch初识" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1552,8 +1551,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-7-27-ElasticSearch初识.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="176">
-            <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <first_editor relative-caret-position="374">
+            <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
             <folding>
               <marker date="1564232661722" expanded="true" signature="817:2183" ph="{&quot;took&quot;: 0...}" />
               <marker date="1564232661722" expanded="true" signature="908:1018" ph="{&quot;total&quot;: 1...}" />

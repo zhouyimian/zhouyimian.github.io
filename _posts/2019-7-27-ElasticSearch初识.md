@@ -4,7 +4,7 @@ title:      ElasticSearch初识
 subtitle:   
 date:       2019-7-27
 author:     BY KiloMeter
-header-img: img/2019-7-27-ElasticSearch初识/64.png
+header-img: img/2019-7-27-ElasticSearch初识/64.jpg
 catalog: true
 tags:
     - ElasticSearch

@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-9-22-Druid初识.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-9-22-Druid初识/67.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-9-22-Druid初识/Druid数据结构.webp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-9-22-Druid初识/Druid节点关系.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-9-22-Druid初识.md" afterPath="$PROJECT_DIR$/_posts/2019-9-22-Druid初识.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,8 +18,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-8-4-JDK源码阅读—ThreadPoolExecutor.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="154">
-                <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <first_editor relative-caret-position="220">
+                <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
                 <folding>
                   <marker date="1564919225412" expanded="true" signature="9288:9427" ph="{...}" />
                   <marker date="1564919225412" expanded="true" signature="9454:9469" ph=" { " />
@@ -47,8 +44,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-9-22-Druid初识.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="80">
-                <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+              <first_editor relative-caret-position="198">
+                <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -656,14 +653,7 @@
       <workItem from="1564838425223" duration="2474000" />
       <workItem from="1564919123603" duration="787000" />
       <workItem from="1566994980886" duration="276000" />
-      <workItem from="1569139341517" duration="1907000" />
-    </task>
-    <task id="LOCAL-00097" summary="2019-4-16-《大数据日知录：架构与算法》读书笔记1">
-      <created>1556790237590</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1556790237590</updated>
+      <workItem from="1569139341517" duration="2654000" />
     </task>
     <task id="LOCAL-00098" summary="2019-5-2-《大数据日知录：架构与算法》读书笔记2">
       <created>1556870999480</created>
@@ -1001,11 +991,18 @@
       <option name="project" value="LOCAL" />
       <updated>1569139680066</updated>
     </task>
-    <option name="localTasksCounter" value="146" />
+    <task id="LOCAL-00146" summary="2019-9-22-Druid初识">
+      <created>1569153554755</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1569153554755</updated>
+    </task>
+    <option name="localTasksCounter" value="147" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131154000" />
+    <option name="totallyTimeSpent" value="131901000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1848" height="1102" extended-state="6" />
@@ -1050,7 +1047,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2019-5-8-操作系统(2)" />
     <MESSAGE value="2019-5-7-奇安信集团(360企业安全)面经" />
     <MESSAGE value="2019-5-9-操作系统(3)" />
     <MESSAGE value="2019-1-30-编译原理——语法分析" />
@@ -1075,7 +1071,8 @@
     <MESSAGE value="2019-8-4-JDK源码阅读—ThreadPoolExecutor" />
     <MESSAGE value="2019-7-25-Mapreduce原理" />
     <MESSAGE value="2019-9-22-LSM" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-9-22-LSM" />
+    <MESSAGE value="2019-9-22-Druid初识" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-9-22-Druid初识" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1573,11 +1570,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/2019-9-22-Druid初识/Druid节点关系.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/2019-9-22-Druid初识/Druid数据结构.webp">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/2019-9-22-Druid初识/67.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-8-4-JDK源码阅读—ThreadPoolExecutor.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="154">
-            <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <first_editor relative-caret-position="220">
+            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
             <folding>
               <marker date="1564919225412" expanded="true" signature="9288:9427" ph="{...}" />
               <marker date="1564919225412" expanded="true" signature="9454:9469" ph=" { " />
@@ -1597,26 +1609,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/2019-9-22-Druid初识/Druid节点关系.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/2019-9-22-Druid初识/Druid数据结构.webp">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/2019-9-22-Druid初识/67.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-9-22-Druid初识.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="80">
-            <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <first_editor relative-caret-position="198">
+            <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
             <folding />
           </first_editor>
           <second_editor />

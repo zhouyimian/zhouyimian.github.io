@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-10-2 Kerberos集群配置.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-10-2 Kerberos集群配置/68.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-10-2 Kerberos集群配置/本地开启消费者程序报错.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-10-2 Kerberos集群配置/添加kafka的JVM参数.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-10-2 Kerberos集群配置/配置完成后生产者警告消息.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-9-22-LSM.md" afterPath="$PROJECT_DIR$/_posts/2019-9-22-LSM.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -593,14 +587,7 @@
       <workItem from="1564919123603" duration="787000" />
       <workItem from="1566994980886" duration="276000" />
       <workItem from="1569139341517" duration="3552000" />
-      <workItem from="1570003493334" duration="344000" />
-    </task>
-    <task id="LOCAL-00100" summary="2019-5-3-《大数据日知录：架构与算法》读书笔记3">
-      <created>1556979844487</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1556979844487</updated>
+      <workItem from="1570003493334" duration="397000" />
     </task>
     <task id="LOCAL-00101" summary="2019-5-5-计算机组成原理—系统总线">
       <created>1557055563852</created>
@@ -938,11 +925,18 @@
       <option name="project" value="LOCAL" />
       <updated>1569154421031</updated>
     </task>
-    <option name="localTasksCounter" value="149" />
+    <task id="LOCAL-00149" summary="2019-10-2 Kerberos集群配置">
+      <created>1570003848713</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1570003848714</updated>
+    </task>
+    <option name="localTasksCounter" value="150" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133143000" />
+    <option name="totallyTimeSpent" value="133196000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1849" height="1102" extended-state="6" />
@@ -988,7 +982,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2019-5-7-奇安信集团(360企业安全)面经" />
     <MESSAGE value="2019-5-9-操作系统(3)" />
     <MESSAGE value="2019-1-30-编译原理——语法分析" />
     <MESSAGE value="2019-5-19-JDK源码阅读—Object" />
@@ -1013,7 +1006,8 @@
     <MESSAGE value="2019-7-25-Mapreduce原理" />
     <MESSAGE value="2019-9-22-LSM" />
     <MESSAGE value="2019-9-22-Druid初识" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-9-22-Druid初识" />
+    <MESSAGE value="2019-10-2 Kerberos集群配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-10-2 Kerberos集群配置" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

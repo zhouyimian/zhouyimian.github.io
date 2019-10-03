@@ -3,7 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-10-2 Kerberos集群配置.md" afterPath="$PROJECT_DIR$/_posts/2019-10-2-Kerberos集群配置.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-10-2-Kerberos集群配置.md" afterPath="$PROJECT_DIR$/_posts/2019-10-2-Kerberos集群配置.md" />
+      <change beforePath="$PROJECT_DIR$/img/2019-10-2 Kerberos集群配置/68.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/2019-10-2 Kerberos集群配置/68.png" afterPath="$PROJECT_DIR$/img/2019-10-2-Kerberos集群配置/68.png" />
+      <change beforePath="$PROJECT_DIR$/img/2019-10-2 Kerberos集群配置/本地开启消费者程序报错.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/2019-10-2 Kerberos集群配置/本地开启消费者程序报错.png" afterPath="$PROJECT_DIR$/img/2019-10-2-Kerberos集群配置/本地开启消费者程序报错.png" />
+      <change beforePath="$PROJECT_DIR$/img/2019-10-2 Kerberos集群配置/添加kafka的JVM参数.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/2019-10-2 Kerberos集群配置/添加kafka的JVM参数.png" afterPath="$PROJECT_DIR$/img/2019-10-2-Kerberos集群配置/添加kafka的JVM参数.png" />
+      <change beforePath="$PROJECT_DIR$/img/2019-10-2 Kerberos集群配置/配置完成后生产者警告消息.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/2019-10-2 Kerberos集群配置/配置完成后生产者警告消息.png" afterPath="$PROJECT_DIR$/img/2019-10-2-Kerberos集群配置/配置完成后生产者警告消息.png" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,7 +62,7 @@
         </entry>
       </file>
       <file leaf-file-name="本地开启消费者程序报错.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/2019-10-2 Kerberos集群配置/本地开启消费者程序报错.png">
+        <entry file="file://$PROJECT_DIR$/img/2019-10-2-Kerberos集群配置/本地开启消费者程序报错.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -64,8 +72,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-10-2-Kerberos集群配置.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="154">
-                <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <first_editor relative-caret-position="198">
+                <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -330,7 +338,7 @@
               <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="2019-10-2 Kerberos集群配置" type="462c0819:PsiDirectoryNode" />
+              <item name="2019-10-2-Kerberos集群配置" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -595,14 +603,7 @@
       <workItem from="1566994980886" duration="276000" />
       <workItem from="1569139341517" duration="3552000" />
       <workItem from="1570003493334" duration="1461000" />
-      <workItem from="1570109218246" duration="354000" />
-    </task>
-    <task id="LOCAL-00103" summary="2019-5-5-计算机组成原理—系统总线">
-      <created>1557056484624</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1557056484624</updated>
+      <workItem from="1570109218246" duration="1105000" />
     </task>
     <task id="LOCAL-00104" summary="2019-5-5-计算机组成原理—系统总线">
       <created>1557101708466</created>
@@ -940,11 +941,18 @@
       <option name="project" value="LOCAL" />
       <updated>1570109452644</updated>
     </task>
-    <option name="localTasksCounter" value="152" />
+    <task id="LOCAL-00152" summary="2019-10-2 Kerberos集群配置">
+      <created>1570109579553</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1570109579553</updated>
+    </task>
+    <option name="localTasksCounter" value="153" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134614000" />
+    <option name="totallyTimeSpent" value="135365000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1849" height="1102" extended-state="6" />
@@ -1368,7 +1376,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/2019-10-2 Kerberos集群配置/本地开启消费者程序报错.png">
+    <entry file="file://$PROJECT_DIR$/img/2019-10-2-Kerberos集群配置/本地开启消费者程序报错.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -1442,8 +1450,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-10-2-Kerberos集群配置.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="154">
-            <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <first_editor relative-caret-position="198">
+            <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
             <folding />
           </first_editor>
           <second_editor />

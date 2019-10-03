@@ -61,13 +61,13 @@ sasl.kerberos.service.name=kafka
  
 之后需要修改kafka的JVM启动参数，添加kerberos的相关变量，如下。
 
-![](/img/2019-10-2 Kerberos集群配置/添加kafka的JVM参数.png)
+![](/img/2019-10-2-Kerberos集群配置/添加kafka的JVM参数.png)
 
 到这里就配置完成了，接下来重启下kafka即可。
 
 在所有配置都配置完之后，在某一台broker上开启生产者程序，在本地上开启消费者程序，生产者生产数据后报如下警告
 
-![](/img/2019-10-2 Kerberos集群配置/配置完成后生产者警告消息.png)
+![](/img/2019-10-2-Kerberos集群配置/配置完成后生产者警告消息.png)
 
 这种情况似乎是开启kerberos后，开启生产者的命令需要添加一些其他的参数，暂时还未研究，但这个警告不影响kafka服务的使用。
 
@@ -99,7 +99,7 @@ sasl.kerberos.service.name=kafka
 
 本地开启消费者程序报错
 
-![](/img/2019-10-2 Kerberos集群配置/本地开启消费者程序报错.png)
+![](/img/2019-10-2-Kerberos集群配置/本地开启消费者程序报错.png)
 
 解决方法：
 

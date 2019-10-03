@@ -4,7 +4,7 @@ title:      Kerberos集群配置
 subtitle:   
 date:       2019-10-2
 author:     BY KiloMeter
-header-img: img/2019-10-2 Kerberos集群配置/68.png
+header-img: img/2019-10-2-Kerberos集群配置/68.png
 catalog: true
 tags:
     - Kerberos

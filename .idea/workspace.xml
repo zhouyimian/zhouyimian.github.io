@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-10-2 Kerberos集群配置.md" afterPath="$PROJECT_DIR$/_posts/2019-10-2 Kerberos集群配置.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,8 +64,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-10-2 Kerberos集群配置.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="154">
-                <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <first_editor relative-caret-position="132">
+                <caret line="60" column="1" lean-forward="false" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -330,8 +331,8 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -587,14 +588,8 @@
       <workItem from="1564919123603" duration="787000" />
       <workItem from="1566994980886" duration="276000" />
       <workItem from="1569139341517" duration="3552000" />
-      <workItem from="1570003493334" duration="397000" />
-    </task>
-    <task id="LOCAL-00101" summary="2019-5-5-计算机组成原理—系统总线">
-      <created>1557055563852</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1557055563853</updated>
+      <workItem from="1570003493334" duration="1461000" />
+      <workItem from="1570109218246" duration="226000" />
     </task>
     <task id="LOCAL-00102" summary="2019-5-5-计算机组成原理—系统总线">
       <created>1557055622190</created>
@@ -932,11 +927,18 @@
       <option name="project" value="LOCAL" />
       <updated>1570003848714</updated>
     </task>
-    <option name="localTasksCounter" value="150" />
+    <task id="LOCAL-00150" summary="2019-10-2 Kerberos集群配置">
+      <created>1570003895095</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1570003895095</updated>
+    </task>
+    <option name="localTasksCounter" value="151" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133196000" />
+    <option name="totallyTimeSpent" value="134486000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1849" height="1102" extended-state="6" />
@@ -953,9 +955,9 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27913588" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2842524" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1319,7 +1321,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1330,7 +1331,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="286">
             <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1341,7 +1341,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="198">
             <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="10" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1436,8 +1435,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-10-2 Kerberos集群配置.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="154">
-            <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <first_editor relative-caret-position="132">
+            <caret line="60" column="1" lean-forward="false" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
             <folding />
           </first_editor>
           <second_editor />

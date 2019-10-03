@@ -58,7 +58,7 @@ sasl.enabled.mechanisms=GSSAPI
 #这里的name需要修改成上面创建账号时使用的用户名，我这里创建的用户名都统一为kafka
 sasl.kerberos.service.name=kafka
 ```
-
+ 
 之后需要修改kafka的JVM启动参数，添加kerberos的相关变量，如下。
 
 ![](/img/2019-10-2 Kerberos集群配置/添加kafka的JVM参数.png)

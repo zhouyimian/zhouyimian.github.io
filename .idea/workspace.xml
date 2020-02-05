@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2020-02-03-IO模型学习.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2020-02-03-IO模型学习/69.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2020-02-03-IO模型学习/IO复用模型.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2020-02-03-IO模型学习/五种IO模型比较.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2020-02-03-IO模型学习/信号驱动IO模型.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2020-02-03-IO模型学习/异步IO模型.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2020-02-03-IO模型学习/阻塞IO模型.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2020-02-03-IO模型学习/非阻塞IO模型.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-03-IO模型学习.md" afterPath="$PROJECT_DIR$/_posts/2020-02-03-IO模型学习.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,12 +14,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="2019-10-2-Kerberos集群配置.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-10-2-Kerberos集群配置.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="2020-02-03-IO模型学习.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2020-02-03-IO模型学习.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="220">
-                <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              <first_editor relative-caret-position="176">
+                <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -224,9 +230,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -260,13 +265,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leetcode" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -520,14 +526,9 @@
       <workItem from="1570375007003" duration="93000" />
       <workItem from="1574602986602" duration="159000" />
       <workItem from="1576115420456" duration="640000" />
-      <workItem from="1580749771731" duration="268000" />
-    </task>
-    <task id="LOCAL-00107" summary="2019-5-7-奇安信集团(360企业安全)面经">
-      <created>1557229774703</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1557229774704</updated>
+      <workItem from="1580749771731" duration="575000" />
+      <workItem from="1580750930716" duration="307000" />
+      <workItem from="1580873961085" duration="120000" />
     </task>
     <task id="LOCAL-00108" summary="2019-4-24-计算机网络基础(1)">
       <created>1557277455469</created>
@@ -865,11 +866,18 @@
       <option name="project" value="LOCAL" />
       <updated>1576115458187</updated>
     </task>
-    <option name="localTasksCounter" value="156" />
+    <task id="LOCAL-00156" summary="2020-02-03-IO模型学习">
+      <created>1580750050584</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1580750050585</updated>
+    </task>
+    <option name="localTasksCounter" value="157" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137226000" />
+    <option name="totallyTimeSpent" value="137960000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1836" height="1102" extended-state="6" />
@@ -881,13 +889,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24387528" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30584192" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31729668" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -895,8 +903,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -916,7 +924,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2019-1-30-编译原理——语法分析" />
     <MESSAGE value="2019-5-19-JDK源码阅读—Object" />
     <MESSAGE value="2019-4-24-计算机网络基础(1)" />
     <MESSAGE value="2019-5-20-JDK源码阅读—String" />
@@ -941,7 +948,8 @@
     <MESSAGE value="2019-10-2 Kerberos集群配置" />
     <MESSAGE value="2019-2-18-HBase环境搭建及初识" />
     <MESSAGE value="2019-7-25-Mapreduce原理" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-7-25-Mapreduce原理" />
+    <MESSAGE value="2020-02-03-IO模型学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-02-03-IO模型学习" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1278,28 +1286,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding>
-              <marker date="1561034372513" expanded="true" signature="626:642" ph="select * fro... 表名" />
-              <marker date="1561034372513" expanded="true" signature="781:797" ph="select * fro... 表名" />
-              <marker date="1561034372513" expanded="true" signature="2086:2288" ph="create table... if" />
-              <marker date="1561034372513" expanded="true" signature="2456:2519" ph="select * fro... track_log" />
-              <marker date="1561034372513" expanded="true" signature="2521:2568" ph="select * fro... track_log" />
-              <marker date="1561034372513" expanded="true" signature="2932:3155" ph="..." />
-              <marker date="1561034372513" expanded="true" signature="3167:3401" ph="..." />
-              <marker date="1561034372513" expanded="true" signature="3254:3389" ph="..." />
-              <marker date="1561034372513" expanded="true" signature="3477:3683" ph="..." />
-              <marker date="1561034372513" expanded="true" signature="3556:3671" ph="..." />
-              <marker date="1561034372513" expanded="true" signature="4067:4312" ph="..." />
-              <marker date="1561034372513" expanded="true" signature="4164:4300" ph="..." />
-              <marker date="1561034372513" expanded="true" signature="4389:4939" ph="..." />
-              <marker date="1561034372513" expanded="true" signature="4410:4569" ph="..." />
-              <marker date="1561034372513" expanded="true" signature="4590:4744" ph="..." />
-              <marker date="1561034372513" expanded="true" signature="4765:4919" ph="..." />
-              <marker date="1561034372513" expanded="true" signature="5062:5199" ph="{...}" />
-              <marker date="1561034372513" expanded="false" signature="5243:5254" ph=" { " />
-              <marker date="1561034372513" expanded="false" signature="5318:5324" ph=" }" />
-              <marker date="1561034372513" expanded="true" signature="5600:5633" ph="select zlowe... emp" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1310,13 +1296,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="4532">
             <caret line="206" column="97" lean-forward="false" selection-start-line="206" selection-start-column="97" selection-end-line="206" selection-end-column="97" />
-            <folding>
-              <marker date="1561034372514" expanded="true" signature="1439:1687" ph="..." />
-              <marker date="1561034372514" expanded="true" signature="1699:1871" ph="..." />
-              <marker date="1561034372514" expanded="true" signature="1883:2040" ph="..." />
-              <marker date="1561034372514" expanded="true" signature="2052:2214" ph="..." />
-              <marker date="1561034372514" expanded="true" signature="3616:3786" ph="..." />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1327,14 +1306,41 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="3124">
             <caret line="142" column="0" lean-forward="false" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
-            <folding>
-              <marker date="1574603019463" expanded="true" signature="466:1071" ph="..." />
-              <marker date="1574603019463" expanded="true" signature="478:591" ph="..." />
-              <marker date="1574603019463" expanded="true" signature="603:679" ph="..." />
-              <marker date="1574603019463" expanded="true" signature="691:807" ph="..." />
-              <marker date="1574603019463" expanded="true" signature="819:914" ph="..." />
-              <marker date="1574603019463" expanded="true" signature="926:1054" ph="..." />
-            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-7-25-Mapreduce原理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-314">
+            <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-6-26-自底向上的语法分析.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1056">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/2020-02-03-IO模型学习/IO复用模型.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-7-27-ElasticSearch初识.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-3498">
+            <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
           </first_editor>
           <second_editor />
         </state>
@@ -1351,65 +1357,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-7-25-Mapreduce原理.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-314">
-            <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-6-26-自底向上的语法分析.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1056">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/2020-02-03-IO模型学习/IO复用模型.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-7-27-ElasticSearch初识.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-3498">
-            <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-            <folding>
-              <marker date="1567947749118" expanded="true" signature="2783:2839" ph="{&quot;from&quot;: 1...}" />
-              <marker date="1567947749118" expanded="true" signature="2903:2965" ph="{...}" />
-              <marker date="1567947749118" expanded="true" signature="4523:4694" ph="{...}" />
-              <marker date="1567947749118" expanded="true" signature="4545:4597" ph="{...}" />
-              <marker date="1567947749118" expanded="true" signature="4560:4593" ph="{&quot;name&quot;: &quot;jiajieshi&quot;...}" />
-              <marker date="1567947749118" expanded="true" signature="4610:4692" ph="{...}" />
-              <marker date="1567947749118" expanded="true" signature="4633:4688" ph="{...}" />
-              <marker date="1567947749118" expanded="true" signature="4650:4682" ph="{&quot;field&quot;: &quot;tags&quot;...}" />
-              <marker date="1567947749118" expanded="true" signature="4753:4966" ph="{...}" />
-              <marker date="1567947749118" expanded="true" signature="4768:4964" ph="{...}" />
-              <marker date="1567947749118" expanded="true" signature="4791:4960" ph="{...}" />
-              <marker date="1567947749118" expanded="true" signature="4808:4840" ph="{&quot;field&quot;: &quot;tags&quot;...}" />
-              <marker date="1567947749118" expanded="true" signature="4855:4954" ph="{...}" />
-              <marker date="1567947749118" expanded="true" signature="4877:4946" ph="{...}" />
-              <marker date="1567947749118" expanded="true" signature="4895:4936" ph="{&quot;field&quot;: &quot;price&quot;...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2020-02-03-IO模型学习.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="220">
-            <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <first_editor relative-caret-position="176">
+            <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

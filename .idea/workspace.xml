@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2020-02-19-InnoDB存储引擎(1).md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2020-02-19-InnoDB存储引擎(1)/70.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2020-02-19-InnoDB存储引擎(1)/Innodb体系结构.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2020-02-19-InnoDB存储引擎(1)/Innodb内存情况.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2020-02-19-InnoDB存储引擎(1)/Innodb存储引擎内存结构.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-03-IO模型学习.md" afterPath="$PROJECT_DIR$/_posts/2020-02-03-IO模型学习.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,6 +22,19 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-10-2-Kerberos集群配置.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
+              <first_editor relative-caret-position="176">
+                <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2020-02-03-IO模型学习.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2020-02-03-IO模型学习.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
                 <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
                 <folding />
@@ -27,12 +44,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2020-02-03-IO模型学习.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2020-02-03-IO模型学习.md">
+      <file leaf-file-name="2020-02-19-InnoDB存储引擎(1).md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2020-02-19-InnoDB存储引擎(1).md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="285">
-                <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+              <first_editor relative-caret-position="388">
+                <caret line="116" column="0" lean-forward="true" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -44,7 +61,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>D:\githubIO博客\2019-3-24-《数据仓库工具箱 维度权威建模指南 第三版》读书笔记\</find>
       <find>42.p</find>
       <find>D:\githubIO博客\2019-4-25-计算机组成原理—计算机系统概述\</find>
       <find>行时一直显示连接失败，错误还</find>
@@ -74,6 +90,7 @@
       <find>create table t1(eid int,name string,sex string) row</find>
       <find>core-site.xml</find>
       <find>D:\githubIO博客\2020-02-03-IO模型学习\</find>
+      <find>D:\githubIO博客\2020-02-19-InnoDB存储引擎(1)\</find>
     </findStrings>
     <replaceStrings>
       <replace>zhouyimian</replace>
@@ -98,6 +115,7 @@
       <replace>/img/2019-6-26-自底向上的语法分析/</replace>
       <replace>/2020-02-03-IO模型学习/</replace>
       <replace>/img/2020-02-03-IO模型学习/</replace>
+      <replace>/img/2020-02-19-InnoDB存储引擎(1)/</replace>
     </replaceStrings>
     <dirStrings>
       <dir>D:\IDEA_project\zhouyimian.github.io\img\view</dir>
@@ -116,7 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/img/2019-3-15-SparkSQL应用/2019-3-15-SparkSQL应用.md" />
         <option value="$PROJECT_DIR$/_posts/2019-3-15-SparkSQL应用.md" />
         <option value="$PROJECT_DIR$/img/2019-4-14-nginx+flume+hdfs收集日志/2019-4-14-nginx+flume+hdfs收集日志.md" />
         <option value="$PROJECT_DIR$/_posts/2019-4-14-nginx+flume+hdfs收集日志.md" />
@@ -164,9 +181,10 @@
         <option value="$PROJECT_DIR$/_posts/2019-9-22-Druid初识.md" />
         <option value="$PROJECT_DIR$/_posts/2019-9-22-LSM.md" />
         <option value="$PROJECT_DIR$/_posts/2019-10-2 Kerberos集群配置.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-10-2-Kerberos集群配置.md" />
         <option value="$PROJECT_DIR$/_posts/2019-2-18-HBase环境搭建及初识.md" />
         <option value="$PROJECT_DIR$/_posts/2020-02-03-IO模型学习.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-10-2-Kerberos集群配置.md" />
+        <option value="$PROJECT_DIR$/_posts/2020-02-19-InnoDB存储引擎(1).md" />
       </list>
     </option>
   </component>
@@ -231,7 +249,9 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -253,20 +273,12 @@
               <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="2019-10-2-Kerberos集群配置" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="2020-02-03-IO模型学习" type="462c0819:PsiDirectoryNode" />
+              <item name="2020-02-19-InnoDB存储引擎(1)" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -281,16 +293,16 @@
     <property name="GO_FMT" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA_project\zhouyimian.github.io\img\2020-02-19-InnoDB存储引擎(1)" />
+      <recent name="E:\IDEA_project\zhouyimian.github.io\img" />
+      <recent name="E:\IDEA_project\zhouyimian.github.io\img\2020-02-03-IO模型学习" />
+      <recent name="E:\IDEA_project\zhouyimian.github.io\_posts" />
+      <recent name="E:\IDEA_project\zhouyimian.github.io\img\2019-10-2 Kerberos集群配置" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\IDEA_project\zhouyimian.github.io\_posts" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\IDEA_project\zhouyimian.github.io\img\2020-02-03-IO模型学习" />
-      <recent name="E:\IDEA_project\zhouyimian.github.io\_posts" />
-      <recent name="E:\IDEA_project\zhouyimian.github.io\img" />
-      <recent name="E:\IDEA_project\zhouyimian.github.io\img\2019-10-2 Kerberos集群配置" />
-      <recent name="E:\IDEA_project\zhouyimian.github.io\img\2019-7-25-Mapreduce原理" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -528,14 +540,8 @@
       <workItem from="1576115420456" duration="640000" />
       <workItem from="1580749771731" duration="575000" />
       <workItem from="1580750930716" duration="307000" />
-      <workItem from="1580873961085" duration="860000" />
-    </task>
-    <task id="LOCAL-00109" summary="2019-5-8-操作系统(2)">
-      <created>1557393591347</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1557393591348</updated>
+      <workItem from="1580873961085" duration="1706000" />
+      <workItem from="1582178932960" duration="439000" />
     </task>
     <task id="LOCAL-00110" summary="2019-5-9-操作系统(3)">
       <created>1557491680173</created>
@@ -873,14 +879,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580874087398</updated>
     </task>
-    <option name="localTasksCounter" value="158" />
+    <task id="LOCAL-00158" summary="2020-02-03-IO模型学习">
+      <created>1580881548317</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1580881548317</updated>
+    </task>
+    <option name="localTasksCounter" value="159" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138700000" />
+    <option name="totallyTimeSpent" value="139985000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1836" height="1102" extended-state="6" />
+    <frame x="-11" y="-11" width="1838" height="1102" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -889,13 +902,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24387528" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32322654" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31729668" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -903,8 +916,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -956,21 +969,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/2019-5-19-JDK源码阅读—Object/53.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-5-6-操作系统(1).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-4-24-计算机网络基础(1).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1346,7 +1344,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/2020-02-19-InnoDB存储引擎(1)/Innodb体系结构.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-10-2-Kerberos集群配置.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="176">
+            <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2020-02-03-IO模型学习.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -1357,11 +1371,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2020-02-03-IO模型学习.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2020-02-19-InnoDB存储引擎(1).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <first_editor relative-caret-position="388">
+            <caret line="116" column="0" lean-forward="true" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

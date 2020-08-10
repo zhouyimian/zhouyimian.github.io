@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2020-3-3-flink运行架构.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2020-3-3-flink运行架构/71.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2020-3-3-flink运行架构/flink任务提交流程(standalone模式).png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2020-3-3-flink运行架构/flink任务提交流程(yarn模式).png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2020-08-11-Java IO基础知识.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2020-08-11-Java IO基础知识/72.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/2020-08-11-Java IO基础知识/IO框架.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,12 +55,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2020-3-3-flink运行架构.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2020-3-3-flink运行架构.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2020-3-3-flink运行架构.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="92">
-                <caret line="45" column="37" lean-forward="false" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2020-08-11-Java IO基础知识.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2020-08-11-Java IO基础知识.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="176">
+                <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -154,7 +166,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/img/2019-4-14-nginx+flume+hdfs收集日志/2019-4-14-nginx+flume+hdfs收集日志.md" />
         <option value="$PROJECT_DIR$/_posts/2019-4-14-nginx+flume+hdfs收集日志.md" />
         <option value="$PROJECT_DIR$/img/2019-4-15-Sqoop使用/2019-4-15-Sqoop使用.md" />
         <option value="$PROJECT_DIR$/_posts/2019-4-15-Sqoop使用.md" />
@@ -205,6 +216,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-10-2-Kerberos集群配置.md" />
         <option value="$PROJECT_DIR$/_posts/2020-02-19-InnoDB存储引擎(1).md" />
         <option value="$PROJECT_DIR$/_posts/2020-3-3-flink运行架构.md" />
+        <option value="$PROJECT_DIR$/_posts/2020-08-11-Java IO基础知识.md" />
       </list>
     </option>
   </component>
@@ -297,14 +309,20 @@
               <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="2020-3-3-flink运行架构" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="2020-08-11-Java IO基础知识" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scratches" />
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -319,16 +337,16 @@
     <property name="GO_FMT" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA_project\zhouyimian.github.io\img\2020-08-11-Java IO基础知识" />
+      <recent name="E:\IDEA_project\zhouyimian.github.io\img" />
+      <recent name="E:\IDEA_project\zhouyimian.github.io\img\2020-3-3-flink运行架构" />
+      <recent name="E:\IDEA_project\zhouyimian.github.io\img\2020-02-19-InnoDB存储引擎(1)" />
+      <recent name="E:\IDEA_project\zhouyimian.github.io\img\2020-02-03-IO模型学习" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\IDEA_project\zhouyimian.github.io\_posts" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\IDEA_project\zhouyimian.github.io\img\2020-3-3-flink运行架构" />
-      <recent name="E:\IDEA_project\zhouyimian.github.io\img" />
-      <recent name="E:\IDEA_project\zhouyimian.github.io\img\2020-02-19-InnoDB存储引擎(1)" />
-      <recent name="E:\IDEA_project\zhouyimian.github.io\img\2020-02-03-IO模型学习" />
-      <recent name="E:\IDEA_project\zhouyimian.github.io\_posts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -568,14 +586,8 @@
       <workItem from="1580750930716" duration="307000" />
       <workItem from="1580873961085" duration="1706000" />
       <workItem from="1582178932960" duration="1691000" />
-      <workItem from="1583291266408" duration="207000" />
-    </task>
-    <task id="LOCAL-00111" summary="2019-5-9-操作系统(3)">
-      <created>1557502663056</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1557502663057</updated>
+      <workItem from="1583291266408" duration="816000" />
+      <workItem from="1597103603230" duration="250000" />
     </task>
     <task id="LOCAL-00112" summary="2019-5-9-操作系统(3)">
       <created>1557502968972</created>
@@ -913,14 +925,22 @@
       <option name="project" value="LOCAL" />
       <updated>1582179378834</updated>
     </task>
-    <option name="localTasksCounter" value="160" />
+    <task id="LOCAL-00160" summary="2020-3-3-flink运行架构">
+      <created>1583291480885</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1583291480886</updated>
+    </task>
+    <option name="localTasksCounter" value="161" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="141444000" />
+    <option name="totallyTimeSpent" value="142303000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1836" height="1102" extended-state="6" />
+    <frame x="-11" y="-11" width="1830" height="1102" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -935,7 +955,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32932416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33563218" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -964,7 +984,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2019-4-24-计算机网络基础(1)" />
     <MESSAGE value="2019-5-20-JDK源码阅读—String" />
     <MESSAGE value="2019-5-28-JDK源码阅读—AbstractStringBuilder" />
     <MESSAGE value="2019-5-29-JDK源码阅读—AbstractCollection" />
@@ -989,18 +1008,14 @@
     <MESSAGE value="2019-7-25-Mapreduce原理" />
     <MESSAGE value="2020-02-03-IO模型学习" />
     <MESSAGE value="2020-02-19-InnoDB存储引擎(1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-02-19-InnoDB存储引擎(1)" />
+    <MESSAGE value="2020-3-3-flink运行架构" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-3-3-flink运行架构" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/2019-5-28-JDK源码阅读—AbstractStringBuilder/55.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-5-20-JDK源码阅读—String.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1397,8 +1412,19 @@
     <entry file="file://$PROJECT_DIR$/_posts/2020-3-3-flink运行架构.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="92">
-            <caret line="45" column="37" lean-forward="false" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2020-08-11-Java IO基础知识.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="176">
+            <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
             <folding />
           </first_editor>
           <second_editor />
